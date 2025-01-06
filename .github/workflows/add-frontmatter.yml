@@ -1,0 +1,27 @@
+name: Add Frontmatter to MD Files
+on: [workflow_dispatch]  # This allows manual triggering
+
+jobs:
+  add-frontmatter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: add-frontmatter
+      
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.x'
+      
+      - name: Add Frontmatter
+        run: |
+          python .github/scripts/add_frontmatter.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Add frontmatter to all markdown files"
+          git push
