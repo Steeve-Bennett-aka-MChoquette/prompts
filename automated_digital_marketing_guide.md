@@ -1,3 +1,11 @@
+---
+title: "Automated Digital Marketing Guide"
+tags: ["Automation", "Digital Marketing", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/automated_digital_marketing_guide.md"
+---
+
 Create a comprehensive guide on automated digital marketing services that includes the following components:
 
 - **Definition and Overview**: Explain what automated digital marketing services are and their purpose in modern business strategies.

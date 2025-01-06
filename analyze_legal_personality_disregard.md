@@ -1,3 +1,11 @@
+---
+title: "Analyze Legal Personality Disregard"
+tags: ["Corporate Career", "Entrepreneur", "Legal"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_legal_personality_disregard.md"
+---
+
 Discuss in detail the circumstances under which the principle of separate legal personality, which states that a company is a separate legal entity from its owners and directors, might be disregarded. In your response, cover the following points:
 
 - Explain the concept of "piercing the corporate veil" and when it might be applicable.

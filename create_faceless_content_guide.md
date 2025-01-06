@@ -1,3 +1,11 @@
+---
+title: "Create Faceless Content Guide"
+tags: ["Content Creation", "SEO", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_faceless_content_guide.md"
+---
+
 Create a detailed guide on how to create faceless content for those who are unable to face the camera. The guide should cover the following topics:
 
 - **Introduction**: Explain what faceless content is and why someone might choose to create it.

@@ -1,3 +1,11 @@
+---
+title: "Marketing Insights eBook Outline"
+tags: ["Books", "Marketing", "Outline"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/marketing_insights_ebook_outline.md"
+---
+
 Create an outline for an eBook using marketing insights inspired by David Ogilvy. The outline should:
 
 - Include storytelling elements to make the insights engaging and relatable to the audience.

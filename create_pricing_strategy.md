@@ -1,3 +1,11 @@
+---
+title: "Create Pricing Strategy.md"
+tags: ["Market Research", "Marketing", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_pricing_strategy.md"
+---
+
 Create a pricing strategy for a new product entering the market by focusing on value-based pricing. Consider the following components to generate a specific price recommendation:
 
 - **Value Proposition:** Identify and describe the unique value the product provides to the customer. What benefits does it offer that differentiate it from competitors?

@@ -1,3 +1,11 @@
+---
+title: "Create Scientific Article Guide"
+tags: ["Cybersecurity", "Research", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_scientific_article_guide.md"
+---
+
 Create a detailed guide for writing scientific articles intended for publication in an OT (Operational Technology) cybersecurity magazine. Address the following points:
 
 - **Structure and Organization:**

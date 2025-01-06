@@ -1,3 +1,11 @@
+---
+title: "Brainstorm Interview Questions"
+tags: ["Career Advice", "Job Interview", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_interview_questions.md"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert interview coach helping a candidate prepare for an upcoming job interview.

@@ -1,3 +1,11 @@
+---
+title: "Job Application Preparation"
+tags: ["Career Advice", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/job_application_preparation.md"
+---
+
 ```
 You have a job listing you want to apply for. Follow the steps below to prepare for this application:
 

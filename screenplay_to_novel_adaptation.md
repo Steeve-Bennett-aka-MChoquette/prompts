@@ -1,3 +1,11 @@
+---
+title: "Screenplay To Novel Adaptation"
+tags: ["Books", "Story Writing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/screenplay_to_novel_adaptation.md"
+---
+
 Create a comprehensive outline for transforming a screenplay into a novel. Cover the following aspects:
 
 - **Structure Adaptation**: Outline how to adjust the structure of a screenplay, which is typically heavy on dialogue and scene descriptions, into the narrative-heavy format of a novel. Discuss how to incorporate prose elements such as inner thoughts, setting details, and character development.

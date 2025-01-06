@@ -1,3 +1,11 @@
+---
+title: "Mortgage Insurance Claims Guide"
+tags: ["Home Buying", "Insurance", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/mortgage_insurance_claims_guide.md"
+---
+
 - Provide an overview of what mortgage insurance is and its general principles.
 - Explain under what typical circumstances mortgage insurance claims might be denied.
 - Describe the usual process and criteria for filing a roof replacement claim due to hurricane damage.

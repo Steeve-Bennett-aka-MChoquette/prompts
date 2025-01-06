@@ -1,3 +1,11 @@
+---
+title: "Post Coloring Books Online"
+tags: ["Art", "Content Creation", "E-commerce"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/post_coloring_books_online.md"
+---
+
 - I want to post my coloring books online. Please provide a step-by-step guide on how I can effectively do this.
 - Include details on:
   - How to digitize physical coloring books if necessary.

@@ -1,3 +1,11 @@
+---
+title: "Strategies for LinkedIn Thought Leadership"
+tags: ["Content Creation", "LinkedIn", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/strategies_for_linkedin_thought_leadership.md"
+---
+
 Create a comprehensive report draft on strategies for enhancing thought leadership on LinkedIn in 2025. The report should leverage insights from:
 
 - Your analysis of content trends among your five current clients.

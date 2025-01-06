@@ -1,3 +1,11 @@
+---
+title: "Optimize Content for SEO"
+tags: ["Content Creation", "Marketing", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/optimize_content_for_seo.md"
+---
+
 Create a comprehensive guide on optimizing content for SEO, addressing all relevant dimensions. Your response should cover the following aspects:
 
 - Research and use strategies for both short and long-tail keywords. Discuss how to balance these keywords to capture a broad and niche audience effectively.

@@ -1,3 +1,11 @@
+---
+title: "Create Marketing Sales Letter"
+tags: ["Marketing", "Sales", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_sales_letter.md"
+---
+
 Create a marketing sales letter that:
 
 - Captures the reader's attention right from the beginning.

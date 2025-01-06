@@ -1,3 +1,11 @@
+---
+title: "Operational Technology Cybersecurity WBS"
+tags: ["Cybersecurity", "Project Management", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/operational_technology_cybersecurity_wbs.md"
+---
+
 Create a detailed Work Breakdown Structure (WBS) for an Operational Technology (OT) cybersecurity project. Consider the following elements to ensure comprehensiveness:
 
 - **Project Initiation:**

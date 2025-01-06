@@ -1,3 +1,11 @@
+---
+title: "Write Video Script"
+tags: ["Content Creation", "Video Script", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_video_script.md"
+---
+
 Create a YouTube video script based on the following guidelines:
 
 - **Theme**: Specify the central theme or main topic the video will cover.

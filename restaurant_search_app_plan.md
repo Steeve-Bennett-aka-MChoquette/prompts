@@ -1,3 +1,11 @@
+---
+title: "Restaurant Search App Plan"
+tags: ["App Development", "Software", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/restaurant_search_app_plan.md"
+---
+
 Create a detailed plan for developing a mobile app that enables users to search for restaurants by city. The app should include the following features and functionalities:
 
 - **Search Functionality:**

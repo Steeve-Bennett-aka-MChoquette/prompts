@@ -1,3 +1,11 @@
+---
+title: "African Folk Tale Creation"
+tags: ["Culture", "Story Writing", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/african_folk_tale_creation.md"
+---
+
 Create a detailed and captivating African folk tale story to accompany an AI-generated image. The story should be designed specifically for a YouTube channel to attract and entertain viewers. Follow these guidelines:
 
 - Begin by introducing vibrant and memorable characters inspired by African folklore. Characters could be animals, mystical beings, or humans.

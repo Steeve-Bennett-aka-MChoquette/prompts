@@ -1,3 +1,11 @@
+---
+title: "Coding Master"
+tags: ["Coding", "Content Creation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/coding_master.md"
+---
+
 **Expert coder**
 
 

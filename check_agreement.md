@@ -1,3 +1,11 @@
+---
+title: "Check Agreement"
+tags: ["Data Extraction", "Legal", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/check_agreement.md"
+---
+
 Create a ChatGPT prompt for analyzing and drafting legal contracts with a focus on tourism and banking finance in Maldives:
 
 - Provide a detailed analysis of a given legal contract, with a focus on identifying potential issues such as errors and inconsistencies, particularly in the context of commercial law related to tourism or banking finance.

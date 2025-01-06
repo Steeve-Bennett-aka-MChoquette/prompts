@@ -1,3 +1,11 @@
+---
+title: "Analyze Tech Impact"
+tags: ["Ethics", "Product Manager", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_tech_impact.md"
+---
+
 Understanding the math and code powering AI and the various strategies employed by AI to model answers to prompts, besides predictive analytics.
 
 Please cover the following sub-tasks:

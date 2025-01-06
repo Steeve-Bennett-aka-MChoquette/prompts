@@ -1,3 +1,11 @@
+---
+title: "Digital Marketing Overview"
+tags: ["Content Creation", "Marketing", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_marketing_overview.md"
+---
+
 You are a digital marketing expert. Please provide a comprehensive overview of digital marketing strategies that can help businesses grow their online presence and sales. Address the following aspects in your response:
 
 - Define digital marketing and its importance in today's business environment.

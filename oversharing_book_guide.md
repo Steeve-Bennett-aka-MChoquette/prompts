@@ -1,3 +1,11 @@
+---
+title: "Oversharing Book Guide"
+tags: ["Books", "Content Creation", "Instagram"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/oversharing_book_guide.md"
+---
+
 Help me create a book for Christmas based on my successful Instagram series "Oversharing with Strangers." I need assistance with the following:
 
 - **Content Organization:**

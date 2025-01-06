@@ -1,3 +1,11 @@
+---
+title: "Study Plan Creation"
+tags: ["Medical", "Motivation", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/study_plan_creation.md"
+---
+
 Help me create a study plan to prepare for the medical residency exam. Include detailed strategies to maintain discipline and stay on track. I need the plan to:
 
 1. Outline a weekly schedule with specific study times and breaks.

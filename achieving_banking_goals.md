@@ -1,3 +1,11 @@
+---
+title: "Achieving Banking Goals"
+tags: ["Budgeting", "Investment", "Personal Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/achieving_banking_goals.md"
+---
+
 Create a detailed strategy for setting and achieving effective banking goals. Include the following components:
 
 - Define short-term, mid-term, and long-term banking goals and give examples of each.

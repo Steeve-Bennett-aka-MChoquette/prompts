@@ -1,3 +1,11 @@
+---
+title: "Create Cybersecurity Job Description"
+tags: ["Career Advice", "Cybersecurity", "Hiring"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_cybersecurity_job_description.md"
+---
+
 Create a job description for an entry-level cybersecurity position. Consider the following elements and customize them as needed for your business needs:
 
 - **Job Title**: Entry-Level Cybersecurity Specialist

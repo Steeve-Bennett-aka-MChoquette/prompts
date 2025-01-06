@@ -1,3 +1,11 @@
+---
+title: "Summarize Debate"
+tags: ["Analyze Text", "Debate", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_debate.md"
+---
+
 # IDENTITY 
 
 // Who you are

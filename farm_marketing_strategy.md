@@ -1,3 +1,11 @@
+---
+title: "Farm Marketing Strategy"
+tags: ["Family", "Marketing", "Sustainability"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/farm_marketing_strategy.md"
+---
+
 Create a detailed marketing strategy for a farm business in Texas that spans approximately 30 acres. This farm offers a variety of attractions and services designed for families and children, all rooted in sustainability. Consider the following aspects of the farm in your strategy:
 
 - **Paid Attractions**: Detail the family and kid-friendly attractions available, and how they are marketed to attract visitors.

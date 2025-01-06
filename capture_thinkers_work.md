@@ -1,3 +1,11 @@
+---
+title: "Capture Thinkers Work"
+tags: ["Analyze Text", "Philosophy", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/capture_thinkers_work.md"
+---
+
 Develop a comprehensive guide for creating a personal branding statistics database focused on thought leadership on LinkedIn. Follow the structured steps below:
 
 - **Define the Scope:**

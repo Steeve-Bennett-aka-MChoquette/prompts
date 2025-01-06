@@ -1,3 +1,11 @@
+---
+title: "Create Investment Strategy"
+tags: ["Investment", "Personal Finance", "Retirement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_investment_strategy.md"
+---
+
 Create a comprehensive investment strategy prompt for a user who wishes to outperform the S&P 500 (SPY) using an initial capital of $5,000 in their Robinhood account. The user is open to options trading and other investment strategies. Guide the user through the following:
 
 - **Investment Goals:**

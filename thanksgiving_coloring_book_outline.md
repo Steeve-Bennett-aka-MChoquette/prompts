@@ -1,3 +1,11 @@
+---
+title: "ThanksgivingColoringBookOutline"
+tags: ["Art", "Books", "Culture"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/thanksgiving_coloring_book_outline.md"
+---
+
 Create a detailed outline for a Thanksgiving-themed coloring book consisting of 48 pages. The following components should be addressed:
 
 - **Theme and Concept**: Develop a cohesive theme for the coloring book that ties together various aspects of Thanksgiving. Consider traditional symbols, cultural elements, and activities associated with the holiday.

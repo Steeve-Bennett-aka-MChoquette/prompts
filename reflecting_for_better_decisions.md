@@ -1,3 +1,11 @@
+---
+title: "Reflecting For Better Decisions"
+tags: ["Future Planning", "Personal Development", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/reflecting_for_better_decisions.md"
+---
+
 Reflect on your experiences from 2024 to gain insights and prepare for making improved decisions in 2025. Consider the following aspects to guide your reflection:
 
 - **Achievements**: Identify and list out the key successes you had in 2024. What factors contributed to these achievements? How can you replicate these successes moving forward?

@@ -1,3 +1,11 @@
+---
+title: "Strategies for KDP Monetization"
+tags: ["E-commerce", "Passive Income", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/strategies_for_kdp_monetization.md"
+---
+
 - Provide effective strategies for earning money through Kindle Direct Publishing (KDP) while residing in a country not eligible for monetization, specifically Serbia.
 - Explore options for setting up a business entity or using third-party services that may facilitate access to KDP's monetization features.
 - Discuss potential workarounds, such as publishing under a different account that is eligible, without violating KDP's terms of service.

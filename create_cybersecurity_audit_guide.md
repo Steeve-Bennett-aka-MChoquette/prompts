@@ -1,3 +1,11 @@
+---
+title: "Create Cybersecurity Audit Guide"
+tags: ["Compliance", "Cybersecurity", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_cybersecurity_audit_guide.md"
+---
+
 Create a detailed guide to conducting cybersecurity audits with a focus on various international frameworks. The guide should cover the following areas:
 
 - **Overview of Cybersecurity Audits:**

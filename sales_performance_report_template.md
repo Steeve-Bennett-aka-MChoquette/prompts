@@ -1,3 +1,11 @@
+---
+title: "Sales Performance Report Template"
+tags: ["Investment", "Sales", "Visualizations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/sales_performance_report_template.md"
+---
+
 Create a detailed report template for tracking sales performance in an investment advisory firm. Follow these guidelines:
 
 - **Purpose**: Design a report format to track sales, specifically for Bonds, Unit Trusts, and Life Insurance.

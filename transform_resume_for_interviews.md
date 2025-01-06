@@ -1,3 +1,11 @@
+---
+title: "Transform Resume for Interviews"
+tags: ["Job Interview", "Presentation", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transform_resume_for_interviews.md"
+---
+
 Create a strategy to transform a resume into a series of concise and clear slides for interview presentations, specifically designed to maintain focus and prevent going off-topic. Address the following points:
 
 1. **Slide Structure**:

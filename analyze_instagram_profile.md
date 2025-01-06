@@ -1,3 +1,11 @@
+---
+title: "Analyze Instagram Profile"
+tags: ["Instagram", "Personal Brand", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_instagram_profile.md"
+---
+
 Analyze a person's Instagram account and provide a detailed breakdown of their profile and brand. Focus on the following aspects:
 
 - **Profile Information**: 

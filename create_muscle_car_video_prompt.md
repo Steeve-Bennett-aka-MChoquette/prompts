@@ -1,3 +1,11 @@
+---
+title: "Create Muscle Car Video Prompt"
+tags: ["Photography Tips", "Video Script", "Visualizations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_muscle_car_video_prompt.md"
+---
+
 Create a ChatGPT prompt that describes a beautiful video of a muscle car, focusing on the movement. Ensure to use specific details and keywords related to camera movement, camera angles, and lighting styles. Here's a structured approach:
 
 - **Video Subject**: Muscle car

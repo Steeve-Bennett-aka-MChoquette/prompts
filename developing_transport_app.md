@@ -1,3 +1,11 @@
+---
+title: "Developing Transport App"
+tags: ["App Development", "Technology", "Transportation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/developing_transport_app.md"
+---
+
 Create a detailed plan for developing a user-friendly application for transporting goods between countries, specifically between Zimbabwe and South Africa. The application should cater to users involved in ferrying goods, such as Malaichas, and should include the following features:
 
 - **User Interface and Experience:**

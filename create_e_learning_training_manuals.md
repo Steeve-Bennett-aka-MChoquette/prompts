@@ -1,3 +1,11 @@
+---
+title: "Create E-Learning Training Manuals"
+tags: ["Coaching", "Courses", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_e_learning_training_manuals.md"
+---
+
 Create comprehensive training manuals and coaching protocols for e-learning courses. Address the following components in detail:
 
 - **Course Objectives and Outcomes**: Clearly define the objectives and learning outcomes for each course. Ensure these are SMART (Specific, Measurable, Achievable, Relevant, Time-bound).

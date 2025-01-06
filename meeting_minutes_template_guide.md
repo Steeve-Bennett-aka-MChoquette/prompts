@@ -1,3 +1,11 @@
+---
+title: "Meeting Minutes Template Guide"
+tags: ["Collaboration", "Meetings", "Productivity"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/meeting_minutes_template_guide.md"
+---
+
 Create a detailed guide on how to design a meeting minutes template and how to store it within ChatGPT. Your response should include the following:
 
 - Explain the purpose and importance of meeting minutes.

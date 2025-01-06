@@ -1,3 +1,11 @@
+---
+title: "Enhancing Self-Esteem Guide"
+tags: ["Motivation", "Psychology", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/enhancing_self_esteem_guide.md"
+---
+
 Create a comprehensive guide on enhancing self-esteem and improving lifestyle choices. Your response should include the following elements:
 
 - **Techniques and Exercises:** Provide several techniques and exercises that individuals can use to improve their self-esteem. Explain how these methods work and provide examples or step-by-step guides where applicable.

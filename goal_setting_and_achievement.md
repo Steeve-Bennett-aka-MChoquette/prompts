@@ -1,3 +1,11 @@
+---
+title: "Goal Setting and Achievement"
+tags: ["Career Advice", "Motivation", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/goal_setting_and_achievement.md"
+---
+
 - Identify and explain the concept of "goals" in general terms.
 - Discuss the importance of setting goals for personal and professional development.
 - Explore different types of goals (e.g., short-term vs long-term, personal vs professional).

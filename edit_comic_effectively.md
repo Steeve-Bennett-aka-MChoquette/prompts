@@ -1,3 +1,11 @@
+---
+title: "Edit Comic Effectively"
+tags: ["Art", "Feedback", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/edit_comic_effectively.md"
+---
+
 Certainly! Here's the ChatGPT prompt:
 
 ---

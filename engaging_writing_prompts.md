@@ -1,3 +1,11 @@
+---
+title: "Engaging Writing Prompts"
+tags: ["Books", "Students", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/engaging_writing_prompts.md"
+---
+
 I am a teacher and book author who writes books for primary and secondary students, as well as novels. I use a lot of illustrations and design my own book covers to cut costs. I need your help in creating effective and engaging prompts for ChatGPT. Here are the specific areas I need assistance with:
 
 - **Generating Writing Prompts:**

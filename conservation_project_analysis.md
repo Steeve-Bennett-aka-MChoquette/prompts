@@ -1,3 +1,11 @@
+---
+title: "Conservation Project Analysis"
+tags: ["Biology", "Eco Travel", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/conservation_project_analysis.md"
+---
+
 Analyze the following project report on the Conservation, Community and Biodiversity (CCB) Project and provide a detailed summary and assessment. Focus on the following key areas:
 
 - **Conservation Strategies**: Identify and evaluate the conservation strategies outlined in the report. Discuss their effectiveness, any potential challenges, and suggestions for improvement.

@@ -1,3 +1,11 @@
+---
+title: "Create Investigation Visualization"
+tags: ["Analyze Text"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_investigation_visualization.md"
+---
+
 - Summarize the provided text effectively by highlighting the main ideas and key points.
 - After summarizing, guide the user through a visualization exercise designed to help them deeply understand and internalize these key points.
   - Begin with a brief explanation of the purpose of visualization exercises and how they can aid comprehension.

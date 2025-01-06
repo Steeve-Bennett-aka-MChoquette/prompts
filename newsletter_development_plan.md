@@ -1,3 +1,11 @@
+---
+title: "Newsletter Development Plan"
+tags: ["Content Creation", "Email", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/newsletter_development_plan.md"
+---
+
 Create a detailed plan for developing and monetizing a newsletter on Substack. Address the following components:
 
 - **Brainstorming and Identifying Niches:**

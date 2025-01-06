@@ -1,3 +1,11 @@
+---
+title: "Create Social Media Post"
+tags: ["Content Creation", "Entrepreneur", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_social_media_post.md"
+---
+
 Create a customized social media post using the given social media prompt/template, ensuring it aligns with my brand voice and tone. Follow these steps:
 
 1. **Analyze the given social media prompt/template**:

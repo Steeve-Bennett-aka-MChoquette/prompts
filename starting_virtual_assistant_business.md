@@ -1,3 +1,11 @@
+---
+title: "Starting Virtual Assistant Business"
+tags: ["Entrepreneur", "Freelancing", "Virtual Assistant"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/starting_virtual_assistant_business.md"
+---
+
 Create a comprehensive guide for starting a virtual assistant business, tailored to someone with the following background and needs:
 
 - Extensive administrative experience and a bachelor's degree in business administration.

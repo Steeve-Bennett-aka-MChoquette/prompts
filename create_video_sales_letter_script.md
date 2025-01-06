@@ -1,3 +1,11 @@
+---
+title: "Create Video Sales Letter Script"
+tags: ["Chatbots", "Marketing", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_video_sales_letter_script.md"
+---
+
 Create a comprehensive script for a Video Sales Letter (VSL) aimed at promoting a new product available at [WEBSITE].
 The VSL should:
 

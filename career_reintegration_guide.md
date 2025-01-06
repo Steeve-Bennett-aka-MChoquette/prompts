@@ -1,3 +1,11 @@
+---
+title: "Career Reintegration Guide"
+tags: ["Career Advice", "Job Search", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/career_reintegration_guide.md"
+---
+
 Create a comprehensive guide to help someone returning to the tech industry after a hiatus. Cover the following aspects:
 
 - **Understanding the current tech landscape**:

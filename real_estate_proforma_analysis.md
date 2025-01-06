@@ -1,3 +1,11 @@
+---
+title: "Real Estate Proforma Analysis"
+tags: ["Excel", "Investment", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/real_estate_proforma_analysis.md"
+---
+
 Create a detailed real estate proforma for a property. The proforma should be comprehensive and include both a downloadable Excel document and a summary narrative. Use the following instructions to guide you:
 
 1. **Input Requirements:**

@@ -1,3 +1,11 @@
+---
+title: "Automation In Fintech Overview"
+tags: ["Automation", "Fintech", "Payment Systems"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/automation_in_fintech_overview.md"
+---
+
 Create a detailed overview of automation in Fintech as it applies to Africa, focusing on payment systems. Specifically, address the following points:
 
 - Discuss the current state of payment systems in Africa, highlighting the reliance on legacy systems.

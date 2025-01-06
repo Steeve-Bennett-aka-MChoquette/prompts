@@ -1,3 +1,11 @@
+---
+title: "Craft Effective Midjourney Prompts"
+tags: ["AI", "Art", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/craft_effective_midjourney_prompts.md"
+---
+
 Create a comprehensive guide on crafting effective prompts for Midjourney. The guide should include the following sections:
 
 - **Introduction to Midjourney Prompts**

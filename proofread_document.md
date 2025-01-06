@@ -1,3 +1,11 @@
+---
+title: "Proofread Document"
+tags: ["Grammar Check", "Proofreading", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/proofread_document.md"
+---
+
 Proofread the attached document in a formal, business, and expert manner using track changes, as a tool like Grammarly would. 
 
 - Carefully check for and correct grammatical errors, punctuation mistakes, and any issues with syntax.

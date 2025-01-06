@@ -1,3 +1,11 @@
+---
+title: "Nih Grant Writing Guide"
+tags: ["Grants", "Research", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/nih_grant_writing_guide.md"
+---
+
 Create an NIH grant writing guide that outlines the essential components and best practices for writing a successful proposal. The guide should cover the following aspects in detail:
 
 - Overview of NIH grants and their purpose

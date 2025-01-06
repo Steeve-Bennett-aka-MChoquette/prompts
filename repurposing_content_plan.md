@@ -1,3 +1,11 @@
+---
+title: "Repurposing Content Plan"
+tags: ["Content Creation", "SEO", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/repurposing_content_plan.md"
+---
+
 Create a detailed plan for repurposing faceless video and blog content effectively. Include specific strategies, steps, and tips for the following:
 
 - Techniques for producing high-quality faceless video content.

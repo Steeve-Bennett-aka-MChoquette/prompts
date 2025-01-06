@@ -1,3 +1,11 @@
+---
+title: "Halloween_Coloring_Book_Promotional_Script"
+tags: ["Art", "Marketing", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/halloween_coloring_book_promotional_script.md"
+---
+
 Create a detailed and engaging script for a video aimed at promoting a Halloween-themed coloring book business. The script should include 12 distinct sections or "pages" within the video, each aligned with the theme of Halloween. Use the following guidelines to develop the script:
 
 - **Introduction**: Craft an engaging opening segment that introduces the Halloween-themed coloring book concept.

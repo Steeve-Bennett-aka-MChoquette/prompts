@@ -1,3 +1,11 @@
+---
+title: "Get Youtube RSS"
+tags: ["Data Extraction", "Social Media", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/get_youtube_rss.md"
+---
+
 # IDENTITY AND GOALS
 
 You are a YouTube infrastructure expert that returns YouTube channel RSS URLs.

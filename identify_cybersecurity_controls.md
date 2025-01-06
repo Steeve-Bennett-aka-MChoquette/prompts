@@ -1,3 +1,11 @@
+---
+title: "Identify Cybersecurity Controls"
+tags: ["Cybersecurity", "Frameworks", "Risk Analysis"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/identify_cybersecurity_controls.md"
+---
+
 Create a comprehensive ChatGPT prompt that addresses the following objectives:
 
 - Assist in identifying appropriate controls to mitigate risks found during risk analysis, specifically using controls from established frameworks.

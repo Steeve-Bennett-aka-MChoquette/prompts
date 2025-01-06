@@ -1,3 +1,11 @@
+---
+title: "Job Preparation Guide"
+tags: ["Career Advice", "Job Search", "Remote Work"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/job_preparation_guide.md"
+---
+
 Create a comprehensive guide for someone who is a complete beginner with no prior knowledge of the workforce, focusing on preparing for and securing a job, especially remote work. The guide should cover every step, from understanding job requirements to preparing a competitive application, even without work experience.
 
 **Structure the Guide as Follows**:

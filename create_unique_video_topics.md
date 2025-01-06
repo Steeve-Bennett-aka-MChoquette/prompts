@@ -1,3 +1,11 @@
+---
+title: "Create Unique Video Topics"
+tags: ["Brainstorm", "Content Creation", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_unique_video_topics.md"
+---
+
 Create a list of unique and engaging topics for short videos that capture attention immediately. Consider these guidelines:
 
 - Think outside the box: Generate unconventional and creative video topics that stand out.

@@ -1,3 +1,11 @@
+---
+title: "Budgeting for Savings and Investments"
+tags: ["Budgeting", "Investment", "Personal Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/budgeting_for_savings_and_investments.md"
+---
+
 Here is a high-quality ChatGPT prompt based on the provided request:
 
 "I have a gross monthly salary of Php250,000. My goal is to limit my monthly expenses to Php50,000 and save and invest the rest of my disposable income. Help me come up with a budget breakdown to achieve my financial goals.

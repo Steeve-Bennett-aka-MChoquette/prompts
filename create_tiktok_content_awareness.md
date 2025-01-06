@@ -1,3 +1,11 @@
+---
+title: "Create TikTok Content Awareness"
+tags: ["Content Creation", "Psychology", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_tiktok_content_awareness.md"
+---
+
 - Help create engaging TikTok content to raise awareness about domestic abuse using iMessage conversation snapshots.
 - Identify and extract appropriate language or phrases from iMessages that highlight themes or examples of domestic abuse.
 - Ensure the content maintains privacy and confidentiality, avoiding any personally identifiable information.

@@ -1,3 +1,11 @@
+---
+title: "Frank's Ultimate Brain Guide"
+tags: ["AI", "Productivity", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/franks_ultimate_brain_guide.md"
+---
+
 Create a comprehensive and personalizable guide for implementing "Frank's Ultimate Brain". The guide should include:
 
 - **Overview**: Provide a brief description of "Frank's Ultimate Brain" and its main features or functionalities. Explain the benefits of implementing it for personal or professional use.

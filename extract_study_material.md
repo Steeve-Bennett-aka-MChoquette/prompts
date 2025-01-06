@@ -1,3 +1,11 @@
+---
+title: "Extract Study Material"
+tags: ["Data Extraction", "Students", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_study_material.md"
+---
+
 Certainly! Here's a refined ChatGPT prompt tailored to the task:
 
 ---

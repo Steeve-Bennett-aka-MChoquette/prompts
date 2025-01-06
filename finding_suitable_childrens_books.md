@@ -1,3 +1,11 @@
+---
+title: "Finding Suitable Children's Books"
+tags: ["Books", "Parenting", "School"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/finding_suitable_childrens_books.md"
+---
+
 Create a comprehensive guide for parents and teachers on how to find books that are suitable for their children:
 
 - Identify common pain points encountered by parents and teachers in finding books for children, such as:

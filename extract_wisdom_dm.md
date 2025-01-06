@@ -1,3 +1,11 @@
+---
+title: "Extract Wisdom DM"
+tags: ["Analyze Text", "Philosophy", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_wisdom_dm.md"
+---
+
 # IDENTITY 
 
 // Who you are

@@ -1,3 +1,11 @@
+---
+title: "Write Post PAS Copywriting Framework"
+tags: ["Content Creation", "Marketing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_post_PAS_framework.md"
+---
+
 Create a compelling social media post on [TOPIC] using the Problem-Agitate-Solve (PAS) copywriting formula. Your goal is to craft a viral post that generates high engagement. Follow these guidelines:
 
 Content Structure:

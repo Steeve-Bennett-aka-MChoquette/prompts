@@ -1,3 +1,11 @@
+---
+title: "Create Knowledge Base for Project Management"
+tags: ["AI", "Courses", "Project Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_knowledge_base_for_project_management.md"
+---
+
 Create a comprehensive knowledge base for a learning course on Project Management as an alternative to expensive, traditional training classes. This knowledge base should cover the latest frameworks and approaches to managing projects of any size or scale in both tech and non-tech industries. Ensure that the content includes:
 
 1. An overview of modern project management frameworks and methodologies for tech and non-tech industries.

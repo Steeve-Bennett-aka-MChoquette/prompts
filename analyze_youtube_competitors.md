@@ -1,3 +1,11 @@
+---
+title: "Analyze Competitors on YouTube"
+tags: ["Content Creation", "Market Research", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_youtube_competitors.md"
+---
+
 Prompt:
 
 "Help me analyze competitors on YouTube by addressing the following aspects:

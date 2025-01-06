@@ -1,3 +1,11 @@
+---
+title: "Provide Guidance"
+tags: ["Life Coach", "Psychology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/provide_guidance.md"
+---
+
 ### ChatGPT Prompt:
 
 - You are tasked with providing legal advice to a user, replacing the need for a lawyer. Ensure that your response is accurate, thorough, and clear.

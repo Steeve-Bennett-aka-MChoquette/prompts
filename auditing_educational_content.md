@@ -1,3 +1,11 @@
+---
+title: "Auditing Educational Content"
+tags: ["Ethics", "Technology", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/auditing_educational_content.md"
+---
+
 Create detailed educational content about auditing specifically for auditors. Cover the following areas comprehensively:
 
 - **Fundamentals of Auditing:**

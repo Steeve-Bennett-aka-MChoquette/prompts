@@ -1,3 +1,11 @@
+---
+title: "Create TikTok Video Automation"
+tags: ["Content Creation", "Self-Improvement", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_tiktok_video_automation.md"
+---
+
 - Create a list of 100 self-help phrases that have the most comments and forwards on TikTok or Instagram.
 - Develop a method to automatically convert each phrase into a video using Artificial Intelligence.
 - Save the created videos to a designated folder on the local hard drive.

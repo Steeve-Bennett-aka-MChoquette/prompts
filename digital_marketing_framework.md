@@ -1,3 +1,11 @@
+---
+title: "Digital Marketing Framework"
+tags: ["Affiliate Marketing", "Entrepreneur", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_marketing_framework.md"
+---
+
 Create a detailed framework for launching a digital marketing program specifically within the "make money online" niche. The goal is to help individuals generate income through online channels. Provide comprehensive guidance on each element listed below:
 
 - **Target Audience Identification**: Determine the characteristics and needs of the potential audience interested in making money online. How can this audience be segmented for more targeted marketing efforts?

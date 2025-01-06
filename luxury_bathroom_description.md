@@ -1,3 +1,11 @@
+---
+title: "Luxury Bathroom Description"
+tags: ["Home Decor", "Luxury Travel", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/luxury_bathroom_description.md"
+---
+
 Create a detailed description for an image that depicts a luxury bathroom renovation for a marketing agency client specializing in Kitchen and Bathroom remodeling. The image should:
 
 - Illustrate a spa-like atmosphere using high-end elements.

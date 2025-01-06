@@ -1,3 +1,11 @@
+---
+title: "Analyze Customer Service Interaction"
+tags: ["Customer Support", "Feedback", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_customer_service_interaction.md"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with performing a detailed quality assurance analysis on a customer service ticket between an agent and a customer. Your goal is to provide insightful feedback that highlights both strengths and areas for improvement in the agent's performance. Think creatively and consider perspectives that may not be immediately obvious. Please follow these steps:

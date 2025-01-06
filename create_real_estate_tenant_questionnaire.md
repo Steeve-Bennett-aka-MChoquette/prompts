@@ -1,3 +1,11 @@
+---
+title: "Create Real Estate Tenant Questionnaire"
+tags: ["Real Estate", "Rental Tips", "Surveys"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_real_estate_tenant_questionnaire.md"
+---
+
 Construct a comprehensive tenant screening questionnaire for [Property Management Company] to use during the rental application process. The questionnaire should be divided into the following sections:
 
 1. **Rental History**

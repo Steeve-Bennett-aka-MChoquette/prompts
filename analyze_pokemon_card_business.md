@@ -1,3 +1,11 @@
+---
+title: "Analyze Pokemon Card Business"
+tags: ["E-commerce", "Entrepreneur", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_pokemon_card_business.md"
+---
+
 I run a Pokemon card business focused on selling sealed Pokemon Center Elite Trainer Boxes (ETBs) and booster boxes, primarily through TCG Player and eBay. I need assistance in developing a strategy to maximize my business success, including understanding market trends to determine optimal buying and selling times. Additionally, I have a substantial number of bulk cards I need to sell. I am willing to invest up to $3,000 to enhance my business operations. Please help me with the following:
 
 - Provide guidance on how to analyze trends in the Pokemon card market, specifically for ETBs and booster boxes. Suggest tools and resources that can help track these trends effectively.

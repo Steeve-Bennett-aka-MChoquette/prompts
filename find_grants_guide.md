@@ -1,3 +1,11 @@
+---
+title: "Find Grants Guide"
+tags: ["Entrepreneur", "Research", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/find_grants_guide.md"
+---
+
 Create a detailed guide to help me find grants for my business projects. The guide should cover:
 
 - **Identification**: Steps to identify the types of grants available that align with the specific business projects I am pursuing.

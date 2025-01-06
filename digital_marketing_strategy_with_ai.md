@@ -1,3 +1,11 @@
+---
+title: "Digital Marketing Strategy with AI"
+tags: ["AI", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_marketing_strategy_with_ai.md"
+---
+
 Create a detailed Digital Marketing strategy using AI tools. Your task includes:
 
 - **Identifying AI Tools**: List and describe AI tools that can assist in digital marketing activities such as customer segmentation, personalized marketing, content creation, campaign optimization, and social media management.

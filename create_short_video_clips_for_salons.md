@@ -1,3 +1,11 @@
+---
+title: "Create Short Video Clips for Salons"
+tags: ["Beauty", "Lead Generation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_short_video_clips_for_salons.md"
+---
+
 Create short video clips designed to appeal to hair and beauty salon owners and encourage them to reach out for a free consultation. Each clip should be between 10 and 30 seconds long. Make sure to include:
 
 - **A compelling and engaging headline** that appeals to salon owners looking for marketing services.

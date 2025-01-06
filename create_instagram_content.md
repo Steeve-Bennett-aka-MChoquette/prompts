@@ -1,3 +1,11 @@
+---
+title: "Create Instagram Content"
+tags: ["Health", "Instagram", "Work Life Balance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_instagram_content.md"
+---
+
 Create 30 days of content for Instagram tailored to busy professionals experiencing perimenopause/menopause, with the goal of addressing their pain points and providing tips and resources. Each day's content should consist of the following:
 
 - A short, engaging caption (100-150 words) that identifies a common pain point related to perimenopause/menopause.

@@ -1,3 +1,11 @@
+---
+title: "Create Banking Guide"
+tags: ["Banking", "Finance", "Regulations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_banking_guide.md"
+---
+
 Create a comprehensive guide or simulation for the banking and finance sector. This can include explanations, scenarios, or sample dialogues. Ensure to cover the following key areas:
 
 - **Basic Concepts**:

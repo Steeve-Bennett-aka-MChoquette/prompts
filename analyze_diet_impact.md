@@ -1,3 +1,11 @@
+---
+title: "Analyze Diet Impact"
+tags: ["Data", "Diet", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_diet_impact.md"
+---
+
 Create a comprehensive analysis prompt to derive insights, present information, and suggest the best visualizations for research data related to diet, nutrition, lifestyle habits, and cognitive resilience. Here's what I need you to consider and include:
 
 - **Overview of the Data**: Assume you have access to a dataset that includes anonymous data on individuals' diet habits, lifestyle habits, cognitive scores, and more. Understand the context and any relevant variables that could impact cognitive resilience or risks of dementia.

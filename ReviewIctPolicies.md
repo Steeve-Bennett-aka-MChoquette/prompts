@@ -1,3 +1,11 @@
+---
+title: "ReviewIctPolicies.md"
+tags: ["Corporate Career", "Cybersecurity", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ReviewIctPolicies.md"
+---
+
 Create a comprehensive guide on how to review ICT policies and procedures. The guide should include:
 
 - Steps for reviewing existing ICT policies and procedures.

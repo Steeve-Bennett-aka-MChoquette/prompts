@@ -1,3 +1,11 @@
+---
+title: "Content Creation Checklist"
+tags: ["Content Creation", "Luxury Travel", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/content_creation_checklist.md"
+---
+
 Create a detailed checklist for building a content creation and monetization business as an influencer on TikTok and Instagram, focusing on luxury romantic getaways. The checklist should cover the following areas:
 
 1. **Content Creation**:

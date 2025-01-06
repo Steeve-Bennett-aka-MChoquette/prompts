@@ -1,3 +1,11 @@
+---
+title: "Create Better Frame"
+tags: ["AI", "Content Creation", "Prompt Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_better_frame.md"
+---
+
 Create a framework prompt for interior designers to help them generate the best possible design concepts, allowing them to fill in detailed design, photography, and lighting information. The framework should cover all essential components for creating a comprehensive design prompt. Use the following format and structure to guide the designers:
 
 **Framework Prompt:**

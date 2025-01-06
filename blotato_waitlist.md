@@ -1,3 +1,11 @@
+---
+title: "BlotatoWaitlist"
+tags: ["Networking", "Software", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blotato_waitlist.md"
+---
+
 - Please explain what a "waitlist for Blotato" means.
 - Describe potential reasons someone might want to join the waitlist for Blotato.
 - Provide a step-by-step guide on how to join the waitlist for Blotato.

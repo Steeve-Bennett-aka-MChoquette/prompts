@@ -1,3 +1,11 @@
+---
+title: "Guide To Validate Business Idea"
+tags: ["Entrepreneur", "Market Research", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/guide_to_validate_business_idea.md"
+---
+
 Create a comprehensive guide on how to validate an app or business idea. The goal is to provide a step-by-step framework that one can follow to ensure the viability and potential success of the idea. Address the following aspects:
 
 - **Initial Research:**

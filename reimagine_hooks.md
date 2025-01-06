@@ -1,3 +1,11 @@
+---
+title: "Reimagine Hooks"
+tags: ["Content Creation", "Hooks", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/reimagine_hooks.md"
+---
+
 Reimagine and rewrite the following cliched hooks, transforming them into fresh, original expressions. Focus on enhancing the creativity and engagement levels of each statement while maintaining the original intent. Follow these guidelines:
 
 - Reinterpret each hook by replacing clichés with unique, compelling language.

@@ -1,3 +1,11 @@
+---
+title: "Hello Kitty PLR Kits for Coloring Books"
+tags: ["Art", "Books", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/hello_kitty_plr_kits_for_coloring_books.md"
+---
+
 - Research and list available PLR (Private Label Rights) kits that feature Hello Kitty, specifically for use in coloring books. Focus on kits that offer illustrations, drawings, and other materials suitable for coloring book projects.
 - Identify reputable sources and websites where these Hello Kitty PLR kits can be purchased or downloaded. Ensure to verify if these kits comply with copyright and licensing requirements.
 - Provide examples or descriptions of what a Hello Kitty PLR kit might typically include, emphasizing any unique features or variations specific to coloring book use.

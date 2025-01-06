@@ -1,3 +1,11 @@
+---
+title: "AI Fundamentals and Resources"
+tags: ["AI", "Courses", "Tech Trends"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_fundamentals_and_resources.md"
+---
+
 - Explain the fundamentals of AI for beginners.
 - Recommend some essential courses for starting an AI journey.
 - Provide tips for becoming proficient in AI.

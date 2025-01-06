@@ -1,3 +1,11 @@
+---
+title: "Write Video Script TikTok"
+tags: ["Content Creation", "TikTok", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_video_script_tiktok.md"
+---
+
 - Read the provided article and identify the main ideas, key points, and any compelling quotes.
 - Summarize the article in a concise format, focusing on the most engaging and shareable elements that would be suitable for a TikTok audience.
 - Develop a script for a TikTok video that effectively communicates the essence of the article:

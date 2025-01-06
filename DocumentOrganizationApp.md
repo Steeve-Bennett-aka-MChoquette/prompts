@@ -1,3 +1,11 @@
+---
+title: "DocumentOrganizationApp"
+tags: ["App Development", "Data", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/DocumentOrganizationApp.md"
+---
+
 Imagine you are assisting with developing an application that helps users organize a large library of assorted documents on their computer. The application should have the following capabilities:
 
 - Scan and process various document types, including PDFs, Word documents (.doc, .docx), Excel spreadsheets (.xls, .xlsx), and more.

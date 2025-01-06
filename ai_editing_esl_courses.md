@@ -1,3 +1,11 @@
+---
+title: "AI Editing ESL Courses"
+tags: ["AI", "Content Creation", "Courses"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_editing_esl_courses.md"
+---
+
 Create a comprehensive guide for how AI can assist with updating and editing ESL PDF courses effectively. Consider the following tasks:
 
 - **PDF Analysis**: 

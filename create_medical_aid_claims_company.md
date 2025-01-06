@@ -1,3 +1,11 @@
+---
+title: "Create Medical Aid Claims Company"
+tags: ["Entrepreneur", "Health Insurance", "Medical"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_medical_aid_claims_company.md"
+---
+
 Sure, here is the high-quality ChatGPT prompt:
 
 ---

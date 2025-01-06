@@ -1,3 +1,11 @@
+---
+title: "Create Digital Product Templates"
+tags: ["E-commerce", "Entrepreneur", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_digital_product_templates.md"
+---
+
 I'm trying to start a business creating digital products and need an AI agent to assist with this. Here are my requirements:
 
 - Design an advanced, accurate, and comprehensive digital product template or model. 

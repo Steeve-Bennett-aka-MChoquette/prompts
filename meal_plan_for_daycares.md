@@ -1,3 +1,11 @@
+---
+title: "Meal Plan for Daycares"
+tags: ["Childcare", "Cooking Recipes", "Diet"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/meal_plan_for_daycares.md"
+---
+
 Create a meal plan for home daycare providers that complies with the Child and Adult Care Food Program (CACFP) guidelines in the United States. 
 
 **Please include the following details:**

@@ -1,3 +1,11 @@
+---
+title: "Digital Product Ideas for Real Estate Agents"
+tags: ["Marketing", "Photography Tips", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_product_ideas_for_real_estate_agents.md"
+---
+
 I am a real estate media professional providing photography, video, floor plans, virtual staging, and drone services. I am looking for innovative ideas for a digital product or service to offer to real estate agents that will add value to their business. 
 
 Please provide comprehensive suggestions that:

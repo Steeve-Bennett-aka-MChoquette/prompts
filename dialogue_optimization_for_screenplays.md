@@ -1,3 +1,11 @@
+---
+title: "Dialogue Optimization for Screenplays"
+tags: ["Dialogue", "Screenwriting", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dialogue_optimization_for_screenplays.md"
+---
+
 **ChatGPT Prompt:**
 
 - Please optimize a screenplay with a focus on enhancing dialogues in the style of notable screenwriters such as Aaron Sorkin and Woody Allen. 

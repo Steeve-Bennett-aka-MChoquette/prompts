@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Guide on Prompt Engineering"
+tags: ["AI", "Career Advice", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/comprehensive_guide_on_prompt_engineering.md"
+---
+
 Develop a comprehensive guide on becoming a successful prompt engineer. Break down the process into clear and actionable steps. Cover the following aspects in detail:
 
 - **Definition and Role:**

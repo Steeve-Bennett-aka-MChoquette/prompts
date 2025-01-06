@@ -1,3 +1,11 @@
+---
+title: "Create Technology Course Outline"
+tags: ["Coding", "Courses", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_technology_course_outline.md"
+---
+
 Create an educational course outline for a series of 10-15 classes targeting beginners in technology, focusing on the following components:
 
 - **Computer Basics:** 

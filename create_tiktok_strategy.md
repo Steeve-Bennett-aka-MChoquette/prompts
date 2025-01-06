@@ -1,3 +1,11 @@
+---
+title: "Create TikTok Strategy.md"
+tags: ["AI", "Content Creation", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_tiktok_strategy.md"
+---
+
 Create a comprehensive strategy for using AI to craft captivating TikTok videos based on interesting Wikipedia articles. Address the following aspects:
 
 - **Content Ideas:**

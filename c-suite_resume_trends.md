@@ -1,3 +1,11 @@
+---
+title: "C-Suite Resume Trends"
+tags: ["Career Advice", "Leadership", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/c-suite_resume_trends.md"
+---
+
 Create a comprehensive response on the current trends for C-Suite Global CVs/Resumes. Your response should include:
 
 - An overview of the most popular and effective design and formatting trends for C-Suite resumes globally.

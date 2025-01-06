@@ -1,3 +1,11 @@
+---
+title: "Nursing Care Plan"
+tags: ["Health", "Medical", "Nursing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/nursing_care_plan.md"
+---
+
 ### ChatGPT Prompt:
 
 - **Context:** You aim to create a comprehensive nursing care plan. This plan should include a specific nursing diagnosis and follow the ADPIE framework (Assessment, Diagnosis, Planning, Implementation, Evaluation).

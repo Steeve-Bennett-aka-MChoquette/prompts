@@ -1,3 +1,11 @@
+---
+title: "Create Real Estate SEO"
+tags: ["Content Creation", "Real Estate", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_real_estate_seo.md"
+---
+
 Generate SEO-friendly content for **[Real Estate Agency Name]** to improve its website’s visibility and attract more potential clients via search engines. Focus on creating content around key real estate keywords, including:
 
 1. **Area-Specific Guides**: Provide detailed guides about the neighborhoods and regions the agency serves. Include information on local amenities, schools, transportation, and community events.

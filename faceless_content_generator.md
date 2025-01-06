@@ -1,3 +1,11 @@
+---
+title: "Faceless Content Generator"
+tags: ["Content Creation", "Feedback", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_content_generator.md"
+---
+
 Create a faceless content generator that:
 
 - Accepts input prompts from the user to generate content based on specified topics or themes.

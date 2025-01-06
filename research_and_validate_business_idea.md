@@ -1,3 +1,11 @@
+---
+title: "Research_and_Validate_Business_Idea"
+tags: ["Entrepreneur", "Market Research", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/research_and_validate_business_idea.md"
+---
+
 ```
 Provide a comprehensive guide on how to research and validate a business idea. Your response should include:
 

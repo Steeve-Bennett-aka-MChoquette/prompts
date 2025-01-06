@@ -1,3 +1,11 @@
+---
+title: "Create Faceless Video Content"
+tags: ["Content Creation", "Technology", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_faceless_video_content.md"
+---
+
 - Investigate the platform "Blotato" and determine if it supports the creation or sharing of faceless videos.
 - Provide a detailed explanation of the functionalities that Blotato offers concerning video creation, particularly focusing on features that allow faceless video content.
 - Compare the capabilities of Blotato with other similar platforms, highlighting any unique features it may have in the context of faceless video creation.

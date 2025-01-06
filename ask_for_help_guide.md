@@ -1,3 +1,11 @@
+---
+title: "Ask For Help Guide"
+tags: ["Problem Solving", "School", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ask_for_help_guide.md"
+---
+
 Create a detailed guide on how to ask for assistance with university school assignments and how to break down a problem to effectively solve it. Make sure to include the following:
 
 - **Identifying the Problem**: How to clearly define and understand the assignment or problem at hand.

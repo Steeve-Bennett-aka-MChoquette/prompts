@@ -1,3 +1,11 @@
+---
+title: "Dream Life Visioning"
+tags: ["Motivation", "Personal Finance", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dream_life_visioning.md"
+---
+
 Create an extended version prompt to help someone envision their dream life. The prompt should be engaging, inspirational, and encourage deep reflection, guiding the individual through various aspects of life to consider. Include the following elements:
 
 - **Personal Values and Beliefs**: Encourage the user to consider their core values and how these shape their dream life. 

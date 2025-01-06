@@ -1,3 +1,11 @@
+---
+title: "Analyze Data Insights"
+tags: ["Data", "Research", "Visualizations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_data_insights.md"
+---
+
 - You have been provided with a file containing raw data. Analyze this data thoroughly.
 - Identify any key insights, patterns, trends, or anomalies within the data.
 - Provide a comprehensive summary of these findings.

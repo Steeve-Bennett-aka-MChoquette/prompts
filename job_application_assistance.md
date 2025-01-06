@@ -1,3 +1,11 @@
+---
+title: "Job Application Assistance"
+tags: ["Career Advice", "Job Interview", "Job Search"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/job_application_assistance.md"
+---
+
 ```
 I found a job listing that I'm interested in but I'm unsure how to proceed with an application. Please help guide me through the process step by step. Here’s how you can assist:
 

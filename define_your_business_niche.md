@@ -1,3 +1,11 @@
+---
+title: "Define Your Business Niche"
+tags: ["Entrepreneur", "Market Research", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/define_your_business_niche.md"
+---
+
 Create a comprehensive guide on defining a niche when launching a business. The guide should cover the following aspects:
 
 - Explain what a business niche is and why it is important for new businesses.

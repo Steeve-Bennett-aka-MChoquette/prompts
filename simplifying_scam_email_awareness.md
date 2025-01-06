@@ -1,3 +1,11 @@
+---
+title: "Simplifying Scam Email Awareness"
+tags: ["Cybersecurity", "Email", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/simplifying_scam_email_awareness.md"
+---
+
 Revise the below text to make the information more understandable for people with intellectual disabilities, ensuring that the meaning is retained and clear. Follow these steps carefully:
 
 1. Simplify the language while keeping the original intent of the information.

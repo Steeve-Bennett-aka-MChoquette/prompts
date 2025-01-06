@@ -1,3 +1,11 @@
+---
+title: "Songwriting Success Guide"
+tags: ["Career Advice", "Music", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/songwriting_success_guide.md"
+---
+
 Create a detailed guide for becoming a successful songwriter in the music industry, specifically in the UK. Structure your response to include the following components:
 
 - **Skills Development**: Outline the essential skills and attributes needed to become a songwriter. Include aspects such as musical knowledge, proficiency in instruments, understanding of song structure, and lyrical writing.

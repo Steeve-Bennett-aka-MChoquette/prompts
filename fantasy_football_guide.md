@@ -1,3 +1,11 @@
+---
+title: "Fantasy Football Guide"
+tags: ["Fantasy Sports", "League Management", "Sports"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/fantasy_football_guide.md"
+---
+
 Create a comprehensive guide for assisting in a fantasy football league, specifically a PPR (points per reception) Superflex dynasty league. Address the following tasks and guidelines:
 
 - Provide strategies for managing weekly drafts and player pickups.

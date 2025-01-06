@@ -1,3 +1,11 @@
+---
+title: "Franchise Expansion Plan"
+tags: ["Business Strategy", "Franchising", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/franchise_expansion_plan.md"
+---
+
 Create a detailed consultation plan for a franchise business consulting scenario, specifically aimed at helping franchisors scale their footprint by opening more locations. Include the following components:
 
 1. **Market Analysis:**

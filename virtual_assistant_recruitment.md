@@ -1,3 +1,11 @@
+---
+title: "Virtual Assistant Recruitment"
+tags: ["Courses", "Hiring", "Remote Work"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/virtual_assistant_recruitment.md"
+---
+
 ### ChatGPT Prompt:
 
 I need your help to create a comprehensive template for hiring a Virtual Assistant (VA) / Online Business Manager (OBM). The template should cover the following components:

@@ -1,3 +1,11 @@
+---
+title: "Grow Social Media Followers"
+tags: ["Content Creation", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/grow_social_media_followers.md"
+---
+
 Provide a detailed guide on the best strategies to increase social media followers from 1,000 to 10,000. Your response should include:
 
 - Effective content creation techniques to engage followers.

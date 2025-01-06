@@ -1,3 +1,11 @@
+---
+title: "Rewrite Article"
+tags: ["Content Creation", "Research", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/rewrite_article.md"
+---
+
 - You have been asked to assist in rewriting a previously published article. Begin by reviewing the original article text provided.
 - Analyze the structure, tone, and style of the original article.
 - Identify key themes, points, and messages that need to be preserved in the rewritten version.

@@ -1,3 +1,11 @@
+---
+title: "Answer Interview Question"
+tags: ["Career Advice", "Job Interview", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/answer_interview_question.md"
+---
+
 Create a detailed guide for preparing for interviews, covering two main areas: interview questions and elevator pitches. Follow these instructions:
 
 - **Interview Questions:**

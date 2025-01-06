@@ -1,3 +1,11 @@
+---
+title: "Audience Analysis Strategies"
+tags: ["E-commerce", "Market Research", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/audience_analysis_strategies.md"
+---
+
 - Conduct a comprehensive analysis of the target audience for a specific industry.
 - Identify and describe the key characteristics that define the audience, such as common interests, behaviors, values, and needs relevant to the industry.
 - Discuss the various segments within the target audience and explain how they might differ or overlap in their characteristics.

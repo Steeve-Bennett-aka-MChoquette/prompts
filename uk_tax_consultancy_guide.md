@@ -1,3 +1,11 @@
+---
+title: "UK Tax Consultancy Guide"
+tags: ["Chatbots", "Consultancy", "Taxes"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/uk_tax_consultancy_guide.md"
+---
+
 Create a comprehensive guide for setting up a UK-based tax consultancy service using a custom ChatGPT model. Include the following elements:
 
 - **Guidance on setting up a specialized ChatGPT model:**

@@ -1,3 +1,11 @@
+---
+title: "Legal And Creative Writing Tasks"
+tags: ["Content Creation", "Legal", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/legal_and_creative_writing_tasks.md"
+---
+
 ### ChatGPT Prompt:
 
 You have three distinct legal and creative writing tasks to address using AI. For each task, follow the detailed guidance provided below:

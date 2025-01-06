@@ -1,3 +1,11 @@
+---
+title: "Business Directory Investigation"
+tags: ["Data", "Research", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/business_directory_investigation.md"
+---
+
 Investigate whether a client's business is listed on a range of business directories and document the details listed. Specifically, focus on finding listings for a hotel, including any under previous versions of its name. Aim to identify gaps or areas of improvement for the client's listings. Ensure the output is formatted as a spreadsheet containing:
 
 - Client details

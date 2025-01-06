@@ -1,3 +1,11 @@
+---
+title: "Create Project Closure Report Guide"
+tags: ["Closure Process", "Documentation", "Project Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_project_closure_report_guide.md"
+---
+
 Create a comprehensive guide for completing a Project Closure Report for your PJM470S Project Management course. Include the following elements:
 
 - **Introduction to Project Closure:**

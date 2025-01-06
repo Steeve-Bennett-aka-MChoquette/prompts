@@ -1,3 +1,11 @@
+---
+title: "Create Lesson Plans"
+tags: ["Courses", "Languages", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_lesson_plans.md"
+---
+
 Create detailed lesson plans for online English and Portuguese classes. Each lesson plan should be engaging, effective, and tailored to the students' needs. Address the following components:
 
 - **Identify Proficiency Level and Learning Goals:**

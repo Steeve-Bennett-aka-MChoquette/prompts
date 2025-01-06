@@ -1,3 +1,11 @@
+---
+title: "Create Video Presentation Plan"
+tags: ["Marketing", "Presentation", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_video_presentation_plan.md"
+---
+
 Create a video presentation plan for World Seas Shipping Bahrain Company to be used in social media advertising. The purpose of the presentation is to demonstrate your ability to effectively showcase the company's brand and services to boost their social media presence. Consider the following sub-tasks for the presentation:
 
 - **Target Audience Identification**: Identify and describe the target audience for the advertisement. Consider demographic factors, interests, and social media platforms where they are most active.

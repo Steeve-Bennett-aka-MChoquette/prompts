@@ -1,3 +1,11 @@
+---
+title: "Humanize AI Communication"
+tags: ["AI", "Chatbots", "Ethics"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/humanize_ai_communication.md"
+---
+
 Create a detailed and engaging response where you explain how artificial intelligence, particularly ChatGPT, can be humanized and made more relatable. Consider incorporating the following aspects:
 
 - Define "humanizing AI" and what it entails in the context of AI communication.

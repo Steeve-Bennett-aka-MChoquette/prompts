@@ -1,3 +1,11 @@
+---
+title: "Create Coloring Book Concept"
+tags: ["Art", "Books", "Children"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_coloring_book_concept.md"
+---
+
 Create a detailed coloring book concept inspired by "The Nightmare Before Christmas". The coloring book should include the following specifications:
 
 - **Theme & Style**:

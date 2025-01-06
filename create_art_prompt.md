@@ -1,3 +1,11 @@
+---
+title: "Create Art Prompt"
+tags: ["AI", "Art", "Content Creation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_art_prompt.md"
+---
+
 Create 10 engaging and well-detailed prompts for a coloring book. Each prompt should:
 
 - Describe a unique scene or concept that would be interesting to color.

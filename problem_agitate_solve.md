@@ -1,3 +1,11 @@
+---
+title: "Problem Agitate Solve"
+tags: ["Content Creation", "Marketing", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/problem_agitate_solve.md"
+---
+
 Create a "problem-agitate-solve" style message using the steps below:
 
 1. **Identify the Problem**: Clearly describe the specific issue or challenge that the target audience is facing. Make sure to articulate the problem in a way that resonates with them.

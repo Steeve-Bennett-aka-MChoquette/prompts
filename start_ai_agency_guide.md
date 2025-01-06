@@ -1,3 +1,11 @@
+---
+title: "Start AI Agency Guide"
+tags: ["AI", "Entrepreneur", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/start_ai_agency_guide.md"
+---
+
 I am looking to develop a business idea for an AI agency. I am new to AI and entrepreneurship and need guidance on creating a clear and focused concept. Here are the details of my situation and goals:
 
 - **Background**: I don’t have prior experience in AI or business, but I am eager to learn and want to create something meaningful.

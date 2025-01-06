@@ -1,3 +1,11 @@
+---
+title: "Football Betting Prediction System"
+tags: ["AI", "Data", "Feedback"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/football_betting_prediction_system.md"
+---
+
 Create an AI-driven system for predicting online betting outcomes for football matches. The system should meet the following requirements:
 
 - **Data Integration:**

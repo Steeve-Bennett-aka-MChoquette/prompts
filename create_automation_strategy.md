@@ -1,3 +1,11 @@
+---
+title: "Create Automation Strategy.md"
+tags: ["Automation", "Business Strategy", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_automation_strategy.md"
+---
+
 Create a detailed automation strategy for my company using ChatGPT. Consider the following components:
 
 - **Current Operations Analysis**: Outline the current processes in various departments that could benefit from automation. Identify repetitive tasks and areas where efficiency could be improved.

@@ -1,3 +1,11 @@
+---
+title: "Utilitarianism Analysis"
+tags: ["Debate", "Ethics", "Philosophy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/utilitarianism_analysis.md"
+---
+
 **Prompt:**
 
 - Explain the concept of Utilitarianism and its foundational assumptions.

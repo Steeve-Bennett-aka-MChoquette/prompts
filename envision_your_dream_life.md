@@ -1,3 +1,11 @@
+---
+title: "Envision Your Dream Life"
+tags: ["Career Advice", "Personal Finance", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/envision_your_dream_life.md"
+---
+
 Create a detailed and engaging prompt that encourages the user to envision their dream life, focusing on various aspects such as personal, professional, and lifestyle goals. Consider the following components and ask questions to elicit a comprehensive vision:
 
 - **Personal Aspirations**: 

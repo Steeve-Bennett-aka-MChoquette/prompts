@@ -1,3 +1,11 @@
+---
+title: "Create Time Management Course"
+tags: ["Courses", "Self-Improvement", "Time Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_time_management_course.md"
+---
+
 Develop a comprehensive course on time management that can be sold in various formats. Follow these steps:
 
 1. **Idea Refinement:**

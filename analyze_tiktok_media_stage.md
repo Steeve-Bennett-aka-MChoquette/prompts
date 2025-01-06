@@ -1,3 +1,11 @@
+---
+title: "Analyze TikTok Media Stage"
+tags: ["Marketing", "Social Media", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_tiktok_media_stage.md"
+---
+
 **ChatGPT Prompt:**
 
 - Analyze the current development stage of TikTok within the context of the media life cycle. Break down the media life cycle into its key stages for a thorough understanding.

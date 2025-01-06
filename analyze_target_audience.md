@@ -1,3 +1,11 @@
+---
+title: "Analyze Target Audience"
+tags: ["Feedback", "Market Research", "Target Audience"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_target_audience.md"
+---
+
 Create a detailed analysis of the target audience for a given product or service. Your response should include the following components:
 
 - **Identify the primary audience**: Describe the main group of people your product or service is aimed at. Include relevant factors like their interests, needs, and pain points.

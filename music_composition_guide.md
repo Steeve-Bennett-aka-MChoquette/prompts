@@ -1,3 +1,11 @@
+---
+title: "Music Composition Guide"
+tags: ["Composition", "Music", "Synth"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/music_composition_guide.md"
+---
+
 Create a detailed music composition guide for crafting a synth piece that blends distinct musical styles and elements. Provide insights on the following:
 
 - **Musical Styles Integration**:

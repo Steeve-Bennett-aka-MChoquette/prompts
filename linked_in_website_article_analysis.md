@@ -1,3 +1,11 @@
+---
+title: "LinkedIn Website Article Analysis"
+tags: ["Data", "LinkedIn", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/linked_in_website_article_analysis.md"
+---
+
 Analyze the request and complete the following tasks:
 
 1. Gather data from the company's LinkedIn page:

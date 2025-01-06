@@ -1,3 +1,11 @@
+---
+title: "Identify Target Market Strategies"
+tags: ["Marketing", "Passive Income", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/identify_target_market_strategies.md"
+---
+
 - I am looking to promote digital products that enable users to earn money remotely, even if they have a full-time job.
 - I need help identifying a specific target market within the larger market of people interested in financial freedom.
 - Once a specific target market is identified, I need guidance on tailoring content to meet their unique requirements and needs, aiming to increase the effectiveness of generating sales.

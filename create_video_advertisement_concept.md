@@ -1,3 +1,11 @@
+---
+title: "Create Video Advertisement Concept"
+tags: ["Ads", "Marketing", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_video_advertisement_concept.md"
+---
+
 - Create a detailed concept for a video advertisement for WSS Sport Services, accessible at https://wsssportservices.com/.
 - Identify and list key selling points and unique features of WSS Sport Services that should be highlighted in the video ad.
 - Suggest an engaging storyline or theme that resonates with potential clients in the sports services industry.

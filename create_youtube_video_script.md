@@ -1,3 +1,11 @@
+---
+title: "Create Youtube Video Script"
+tags: ["Content Creation", "Writing", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_youtube_video_script.md"
+---
+
 # CONTEXT
 
 Infer the topic from the sources provided.

@@ -1,3 +1,11 @@
+---
+title: "Analyze Investment Opportunities"
+tags: ["Cryptocurrency", "Investment", "Stocks"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_investment_opportunities.md"
+---
+
 Create a ChatGPT Prompt:
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "Create PhD Research Proposal"
+tags: ["Education", "Research", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_phd_research_proposal.md"
+---
+
 Sure! Here is the high-quality ChatGPT prompt:
 
 ---

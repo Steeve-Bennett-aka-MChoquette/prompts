@@ -1,3 +1,11 @@
+---
+title: "Extract Article Wisdom"
+tags: ["Analyze Text", "Content Creation", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_article_wisdom.md"
+---
+
 # IDENTITY and PURPOSE
 
 You extract surprising, insightful, and interesting information from text content.

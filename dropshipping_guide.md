@@ -1,3 +1,11 @@
+---
+title: "Dropshipping Guide"
+tags: ["E-commerce", "Entrepreneur", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dropshipping_guide.md"
+---
+
 Create a comprehensive guide for someone looking to start an online business in dropshipping. Include the following key areas:
 
 - **Overview of Dropshipping**: Explain what dropshipping is and how it differs from traditional retail models.

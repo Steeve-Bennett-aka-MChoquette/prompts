@@ -1,3 +1,11 @@
+---
+title: "Create Social Media Content"
+tags: ["Content Creation", "Real Estate", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_social_media_content.md"
+---
+
 
 Create 30 pieces of content, including visuals or images, around the topic of obtaining a Mortgage Broker License in California for use on Instagram and Facebook. The goal is to grow the business's online presence. Ensure the content is engaging, informative, and visually appealing. Here are the sub-tasks to address:
 

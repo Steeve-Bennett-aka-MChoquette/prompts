@@ -1,3 +1,11 @@
+---
+title: "Spatial Lab Discussion Points"
+tags: ["App Development", "Courses", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/spatial_lab_discussion_points.md"
+---
+
 I am meeting Matt Forrest today to explore how I can leverage his services for learning and building an app in the geospatial industry. I am both a founder and a hands-on developer, so I want to tailor my discussion to cover both these perspectives. Here's the information about Matt's offering and what I need to address in my conversation:
 
 - Matt's offering is called "Spatial Lab," which is a membership community designed to improve geospatial technology skills in a flexible and cost-effective way.

@@ -1,3 +1,11 @@
+---
+title: "Product Support Inquiry"
+tags: ["Customer Support", "Data Extraction", "Medical"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/product_support_inquiry.md"
+---
+
 ```
 You are tasked with searching a product database for a small medical products company and returning relevant product data to answer customer questions effectively. Focus on the following tasks:
 

@@ -1,3 +1,11 @@
+---
+title: "Motivation for Cybersecurity Job Seekers"
+tags: ["Career Advice", "Cybersecurity", "Motivation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/motivation_for_cybersecurity_job_seekers.md"
+---
+
 Create a series of motivational posts for individuals pursuing careers as cybersecurity and Security Operations Center (SOC) analysts, specifically to support them during their job search journey. The posts should aim to provide encouragement, boost morale, and offer practical advice. Include the following elements:
 
 - Craft messages that emphasize persistence and resilience in the face of challenges during a job search.

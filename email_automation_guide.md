@@ -1,3 +1,11 @@
+---
+title: "Email Automation Guide"
+tags: ["Automation", "Customer Support", "Email"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/email_automation_guide.md"
+---
+
 Create a guide on how to integrate an email system to send automated responses. The guide should cover the following:
 
 - **Overview of Email Integration**:

@@ -1,3 +1,11 @@
+---
+title: "Write Video Script TikTok Marcus Garvey"
+tags: ["Books", "History", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_video_script_tiktok_marcus_garvey.md"
+---
+
 Create a detailed TikTok script based on my manuscript for a book about Marcus Garvey. Your goal is to produce an educational and engaging script that both informs viewers about Marcus Garvey and encourages them to purchase the book. Follow these guidelines:
 
 - **Objective**: The TikTok script should educate viewers on key aspects of Marcus Garvey's life and achievements while also promoting the book.

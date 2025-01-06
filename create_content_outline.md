@@ -1,3 +1,11 @@
+---
+title: "Create Content Outline"
+tags: ["Content Creation", "Outline", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_content_outline.md"
+---
+
 Create a content outline for a piece of writing. The outline should include the following components:
 
 - **Title/Working Title**: A compelling, clear, and concise title that reflects the topic and scope of the content.

@@ -1,3 +1,11 @@
+---
+title: "Adjusting To Night Shift"
+tags: ["Career Advice", "Health", "Work Life Balance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/adjusting_to_night_shift.md"
+---
+
 Consider the following factors as you help me decide whether to pursue a job opportunity with a work shift from Tuesday to Saturday, 2 am to 11 am:
 
 - How to adjust my body clock to the new work hours

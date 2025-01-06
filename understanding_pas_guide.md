@@ -1,3 +1,11 @@
+---
+title: "Understanding PAS Guide"
+tags: ["Health", "Medical", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/understanding_pas_guide.md"
+---
+
 Create a guide to understanding the PAS (Post-Acute Sequelae) condition. Your response should cover the following aspects in detail:
 
 - Define PAS (Post-Acute Sequelae) and explain its relevance to health.

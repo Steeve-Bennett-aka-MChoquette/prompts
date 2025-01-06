@@ -1,3 +1,11 @@
+---
+title: "CarersCloud_LinkedIn_Strategy"
+tags: ["Coaching", "LinkedIn", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/carerscloud_linkedin_strategy.md"
+---
+
 Create a professional LinkedIn page for a new startup called "CarersCloud" with the following features and strategies:
 
 - **Company Description**: Provide a brief overview of CarersCloud, highlighting its support from a range of clinicians and its mission to provide free resources that help family carers live their best life. Mention the focus on building resilience, community peer support, and offering individual and group coaching.

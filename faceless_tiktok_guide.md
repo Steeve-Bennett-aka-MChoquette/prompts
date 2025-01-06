@@ -1,3 +1,11 @@
+---
+title: "Faceless TikTok Guide"
+tags: ["Agile", "Content Creation", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_tiktok_guide.md"
+---
+
 Create a detailed guide for faceless TikTok videos focused on promoting agile mindedness within AI. The guide should encompass content ideas, production tips, and engagement strategies. 
 
 Please include the following:

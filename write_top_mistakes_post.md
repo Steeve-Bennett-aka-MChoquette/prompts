@@ -1,3 +1,11 @@
+---
+title: "Write Top Mistakes Post"
+tags: ["Content Creation", "Marketing", "Social Media", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_top_mistakes_post.md"
+---
+
 Create a compelling and informative social media post about the top mistakes people make when trying to [GOAL] for [AUDIENCE]. Follow these guidelines:
 
 • Begin with an attention-grabbing headline: "The [NUMBER] Biggest Mistakes [AUDIENCE] Make When Trying to [GOAL] (And How to Overcome Them)"

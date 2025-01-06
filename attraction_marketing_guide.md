@@ -1,3 +1,11 @@
+---
+title: "Attraction Marketing Guide"
+tags: ["Entrepreneur", "Lead Generation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/attraction_marketing_guide.md"
+---
+
 Create a comprehensive guide on using attraction marketing effectively. Your response should include:
 
 - An explanation of what attraction marketing is and how it differs from traditional marketing approaches.

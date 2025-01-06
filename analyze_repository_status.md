@@ -1,3 +1,11 @@
+---
+title: "Analyze Repository Status"
+tags: ["Analysis", "Coding", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_repository_status.md"
+---
+
 Create a comprehensive summary of the current state of a source code repository by addressing the following points:
 
 - Analyze the current status of the repository. What is the latest commit message? How active have recent contributions been?  

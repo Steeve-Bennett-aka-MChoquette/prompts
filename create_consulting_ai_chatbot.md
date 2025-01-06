@@ -1,3 +1,11 @@
+---
+title: "Create Consulting AI Chatbot"
+tags: ["AI", "Chatbots", "Customer Support"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_consulting_ai_chatbot.md"
+---
+
 Create a Consulting AI Chatbot for VoxPR to assist with AI Agent Development, AI Automation Services, and appointment scheduling. Follow these guidelines:
 
 1. **Introduction and Greeting**:

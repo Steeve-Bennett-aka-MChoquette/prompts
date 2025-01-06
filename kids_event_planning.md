@@ -1,3 +1,11 @@
+---
+title: "Kids Event Planning"
+tags: ["Childcare", "Culture", "Event Planning"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/kids_event_planning.md"
+---
+
 Create a comprehensive plan for hosting a fun and engaging day at AGBU in Toronto for kids aged 5-12. The event should run for two hours and occur 1-2 times a month. Ensure that the plan includes the following:
 
 - **Activity Ideas:**

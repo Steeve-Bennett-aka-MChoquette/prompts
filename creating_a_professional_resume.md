@@ -1,3 +1,11 @@
+---
+title: "Creating A Professional Resume"
+tags: ["Career Advice", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/creating_a_professional_resume.md"
+---
+
 Create a comprehensive guide for someone looking to craft a professional resume. Address the following key components:
 
 - **Introduction to Resume Building:**

@@ -1,3 +1,11 @@
+---
+title: "Create Prompt Library Proposal"
+tags: ["Community Engagement", "Content Creation", "Prompt Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_prompt_library_proposal.md"
+---
+
 Create a proposal for a community-driven system to crowdsource and expand an online prompt library. The system should allow users to submit prompts based on specific frameworks and topics, with the following features:
 
 - **Submission Platform**: Outline a platform where users can submit their prompts. Consider submission guidelines, and user accessibility.

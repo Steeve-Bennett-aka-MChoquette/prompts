@@ -1,3 +1,11 @@
+---
+title: "Luxury Travel Updates Guide"
+tags: ["Customer Support", "Luxury Travel", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/luxury_travel_updates_guide.md"
+---
+
 Create a comprehensive guide for providing my clients with updates and facilitating access to luxury travel services. Specifically, address the following components:
 
 - Identify strategies to share current product information and sales updates from luxury cruise and hotel vendors effectively. Consider various channels like newsletters, personalized emails, or a dedicated online platform.

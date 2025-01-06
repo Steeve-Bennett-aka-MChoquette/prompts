@@ -1,3 +1,11 @@
+---
+title: "Create Comprehensive Article"
+tags: ["Content Creation", "SEO", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_comprehensive_article.md"
+---
+
 - Write a comprehensive website article of at least 1,000 words. 
 - The article should be informative, engaging, and well-structured.
 - Choose an interesting and relevant topic suitable for a broad audience.

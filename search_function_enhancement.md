@@ -1,3 +1,11 @@
+---
+title: "SearchFunctionEnhancement"
+tags: ["Software", "Technology", "Web Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/search_function_enhancement.md"
+---
+
 ### ChatGPT Prompt
 
 I have a request about enhancing a website. Could you please:

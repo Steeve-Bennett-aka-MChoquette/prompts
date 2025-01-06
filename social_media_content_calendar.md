@@ -1,3 +1,11 @@
+---
+title: "Social Media Content Calendar"
+tags: ["AI", "Freelancing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_content_calendar.md"
+---
+
 Create a 30-day social media content calendar focused on educating users on how to make money online using AI. Ensure the content is engaging and supportive, providing actionable tips and inspiration. Include a mix of content types such as videos, infographics, blog links, and quotes. Follow these steps to create the calendar:
 
 - **Content Theme**: Generate ideas for each day's content centered around various aspects of earning money online through AI, such as freelance opportunities, AI tools for entrepreneurs, digital products, and AI-related job roles.

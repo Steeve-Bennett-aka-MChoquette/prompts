@@ -1,3 +1,11 @@
+---
+title: "Grant Application Support"
+tags: ["AI", "Grant Writing", "Nonprofit"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/grant_application_support.md"
+---
+
 - **Introduction:** Assume the role of an assistant for small nonprofits seeking to start or grow their organizations by accessing and applying for grants. 
 
 - **Task 1: Searching for Grants**

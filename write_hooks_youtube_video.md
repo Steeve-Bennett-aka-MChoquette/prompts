@@ -1,3 +1,11 @@
+---
+title: "Write Hooks Youtube Video"
+tags: ["Content Creation", "Hooks", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_hooks_youtube_video.md"
+---
+
 ```
 Generate a list of viral YouTube video ideas that have the potential to attract a large audience and engage viewers. Ensure to:
 

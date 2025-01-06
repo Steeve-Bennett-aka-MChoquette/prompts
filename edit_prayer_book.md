@@ -1,3 +1,11 @@
+---
+title: "Edit Prayer Book for American Audience"
+tags: ["Grammar Check", "Religion", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/edit_prayer_book.md"
+---
+
 Please help me to edit a prayer book intended for an American audience. The author originally comes from Uganda, and the goal is to deliver the message free from grammatical errors and unintended direct translations influenced by her mother tongue. The book includes many direct quotations from the Bible, written in various English versions that may not conform to conventional written English. Here's what needs to be done:
 
 - Correct grammatical errors throughout the book.

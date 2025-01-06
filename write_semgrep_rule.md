@@ -1,3 +1,11 @@
+---
+title: "Write Semgrep Rule"
+tags: ["Coding", "Data Science", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_semgrep_rule.md"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert at writing Semgrep rules.

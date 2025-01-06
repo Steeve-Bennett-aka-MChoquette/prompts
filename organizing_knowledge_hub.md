@@ -1,3 +1,11 @@
+---
+title: "Organizing Knowledge Hub"
+tags: ["Collaboration", "Customer Support", "Team Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/organizing_knowledge_hub.md"
+---
+
 Create a guide for organizing a knowledge hub in Google NotebookLM for a Global Service Desk team. Consider the following components:
 
 - **Best Practices for Organizing the Hub**: Describe effective strategies for structuring a knowledge hub that enhances accessibility and usability for the team.

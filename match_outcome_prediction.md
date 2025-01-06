@@ -1,3 +1,11 @@
+---
+title: "Match Outcome Prediction"
+tags: ["Analysis", "Predictions", "Sports"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/match_outcome_prediction.md"
+---
+
 Create a comprehensive analysis to predict the outcome of a football match by considering the following factors:
 
 - **Team Performance:**

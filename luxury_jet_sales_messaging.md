@@ -1,3 +1,11 @@
+---
+title: "Luxury Jet Sales Messaging"
+tags: ["Luxury Travel", "Marketing", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/luxury_jet_sales_messaging.md"
+---
+
 Convince prospects to buy a jet by creating compelling and persuasive messaging. Your response should include:
 
 - An overview of the key benefits of owning a personal jet, such as time-saving, convenience, luxury, and privacy.

@@ -1,3 +1,11 @@
+---
+title: "Coloring Book Business Ideas"
+tags: ["Art", "Books", "Brainstorm"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/coloring_book_business_ideas.md"
+---
+
 **ChatGPT Prompt:**
 
 - Generate at least 5 creative business name ideas for a company that specializes in creating coloring books.

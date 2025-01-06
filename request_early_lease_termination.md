@@ -1,3 +1,11 @@
+---
+title: "Request Early Lease Termination"
+tags: ["Email", "Negotiation", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/request_early_lease_termination.md"
+---
+
 Compose an email to your landlords requesting an early termination of your lease, aiming for a mutually beneficial outcome for both parties. Incorporate the following details and instructions into the email:
 
 - Use a warm and engaging tone throughout the email, reflecting your personal voice.

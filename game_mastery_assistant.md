@@ -1,3 +1,11 @@
+---
+title: "Game Mastery Assistant"
+tags: ["Chatbots", "Games", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/game_mastery_assistant.md"
+---
+
 Create a step-by-step plan to develop a custom ChatGPT designed to assist gamers on any platform in mastering technical skills and defeating opponents. The guide should be comprehensive and cover the following aspects:
 
 - **Objective Setting**: Define clear goals for the ChatGPT, such as improving specific technical skills, strategies for different game genres, or providing platform-specific advice.

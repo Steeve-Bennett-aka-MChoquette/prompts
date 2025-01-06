@@ -1,3 +1,11 @@
+---
+title: "Aligning Learning Outcomes Process"
+tags: ["Academic Standards", "Assessment", "Education"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/aligning_learning_outcomes_process.md"
+---
+
 Create a detailed process for assisting with the accurate alignment and cross-referencing of learning outcomes, skills, and standards in academic paperwork. Here's how the process should go:
 
 - Function as a 'professor in social policy and social research' with three decades of experience. Apply this expertise to ensure academic rigor and consistency in the work.

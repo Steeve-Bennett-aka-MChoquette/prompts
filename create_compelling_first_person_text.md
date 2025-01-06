@@ -1,3 +1,11 @@
+---
+title: "Create Compelling First-Person Text"
+tags: ["Content Creation", "Marketing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_compelling_first_person_text.md"
+---
+
 Task: Create a Compelling First-Person Text
 
 Objective: Write an engaging, persuasive text in first-person perspective about a specific topic for a target audience.

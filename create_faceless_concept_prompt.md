@@ -1,3 +1,11 @@
+---
+title: "Create Faceless Concept Prompt"
+tags: ["Art", "Culture", "Philosophy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_faceless_concept_prompt.md"
+---
+
 For the request "for faceless," create a ChatGPT prompt as follows:
 
 "Help me understand the concept of 'faceless' as it applies to different contexts, such as:

@@ -1,3 +1,11 @@
+---
+title: "Create Dream Life TikTok Story"
+tags: ["Motivation", "Story Writing", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_dream_life_tiktok_story.md"
+---
+
 Create a detailed ChatGPT prompt that addresses the following task:
 
 - Recreate a "dream life" TikTok story or outline that was previously shared.

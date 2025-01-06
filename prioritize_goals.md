@@ -1,3 +1,11 @@
+---
+title: "Prioritize Goals"
+tags: ["Goal Setting", "Motivation", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/prioritize_goals.md"
+---
+
 - I need assistance in prioritizing my most important goals for the year 2025.
 - Help me identify key criteria for evaluating the importance of each goal.
 - Suggest strategies for ranking or ordering these goals based on their importance.

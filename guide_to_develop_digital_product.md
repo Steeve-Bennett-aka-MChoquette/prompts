@@ -1,3 +1,11 @@
+---
+title: "Guide To Develop Digital Product"
+tags: ["Market Research", "Marketing", "Product Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/guide_to_develop_digital_product.md"
+---
+
 Create a detailed guide to help me develop a digital product in the digital products industry. Here's what I need:
 
 - **Market Research**: Explain how to conduct effective market research to identify potential opportunities and target audiences.

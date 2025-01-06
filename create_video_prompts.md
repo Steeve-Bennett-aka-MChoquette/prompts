@@ -1,3 +1,11 @@
+---
+title: "Create Video Prompts"
+tags: ["Content Creation", "Photography Tips", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_video_prompts.md"
+---
+
 As a prompt engineer for generating AI video prompts, you will transform a given content idea into two detailed video prompts. Each prompt should be clear, cinematic, and realistic. Please enhance the content idea by following these specific guidelines:
 
 - **Medium**: Specify the type of shot, such as wide-angle or close-up.

@@ -1,3 +1,11 @@
+---
+title: "Annual Training Strategy Plan"
+tags: ["Education", "Strategy", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/annual_training_strategy_plan.md"
+---
+
 Create an annual plan for Deputyship for a Training Strategy based on a five-year plan. The goal is to develop a clear and easy-to-follow plan specifically for a university setting. The plan should contain:
 
 - Specific, Measurable, Achievable, Relevant, and Time-bound (SMART) objectives.

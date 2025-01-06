@@ -1,3 +1,11 @@
+---
+title: "Analyze Presentation Feedback"
+tags: ["Feedback", "Leadership", "Presentation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_presentation_feedback.md"
+---
+
 - You are tasked with creating an Executive Leadership 360 feedback presentation for an individual based on interview response files.
 - The interview responses are from managers, peers, and direct reports, gathered using a set of predetermined interview questions.
 - For each question, you need to:

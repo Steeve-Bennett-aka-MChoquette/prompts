@@ -1,3 +1,11 @@
+---
+title: "Republishing Public Domain Books"
+tags: ["AI", "Books", "Passive Income"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/republishing_public_domain_books.md"
+---
+
 Here's the crafted ChatGPT prompt:
 
 ---

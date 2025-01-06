@@ -1,3 +1,11 @@
+---
+title: "Network Marketing Crypto Accessibility"
+tags: ["Cryptocurrency", "Network Marketing", "Passive Income"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/network_marketing_crypto_accessibility.md"
+---
+
 Create a comprehensive ChatGPT prompt that addresses the needs of someone who wants to make network marketing for crypto more accessible, targeting individuals who may have reservations about both network marketing and cryptocurrency. Highlight that this is a long-term decision and avoid suggesting it as a get-rich-quick scheme. Emphasize the potential consistent earnings and the concept of compounding over time. Make sure to convey the goal of helping people achieve their dreams, such as enabling 100,000 families to earn an additional $500. 
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "Voice Notes Overview"
+tags: ["Communication", "Productivity", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/voice_notes_overview.md"
+---
+
 Explain voice notes:
 
 - Explain what voice notes are and their primary purpose.

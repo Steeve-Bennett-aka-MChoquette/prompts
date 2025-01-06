@@ -1,3 +1,11 @@
+---
+title: "Create Website Guide"
+tags: ["Content Creation", "SEO", "Therapy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_website_guide.md"
+---
+
 ```
 Create a comprehensive guide for determining essential pages and content topics for a new website in the Psychotherapy space with a focus on SEO best practices. The goal is to ensure the website ranks high in search engines and targets high buyer intent keywords effectively. The key areas to cover include:
 

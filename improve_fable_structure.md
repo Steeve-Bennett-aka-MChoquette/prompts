@@ -1,3 +1,11 @@
+---
+title: "Improve Fable Structure"
+tags: ["Analyze Text", "Story Writing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/improve_fable_structure.md"
+---
+
 - Please review the fable provided for editing. Focus on improving the following aspects:
   - **Clarity and Flow**: Ensure that the story is easy to follow and logically structured. Revise any sentences that are confusing or awkward.
   - **Grammar and Punctuation**: Check for and correct any grammatical errors, including syntax, verb tense consistency, punctuation, and spelling.

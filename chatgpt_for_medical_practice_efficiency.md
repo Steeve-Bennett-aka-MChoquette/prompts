@@ -1,3 +1,11 @@
+---
+title: "ChatGPT for Medical Practice Efficiency"
+tags: ["Chatbots", "Health", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/chatgpt_for_medical_practice_efficiency.md"
+---
+
 Help my friend, an OB-gynecologist with a private clinic, leverage ChatGPT to improve the efficiency of her practice and save time. Consider the following points:
 
 - How she can use ChatGPT to streamline appointment scheduling and management.

@@ -1,3 +1,11 @@
+---
+title: "Avoiding Problematic Words"
+tags: ["Communication", "Content Creation", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/avoiding_problematic_words.md"
+---
+
 Create a comprehensive list of words that should be avoided when creating content. Your response should include:
 
 - Words that are generally considered overly complex or jargon that might confuse the audience.

@@ -1,3 +1,11 @@
+---
+title: "Create Job Description for Senior Graphic Designer"
+tags: ["Career Advice", "Graphic Design", "Hiring"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_job_description_senior_graphic_designer.md"
+---
+
 Create a comprehensive job description for a Senior Graphic Designer with the following specifications:
 
 - **Primary Responsibilities**:

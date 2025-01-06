@@ -1,3 +1,11 @@
+---
+title: "Optimize LinkedIn Profile"
+tags: ["Career Advice", "LinkedIn", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/optimize_linkedin_profile.md"
+---
+
 Optimize my LinkedIn profile with the following considerations:
 
 - **Profile Headline & Summary**: Provide guidance on crafting a compelling headline and summary that effectively showcases my professional identity and career aspirations.

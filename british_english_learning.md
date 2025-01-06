@@ -1,3 +1,11 @@
+---
+title: "British English Learning"
+tags: ["Grammar Check", "Language", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/british_english_learning.md"
+---
+
 Help me improve my British English spelling and grammar. I am a student with dyslexia, and I need techniques and exercises that accommodate my learning challenges.
 
 Specifically, I would like the prompt to cover:

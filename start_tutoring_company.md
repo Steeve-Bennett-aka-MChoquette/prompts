@@ -1,3 +1,11 @@
+---
+title: "Start Tutoring Company"
+tags: ["Entrepreneur", "Market Research", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/start_tutoring_company.md"
+---
+
 Prompt:
 
 - Help me start my own tutoring company by guiding me through the initial steps.

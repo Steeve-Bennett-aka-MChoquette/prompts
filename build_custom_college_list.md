@@ -1,3 +1,11 @@
+---
+title: "Build Custom College List"
+tags: ["Career Advice", "Education", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/build_custom_college_list.md"
+---
+
 Develop a detailed guide for aiding a high school student in building a tailored college list that aligns with various important criteria. Consider the following aspects:
 
 - **Academic Abilities**: Analyze the student's academic performance, such as GPA, standardized test scores, and extracurricular achievements, and recommend colleges where they would likely be a competitive applicant.

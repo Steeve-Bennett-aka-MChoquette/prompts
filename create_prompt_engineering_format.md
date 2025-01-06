@@ -1,3 +1,11 @@
+---
+title: "Create Prompt Engineering Format"
+tags: ["AI", "Prompt Management", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_prompt_engineering_format.md"
+---
+
 - Create a detailed format similar to RISEN that can be used consistently for generating prompts.
 - Ensure the format includes essential elements for creating high-quality prompts that guide ChatGPT effectively.
 - Include guidelines for prompt consistency, clarity, and specificity.

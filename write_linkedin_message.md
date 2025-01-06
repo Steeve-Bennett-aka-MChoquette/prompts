@@ -1,3 +1,11 @@
+---
+title: "Write LinkedIn Message"
+tags: ["Career Advice", "Corporate Career", "LinkedIn"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_linkedin_message.md"
+---
+
 Help me write a LinkedIn message to the president of a corporate foundation.
 
 - Begin with a polite greeting and a mention about the endorsement and recent connection on LinkedIn.

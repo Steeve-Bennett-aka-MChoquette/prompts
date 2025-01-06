@@ -1,3 +1,11 @@
+---
+title: "Signal Analysis Curriculum"
+tags: ["Courses", "Science", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/signal_analysis_curriculum.md"
+---
+
 Create a comprehensive curriculum for a full signal analysis course that progresses from beginner to expert level. Your task is to design the course outline, providing details for each section as follows:
 
 - **Introduction to Signal Analysis:**

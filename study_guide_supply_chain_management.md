@@ -1,3 +1,11 @@
+---
+title: "Study Guide for Supply Chain Management"
+tags: ["Books", "Students", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/study_guide_supply_chain_management.md"
+---
+
 Create a study guide to assist a student in understanding key concepts from the following chapters of "Principles of Supply Chain Management: A Balanced Approach | 5e" by Joel D. Wisner, PhD, Keah-Choon Tan, PhD, and G. Keong Leong, PhD:
 
 ### Chapter 6: Resource Planning Systems

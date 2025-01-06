@@ -1,3 +1,11 @@
+---
+title: "Wharton MBA Finance Guide"
+tags: ["Career Advice", "Courses", "Investment"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/wharton_mba_finance_guide.md"
+---
+
 Create a comprehensive guide to earning an MBA in finance from the Wharton School. Address the following areas:
 
 - **Admission Requirements:**

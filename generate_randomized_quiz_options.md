@@ -1,3 +1,11 @@
+---
+title: "Generate Randomized Quiz Options"
+tags: ["Education", "Quiz Creation", "Teaching"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/generate_randomized_quiz_options.md"
+---
+
 Create a prompt for generating a randomized set of quiz answer options. Here are the requirements your prompt should meet:
 
 - Generate quiz answer options for a multiple-choice quiz, where the options (such as A, B, C, D) should be randomly distributed for each question.

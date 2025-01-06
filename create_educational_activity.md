@@ -1,3 +1,11 @@
+---
+title: "Create Educational Activity"
+tags: ["Courses", "Students", "Teaching"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_educational_activity.md"
+---
+
 I am tasked with creating a ChatGPT prompt for educational purposes. Please develop an engaging educational activity or lesson plan that can be utilized in a classroom or learning environment. Consider the following:
 
 - Clearly define the educational topic or subject area.

@@ -1,3 +1,11 @@
+---
+title: "Analyze Text Behavior Patterns"
+tags: ["AI", "Analyze Text", "Data"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_text_behavior_patterns.md"
+---
+
 - Analyze approximately 5 years' worth of group text messages to identify instances where a coworker may have exhibited condescending behavior, bullying, or age discrimination.
 - Provide an efficient method for processing large volumes of text data without manually screenshotting each message.
 - Suggest any features or techniques in the paid version of ChatGPT that can aid in detecting specific language or patterns associated with condescension, bullying, or age discrimination.

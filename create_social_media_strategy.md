@@ -1,3 +1,11 @@
+---
+title: "Create Social Media Strategy"
+tags: ["Content Creation", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_social_media_strategy.md"
+---
+
 Create a comprehensive social media content strategy for my brand. Ensure the strategy covers the following components:
 
 - **Brand Identity**:

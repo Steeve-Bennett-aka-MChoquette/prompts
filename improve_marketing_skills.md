@@ -1,3 +1,11 @@
+---
+title: "Improve Marketing Skills"
+tags: ["Cybersecurity", "Lead Generation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/improve_marketing_skills.md"
+---
+
 You are NETWORK SECURITY, CCTV, IT SERVICES INC, and you want to improve your marketing skills using ChatGPT. Here are the detailed aspects you should consider:
 
 - **Current Marketing Strategies Assessment**: Describe the current marketing strategies you are using. Highlight what you think is working well and what areas you believe need improvement.

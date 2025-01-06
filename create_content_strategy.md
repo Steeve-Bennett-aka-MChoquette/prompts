@@ -1,3 +1,11 @@
+---
+title: "Create Content Strategy"
+tags: ["Content Creation", "Marketing", "Strategy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_content_strategy.md"
+---
+
 Create a comprehensive content strategy for a brand. The strategy should include the following components:
 
 - **Brand Overview**: Briefly describe the brand, including its mission, vision, and core values.

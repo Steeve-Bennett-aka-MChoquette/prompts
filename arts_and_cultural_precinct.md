@@ -1,3 +1,11 @@
+---
+title: "Arts And Cultural Precinct"
+tags: ["Art", "Community", "Culture"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/arts_and_cultural_precinct.md"
+---
+
 Design a comprehensive Arts and Cultural Precinct for Tully, ensuring the project aligns with the outlined vision and goals. Please incorporate the following key elements:
 
 - Vision and Goals:

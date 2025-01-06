@@ -1,3 +1,11 @@
+---
+title: "Create Ai Application"
+tags: ["AI", "App Development", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ai_application.md"
+---
+
 ### ChatGPT Prompt:
 
 I need your help to create an artificial intelligence application designed to support interactive and efficient learning. The AI should have the following features and capabilities:

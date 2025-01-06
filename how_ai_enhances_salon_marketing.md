@@ -1,3 +1,11 @@
+---
+title: "How AI Enhances Salon Marketing"
+tags: ["Beauty", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/how_ai_enhances_salon_marketing.md"
+---
+
 Create a comprehensive guide for Beauty Salon owners in the Netherlands about how AI can help them grow on social media and manage salon marketing. Additionally, explain how my digital templates can make it easier for them to maintain a constant online presence. The guide should include:
 
 - An introduction to the benefits of AI in social media and salon marketing.

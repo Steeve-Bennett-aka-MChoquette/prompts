@@ -1,3 +1,11 @@
+---
+title: "Adhd Accountability Buddy"
+tags: ["Coaching", "Productivity", "Psychology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/adhd_accountability_buddy.md"
+---
+
 Create a theme centered around ADHD that acts as an accountability buddy and includes a daily check-in system. Follow these steps to ensure all necessary components are covered:
 
 1. **Theme Development:**

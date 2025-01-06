@@ -1,3 +1,11 @@
+---
+title: "Fast Food Business Guide"
+tags: ["Entrepreneur", "Marketing", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/fast_food_business_guide.md"
+---
+
 Create a detailed guide on establishing and growing a fast food business in Zimbabwe. Your response should cover the following aspects:
 
 - **Registration Process:**

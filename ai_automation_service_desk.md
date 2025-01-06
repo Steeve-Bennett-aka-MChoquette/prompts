@@ -1,3 +1,11 @@
+---
+title: "Ai Automation Service Desk"
+tags: ["AI", "Customer Support", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_automation_service_desk.md"
+---
+
 I need your advice on AI automations for a global service desk in the digital marketing industry. My team operates in 49 markets and works with the Meta platform, both directly with clients and Meta representatives. Our goal is to reduce issue resolution and response times. Here are the specific points to consider:
 
 - Identify great AI automation tools and technologies that can be implemented in a service desk environment.

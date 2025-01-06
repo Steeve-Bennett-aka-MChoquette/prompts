@@ -1,3 +1,11 @@
+---
+title: "Tweet"
+tags: ["Content Creation", "Marketing", "Twitter"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/tweet.md"
+---
+
 Title: A Comprehensive Guide to Crafting Engaging Tweets with Emojis
 
 Introduction

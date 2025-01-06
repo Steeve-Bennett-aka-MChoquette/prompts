@@ -1,3 +1,11 @@
+---
+title: "Analyze Content for New Insights"
+tags: ["Content Creation", "Data", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_content_for_new_insights.md"
+---
+
 Create a detailed "agent" workflow using ChatGPT to generate and refine new content based on data from content analytics. Your task is to facilitate a process that involves analyzing existing content, identifying key data points, and generating new content tailored to these insights. Follow these steps closely to achieve this:
 
 - Analyze existing content and extract key data points that are relevant to current trends, audience engagement, and content performance metrics.

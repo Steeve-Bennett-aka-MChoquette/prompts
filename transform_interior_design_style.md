@@ -1,3 +1,11 @@
+---
+title: "Transform Interior Design Style"
+tags: ["AI", "Home Decor", "Interior Design"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transform_interior_design_style.md"
+---
+
 Create a ChatGPT prompt that guides ChatGPT to transform an interior photo into a new design style while retaining specific elements:
 
 - You will be provided with a picture of an interior space.

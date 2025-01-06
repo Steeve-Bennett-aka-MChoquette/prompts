@@ -1,3 +1,11 @@
+---
+title: "Covered Call Strategies"
+tags: ["Investment", "Personal Finance", "Stocks"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/covered_call_strategies.md"
+---
+
 I'm trying to understand stock option strategies as a beginner. Please help me with the following:
 
 - Explain the "Covered Call" strategy in detail. How does it work, and what are the potential risks and benefits?

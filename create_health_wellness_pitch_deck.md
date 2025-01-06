@@ -1,3 +1,11 @@
+---
+title: "Create Health Wellness Pitch Deck"
+tags: ["Health", "Investment", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_health_wellness_pitch_deck.md"
+---
+
 Create a comprehensive pitch deck for raising capital for a health and wellness company. Ensure the pitch deck effectively covers the following key aspects:
 
 - **Company Overview:**

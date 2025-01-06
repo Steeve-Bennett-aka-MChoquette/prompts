@@ -1,3 +1,11 @@
+---
+title: "Collecting ChatGPT Prompts"
+tags: ["Content Creation", "Prompt Management", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/collecting_chatgpt_prompts.md"
+---
+
 Create a detailed guide on how to download ChatGPT prompts into one document that can be saved. Include the following elements in your response:
 
 - **Methods to collect ChatGPT prompts:**

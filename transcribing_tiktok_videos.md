@@ -1,3 +1,11 @@
+---
+title: "Transcribing TikTok Videos"
+tags: ["Content Creation", "TikTok", "Transcription"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transcribing_tiktok_videos.md"
+---
+
 - I need help transcribing TikTok videos. Please provide guidance on how to transcribe audio from TikTok videos accurately.
 - Include any recommended approaches or tools that can assist in converting TikTok video audio into text.
 - Offer tips on dealing with challenges such as multiple speakers, accents, or background noise.

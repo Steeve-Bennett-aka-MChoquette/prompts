@@ -1,3 +1,11 @@
+---
+title: "Mathematics Lesson Plan"
+tags: ["Math", "School", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/mathematics_lesson_plan.md"
+---
+
 Create a detailed lesson plan for teaching school-level mathematics. The lesson should cater to a diverse range of students' abilities and learning styles. Follow these guidelines to create a comprehensive response:
 
 - **Scope of Topics**: Cover fundamental mathematics concepts typically taught in school, such as basic arithmetic operations (addition, subtraction, multiplication, division), fractions, decimals, percentages, basic geometry (shapes, areas, perimeters), and introductory algebra (simple equations and expressions).

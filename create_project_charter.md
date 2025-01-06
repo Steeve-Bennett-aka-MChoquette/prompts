@@ -1,3 +1,11 @@
+---
+title: "Create Project Charter"
+tags: ["Collaboration", "Planning", "Project Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_project_charter.md"
+---
+
 Create a detailed project charter by providing comprehensive guidance on the following elements:
 
 - **Project Overview**: Describe the project background, purpose, and justification. Explain why this project is necessary and its expected impact.

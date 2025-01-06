@@ -1,3 +1,11 @@
+---
+title: "Plan Perfect Honeymoon"
+tags: ["Luxury Travel", "Relationships", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/plan_perfect_honeymoon.md"
+---
+
 Plan my perfect honeymoon with my wife by considering the following aspects:
 
 - **Travel Recommendations**: Suggest a list of romantic destinations suitable for a honeymoon. Include a mix of well-known and hidden-gem locations, and consider varying climates and seasons.

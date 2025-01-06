@@ -1,3 +1,11 @@
+---
+title: "Create Excel Ticket Sales Form"
+tags: ["Data Entry", "Event Planning", "Excel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_excel_ticket_sales_form.md"
+---
+
 Create a detailed and comprehensive guide on how to create a form in Excel 2016 for entering and searching data to track ticket sales for a volunteer fire department's annual steak dinner. Your guide should cover the following:
 
 - Setting up the initial spreadsheet with appropriate columns (e.g., Ticket ID, Buyer Name, Contact Information, Number of Tickets, Total Amount).

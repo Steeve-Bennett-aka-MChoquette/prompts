@@ -1,3 +1,11 @@
+---
+title: "Startups Guidance"
+tags: ["Entrepreneur", "Marketing", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/startups_guidance.md"
+---
+
 Here is the ChatGPT prompt:
 
 "I need assistance with the following tasks to start and grow my business:

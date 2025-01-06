@@ -1,3 +1,11 @@
+---
+title: "Credit Card Management Guide"
+tags: ["Budgeting", "Credit Management", "Personal Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/credit_card_management_guide.md"
+---
+
 Create a detailed and comprehensive response to assist a user with credit card management. Address the following sub-tasks:
 
 - Provide general advice on managing credit card debt, including strategies to pay down existing debt effectively.

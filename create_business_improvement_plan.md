@@ -1,3 +1,11 @@
+---
+title: "Create Business Improvement Plan"
+tags: ["AI", "Entrepreneur", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_business_improvement_plan.md"
+---
+
 Create a comprehensive plan to achieve the following goals for my business:
 
 - **Automate Coordination:**

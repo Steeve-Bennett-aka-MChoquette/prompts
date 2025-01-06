@@ -1,3 +1,11 @@
+---
+title: "Create Online Course"
+tags: ["Courses", "Entrepreneur", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_online_course.md"
+---
+
 Create an online course that speaks to entrepreneurs looking to add creativity and innovation into their business. 
 
 Consider the following aspects:

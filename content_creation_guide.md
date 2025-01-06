@@ -1,3 +1,11 @@
+---
+title: "Content Creation Guide"
+tags: ["Content Creation", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/content_creation_guide.md"
+---
+
 Create a comprehensive guide on content creation that covers the following aspects:
 
 - Define content creation and explain its purpose in various contexts, such as marketing, education, entertainment, and personal branding.

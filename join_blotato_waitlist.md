@@ -1,3 +1,11 @@
+---
+title: "Join Blotato Waitlist"
+tags: ["Apps", "Marketing", "Tech Trends"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/join_blotato_waitlist.md"
+---
+
 - I need information about getting on the wait list for "blotato."
 - Provide steps on how to join the wait list for "blotato."
 - Include any specific requirements, procedures, or criteria needed to join the wait list.

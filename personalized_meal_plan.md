@@ -1,3 +1,11 @@
+---
+title: "Personalized Meal Plan"
+tags: ["Cooking Recipes", "Diet", "Health"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/personalized_meal_plan.md"
+---
+
 Create a personalized meal plan for a client based on their profile information. Here is what you need to do:
 
 1. Retrieve the following profile information from the client database:

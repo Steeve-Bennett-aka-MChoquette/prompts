@@ -1,3 +1,11 @@
+---
+title: "Autism Research Overview"
+tags: ["Health", "Psychology", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/autism_research_overview.md"
+---
+
 Create a comprehensive overview of the latest research related to autism, focusing on the following key areas:
 
 - **Causes of Autism**: 

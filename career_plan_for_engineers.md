@@ -1,3 +1,11 @@
+---
+title: "Career Plan for Engineers"
+tags: ["Career Advice", "Tech Trends", "Work Life Balance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/career_plan_for_engineers.md"
+---
+
 Create a comprehensive career plan for young engineers in the high technology industry, with a focus on achieving their dream career over the next 3 to 5 years. The response should include:
 
 - An overview of potential career paths and opportunities within the high technology industry for engineers, highlighting both traditional and emerging roles.

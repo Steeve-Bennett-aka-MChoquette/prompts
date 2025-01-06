@@ -1,3 +1,11 @@
+---
+title: "Human Resource Management Project Guide"
+tags: ["Certification", "HR", "Project Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/human_resource_management_project_guide.md"
+---
+
 Create a comprehensive guide for a certified human resource management industry-based project. Your response should include, but is not limited to, the following sections:
 
 - **Project Scope and Objectives:**

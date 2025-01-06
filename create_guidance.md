@@ -1,3 +1,11 @@
+---
+title: "Create Guidance"
+tags: ["Coaching", "Content Creation", "Prompt Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_guidance.md"
+---
+
 Please detail what you need assistance with. Provide any relevant context or specific points you want to address. Here are some examples:
 
 - "Explain the importance of cybersecurity in modern businesses."

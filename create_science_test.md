@@ -1,3 +1,11 @@
+---
+title: "Create Science Test"
+tags: ["Science", "Students", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_science_test.md"
+---
+
 Create a science test at the 8th to 9th-grade level focusing on the Earth's atmosphere. Ensure the test includes a variety of question types (e.g., multiple choice, short answer, and true/false) and covers the following topics:
 
 - Definitions and significance of key terms: humidity, climate, altitude, respiration, carbon dioxide, weather, ozone, water vapor.

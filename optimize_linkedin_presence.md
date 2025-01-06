@@ -1,3 +1,11 @@
+---
+title: "Optimize LinkedIn Presence"
+tags: ["Career Advice", "E-commerce", "LinkedIn"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/optimize_linkedin_presence.md"
+---
+
 Analyze the request, then formulate a detailed prompt:
 
 ---

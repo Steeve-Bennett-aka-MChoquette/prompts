@@ -1,3 +1,11 @@
+---
+title: "Organize ChatGPT Conversations"
+tags: ["Chatbots", "Productivity", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/organize_chatgpt_conversations.md"
+---
+
 - Explain methods to keep chats with ChatGPT organized.
 - Discuss alternatives to using the chat list displayed on the left side of the screen.
 - Provide digital tools or practices that can enhance the organization of conversations with AI models.

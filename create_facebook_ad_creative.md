@@ -1,3 +1,11 @@
+---
+title: "Create Facebook Ad Creative"
+tags: ["Ads", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_facebook_ad_creative.md"
+---
+
 Create a comprehensive Facebook ad creative by focusing on the following components:
 
 - **Hooked Headlines**: Generate multiple captivating headlines that are designed to grab attention quickly and enticingly. These headlines should be relevant and can include different variations to test which resonates best with your audience.

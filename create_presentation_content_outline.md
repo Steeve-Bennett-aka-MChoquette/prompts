@@ -1,3 +1,11 @@
+---
+title: "Create Presentation Content Outline"
+tags: ["Collaboration", "Content Creation", "Presentation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_presentation_content_outline.md"
+---
+
 Create a comprehensive and professional presentation content outline using the following guidelines:
 
 - **Input Documents**: Incorporate information from multiple documents, including:

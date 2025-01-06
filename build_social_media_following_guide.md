@@ -1,3 +1,11 @@
+---
+title: "Build Social Media Following Guide"
+tags: ["Content Creation", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/build_social_media_following_guide.md"
+---
+
 Create a detailed guide on building a large social media following quickly, similar to a 500K+ following. Ensure the response covers the following:
 
 - **Platform Selection:** Identify the best platforms for rapid audience growth today. Highlight platforms with high engagement and viral potential.

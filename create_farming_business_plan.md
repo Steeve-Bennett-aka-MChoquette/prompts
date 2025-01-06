@@ -1,3 +1,11 @@
+---
+title: "Create Farming Business Plan"
+tags: ["Entrepreneur", "Investment", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_farming_business_plan.md"
+---
+
 Create a comprehensive business plan for venturing into farming in South Africa, aimed at securing funding from the Land and Agricultural Development Bank of South Africa. The business plan should include:
 
 1. **Executive Summary**:

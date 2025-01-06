@@ -1,3 +1,11 @@
+---
+title: "Build Saas Product Guide"
+tags: ["App Development", "Software", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/build_saas_product_guide.md"
+---
+
 Create a comprehensive guide on how to build a Software as a Service (SAAS) product. Your response should include detailed explanations and step-by-step instructions for each of the following components:
 
 1. **Market Research:**

@@ -1,3 +1,11 @@
+---
+title: "ExecutiveAssistantEfficiencyGuide.md"
+tags: ["Career Advice", "Productivity", "Time Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ExecutiveAssistantEfficiencyGuide.md"
+---
+
 Create a detailed guide on how to be more efficient as an Executive Assistant and outline tricks and skills that can be learned to improve in this role. The response should cover the following aspects:
 
 - **Time Management Techniques**: Describe effective time management methods tailored for Executive Assistants, such as prioritization strategies, and the use of scheduling tools.

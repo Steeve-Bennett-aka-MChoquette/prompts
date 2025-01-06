@@ -1,3 +1,11 @@
+---
+title: "Create Marketing Strategy for DJ"
+tags: ["Career Advice", "Marketing", "Music"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_strategy_for_dj.md"
+---
+
 Create a comprehensive action plan and marketing strategy for a DJ/producer aiming to revitalize their career. Consider the following objectives:
 
 - **Social Media Action Plan**: Develop a strategy to effectively utilize social media platforms for increased visibility and engagement. Include specific platforms, content types, posting frequency, and tips for boosting interaction and visibility.

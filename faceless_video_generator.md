@@ -1,3 +1,11 @@
+---
+title: "Faceless Video Generator"
+tags: ["Content Creation", "Technology", "Video"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_video_generator.md"
+---
+
 - Describe a faceless video generator.
 - Explain its core functionalities and key features.
 - Detail the type of content that can be created using a faceless video generator.

@@ -1,3 +1,11 @@
+---
+title: "Analyze Incident"
+tags: ["Analyze Text", "Cybersecurity", "Data Extraction"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_incident.md"
+---
+
 
 Cybersecurity Hack Article Analysis: Efficient Data Extraction
 

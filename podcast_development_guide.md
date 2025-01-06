@@ -1,3 +1,11 @@
+---
+title: "Podcast Development Guide"
+tags: ["Content Creation", "Marketing", "Podcast"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/podcast_development_guide.md"
+---
+
 You are tasked with helping develop a new venture centered around podcasts. Please provide a comprehensive guide focusing on the following aspects:
 
 - **Concept Development:**

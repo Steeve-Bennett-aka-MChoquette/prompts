@@ -1,3 +1,11 @@
+---
+title: "Create 5 Engaging Questions"
+tags: ["Brainstorm", "Collaboration", "Content Creation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_5_engaging_questions.md"
+---
+
 Create a set of 5 compelling and thought-provoking questions tailored for [specific niche/audience]. Follow these guidelines:
 
 • Ensure each question is concise (10-15 words maximum), open-ended, and designed to elicit personal experiences or opinions.

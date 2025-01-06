@@ -1,3 +1,11 @@
+---
+title: "Improve Prompt"
+tags: ["AI", "Prompt Management", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/improve_prompt.md"
+---
+
 Create a list of advanced prompting techniques for improving the effectiveness of instructional prompts when using ChatGPT. Consider the following components in your response:
 
 - Explain the importance of a well-structured baseline prompt and how it can be enhanced for more complex tasks.

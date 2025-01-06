@@ -1,3 +1,11 @@
+---
+title: "Statement of Assets and Liabilities Presentation"
+tags: ["Finance", "Personal Finance", "Presentation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/statement_of_assets_and_liabilities_presentation.md"
+---
+
 Create a detailed and informative presentation on the topic "Statement of Assets and Liabilities." The presentation should include:
 
 - An introduction to what a Statement of Assets and Liabilities is.

@@ -1,3 +1,11 @@
+---
+title: "Personal Brand Content Creation"
+tags: ["Coaching", "Content Creation", "Personal Brand"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/personal_brand_content_creation.md"
+---
+
 Here is the ChatGPT prompt based on the analysis of the request:
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "Analyze News Content Generation"
+tags: ["Content Creation", "News", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_news_content_generation.md"
+---
+
 - Write a detailed and compelling article in the "News Analysis" category for a .news domain, focusing on current trending news stories.
 - Ensure the article includes thoroughly researched information, drawing connections between past events, political research papers, or similar incidents to reveal a broader context and deliver insightful conclusions.
 - Aim to evoke an "aha moment" or a "chill down the spine" for readers by presenting findings and connections they may not have previously considered.

@@ -1,3 +1,11 @@
+---
+title: "E-commerce Skills and Time Management"
+tags: ["Affiliate Marketing", "E-commerce", "Time Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/e-commerce_skills_and_time_management.md"
+---
+
 Create a comprehensive response that addresses the following aspects for someone learning skills about e-commerce to launch an online affiliate marketing business, while struggling with time management and feelings of being overwhelmed:
 
 - Provide a beginner-friendly overview of essential e-commerce skills needed for starting an affiliate marketing business. Highlight key areas such as market research, content creation, SEO, and digital marketing.
