@@ -1,3 +1,11 @@
+---
+title: "Create Engaging TikTok Prompts"
+tags: ["Content Creation", "Marketing", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_engaging_tiktok_prompts.md"
+---
+
 Create a list of effective, engaging, and creative prompts for TikTok product videos aimed at driving virality, considering the following elements:
 
 1. **Attention-Grabbing Hooks:**

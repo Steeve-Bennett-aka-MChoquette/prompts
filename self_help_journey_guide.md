@@ -1,3 +1,11 @@
+---
+title: "Self-Help Journey Guide"
+tags: ["Mindfulness", "Personal Brand", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/self_help_journey_guide.md"
+---
+
 Create a self-help and inner work guide for a six-month journey. The guide should include a detailed checklist with weekly or daily tasks that inspire reflection, promote mental stimulation, and encourage periods of peaceful introspection. These tasks should relate to self-discovery, exploration of personal boundaries, understanding insecurities, evaluating beliefs about oneself, and assessing emotional responses. Structure the guide to help achieve personal growth milestones, involving:
 
 - **Inquisitive Tasks & Mental Stimulation**: 

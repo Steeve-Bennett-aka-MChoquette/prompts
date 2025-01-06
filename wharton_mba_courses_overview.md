@@ -1,3 +1,11 @@
+---
+title: "Wharton MBA Courses Overview"
+tags: ["Courses", "Education", "MBA"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/wharton_mba_courses_overview.md"
+---
+
 Certainly! Here is the ChatGPT prompt based on the provided request:
 
 ---

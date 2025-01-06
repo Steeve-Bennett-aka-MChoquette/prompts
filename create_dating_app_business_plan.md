@@ -1,3 +1,11 @@
+---
+title: "Create Dating App Business Plan"
+tags: ["App Development", "Entrepreneur", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_dating_app_business_plan.md"
+---
+
 Create a detailed business plan for a new dating app. The plan should cover the following areas:
 
 - **App Concept and Features:**

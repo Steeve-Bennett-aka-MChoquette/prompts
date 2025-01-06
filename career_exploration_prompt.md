@@ -1,3 +1,11 @@
+---
+title: "Career Exploration Prompt"
+tags: ["Career Advice", "Job Search", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/career_exploration_prompt.md"
+---
+
 Create a ChatGPT prompt that helps someone explore potential career paths.
 
 Prompt:

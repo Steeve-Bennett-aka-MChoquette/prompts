@@ -1,3 +1,11 @@
+---
+title: "Create Sales Tracker Plan"
+tags: ["Investment", "Sales", "Team Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_sales_tracker_plan.md"
+---
+
 Create a comprehensive sales tracker plan tailored for an investment advisory team focusing on financial assets like Treasury bonds and various unit trusts. The goal of this sales tracker is to monitor sales performance and efficiency across different team members and asset classes. Ensure the tracker includes the following components:
 
 - **Sales Tracking:**

@@ -1,3 +1,11 @@
+---
+title: "Summarize Newsletter"
+tags: ["Analyze Text", "Content Creation", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_newsletter.md"
+---
+
 Create a bi-weekly newsletter tailored for a loan officer aiming to build and strengthen relationships with real estate agents to increase business referrals. The goal is to close more loans by building the "know, like, and trust" factor with realtors through engaging and valuable email content. The email content should set the loan officer apart from competitors and position them as a trusted partner. Please address the following components:
 
 - Develop a theme or focus for each newsletter that is relevant and beneficial to real estate agents.

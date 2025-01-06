@@ -1,3 +1,11 @@
+---
+title: "Faceless TikTok Channel Plan"
+tags: ["Content Creation", "Social Media", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_tiktok_channel_plan.md"
+---
+
 Create a detailed plan for building a successful faceless TikTok channel focused on [TOPIC]. Address the following aspects:
 
 - **Content Strategy**

@@ -1,3 +1,11 @@
+---
+title: "Peterbilt Truck Parts Course Outline"
+tags: ["Courses", "Students", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/peterbilt_truck_parts_course_outline.md"
+---
+
 Create a comprehensive and detailed course outline on Peterbilt truck parts for training and teaching purposes aimed at students and staff. Ensure the course covers essential aspects such as:
 
 - **Introduction to Peterbilt Trucks:**

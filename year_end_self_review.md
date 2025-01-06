@@ -1,3 +1,11 @@
+---
+title: "Year End Self Review"
+tags: ["Collaboration", "Corporate Career", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/year_end_self_review.md"
+---
+
 Create a year-end self-review as an accomplished executive assistant supporting the COO, CFO, and CCO. Include the following components in your self-review:
 
 - **Summary of Achievements**: Provide a detailed description of your key accomplishments throughout the year. Focus on how you’ve contributed to the success of the COO, CFO, and CCO, highlighting specific projects, initiatives, or challenges you have managed or supported effectively.

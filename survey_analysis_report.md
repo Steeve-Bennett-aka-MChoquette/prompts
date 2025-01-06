@@ -1,3 +1,11 @@
+---
+title: "Survey Analysis Report"
+tags: ["Community", "Culture", "Surveys"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/survey_analysis_report.md"
+---
+
 Create a comprehensive report based on the analysis of a survey for the AGBU Toronto, focusing on the Armenian community. You are the Youth Program Coordinator, and the report should be written from your perspective:
 
 1. **Survey Analysis**:

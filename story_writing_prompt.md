@@ -1,3 +1,11 @@
+---
+title: "Story Writing Prompt"
+tags: ["Creative Writing", "Literature", "Story Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/story_writing_prompt.md"
+---
+
 Provide a creative, engaging, and insightful short story on any topic of your choice. Ensure the story includes:
 
 - A clear beginning, middle, and end.

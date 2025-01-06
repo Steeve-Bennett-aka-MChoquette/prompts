@@ -1,3 +1,11 @@
+---
+title: "LinkedIn Profile Summary Creation"
+tags: ["Career Advice", "LinkedIn", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/linkedin_profile_summary.md"
+---
+
 Create a summary for a LinkedIn profile that captures the attention of recruiters and other professionals. Ensure the summary highlights the following components:
 
 - **Professional Background**: Include key industries, roles, and experiences.

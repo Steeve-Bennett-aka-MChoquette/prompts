@@ -1,3 +1,11 @@
+---
+title: "Create AI Business Guide"
+tags: ["AI", "Entrepreneur", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ai_business_guide.md"
+---
+
 Provide a comprehensive guide on starting an AI business. Cover the following aspects:
 
 - Overview of the AI industry and its current trends.

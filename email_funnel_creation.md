@@ -1,3 +1,11 @@
+---
+title: "Email Funnel Creation"
+tags: ["Email", "Family", "Health"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/email_funnel_creation.md"
+---
+
 Create a 7-email series funnel for Healthy🌼Happy🌼Families, a Facebook group for moms who want to improve their family's health and well-being. The objective is to convert group members into Juice Plus+ customers, with a goal of acquiring 44 customers in 2 months. Consider the following in your response:
 
 - **Audience Understanding**: The members are busy moms looking for simple, affordable ways to improve their family’s health.

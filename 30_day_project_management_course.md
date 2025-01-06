@@ -1,3 +1,11 @@
+---
+title: "30 Day Project Management Course"
+tags: ["Courses", "Project Management", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/30_day_project_management_course.md"
+---
+
 Create a comprehensive step-by-step 30-day course on Project Management for beginners who have little or no prior knowledge. The course should guide participants from foundational concepts to more advanced topics systematically. Ensure each step is clear and detailed. Break down the content into daily lessons that gradually build on each other. Incorporate exercises, practical examples, and assessments to reinforce learning. Pay attention to:
 
 - **Introduction to Project Management**: Explain basic terminologies and principles.

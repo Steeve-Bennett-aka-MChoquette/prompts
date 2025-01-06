@@ -1,3 +1,11 @@
+---
+title: "Find AI Tools for Data Analysis"
+tags: ["AI", "Data", "Visualizations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/find_ai_tools_for_data_analysis.md"
+---
+
 Create a comprehensive ChatGPT prompt for finding the best AI tools to analyze data, provide insights, and generate visual representations:
 
 - Understand and identify the key requirements for analyzing data with AI tools.

@@ -1,3 +1,11 @@
+---
+title: "Extract Content from YouTube and Podcasts"
+tags: ["Data Extraction", "Podcast", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_content_from_youtube_and_podcasts.md"
+---
+
 - "How can I convert YouTube videos, transcripts, or podcasts into a file that can be uploaded and analyzed?"
 - "List the steps to extract content from YouTube videos."
 - "Describe how to extract transcripts from podcasts."

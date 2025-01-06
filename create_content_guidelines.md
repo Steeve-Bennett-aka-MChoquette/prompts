@@ -1,3 +1,11 @@
+---
+title: "Create Content Guidelines"
+tags: ["Content Creation", "Marketing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_content_guidelines.md"
+---
+
 Create content using AI-focused techniques with the following guidelines:
 
 - **Purpose**: Clearly define the main purpose or goal of the content. Is it to inform, entertain, persuade, or educate?

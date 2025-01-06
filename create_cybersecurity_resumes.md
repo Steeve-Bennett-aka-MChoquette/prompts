@@ -1,3 +1,11 @@
+---
+title: "Create Cybersecurity Resumes"
+tags: ["Career Advice", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_cybersecurity_resumes.md"
+---
+
 Create resumes for Cybersecurity Analysts and Security Operations Center (SOC) Analysts that will impress recruiters and hiring managers, increasing the likelihood of an interview invitation. Consider the following:
 
 - Emphasize the essential skills, such as threat analysis, risk management, security protocols, and incident response.

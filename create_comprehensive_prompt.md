@@ -1,3 +1,11 @@
+---
+title: "Create Comprehensive Prompt"
+tags: ["AI", "Prompt Management", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_comprehensive_prompt.md"
+---
+
 I'm here to help you with your request. Although your request was simply "all," I will create a detailed and comprehensive ChatGPT prompt to guide a response that could potentially encompass a wide range of topics or tasks. Here's an adaptable prompt:
 
 ---

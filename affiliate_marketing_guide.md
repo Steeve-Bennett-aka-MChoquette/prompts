@@ -1,3 +1,11 @@
+---
+title: "Affiliate Marketing Guide"
+tags: ["Affiliate Marketing", "Health", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/affiliate_marketing_guide.md"
+---
+
 Create a comprehensive guide on setting up affiliate marketing for wellness products. Make sure to address the following key points:
 
 - Explain the steps involved in setting up an affiliate marketing strategy specifically for wellness products.

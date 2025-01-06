@@ -1,3 +1,11 @@
+---
+title: "Solo Travel Guide"
+tags: ["Guides", "Solo Travel", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/solo_travel_guide.md"
+---
+
 Create a comprehensive guide to solo traveling that helps a traveler decide where to go and when to visit based on factors such as climate, events, and popularity throughout the year. Include the following elements:
 
 - **Destination Recommendations**: Suggest top destinations suitable for solo travel and explain why they are ideal for solo visitors. Consider factors such as safety, culture, accessibility, and local experiences.

@@ -1,3 +1,11 @@
+---
+title: "Optimize Website SEO and UX"
+tags: ["Content Creation", "SEO", "Web Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/optimize_website_seo_and_ux.md"
+---
+
 Create a comprehensive guide on optimizing website SEO and UX. Your guidance should specifically address the following aspects:
 
 - **Website Structure Optimization**: 

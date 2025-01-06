@@ -1,3 +1,11 @@
+---
+title: "Improving Patient Experience Report"
+tags: ["Data", "Health", "Surveys"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/improving_patient_experience_report.md"
+---
+
 Create a comprehensive draft for a 20-page report based on patient experience data collected during Enter & View Visits in the UK. The draft should include both text and graphs. Here's the structure and focus needed for the report:
 
 - **Introduction**

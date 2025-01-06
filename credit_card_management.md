@@ -1,3 +1,11 @@
+---
+title: "Credit Card Management"
+tags: ["Budgeting", "Excel", "Personal Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/credit_card_management.md"
+---
+
 Create a detailed plan to design a spreadsheet or form for managing multiple credit cards. Ensure this tool helps track and analyze several key financial metrics to maintain credit card utilization under 30% through bi-weekly payments. Specifically, your response should include:
 
 - Instructions on how to set up a spreadsheet or form with fields for each key metric: credit card limits, balances due, statement dates, and credit utilization.

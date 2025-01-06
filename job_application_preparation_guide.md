@@ -1,3 +1,11 @@
+---
+title: "Job Application Preparation Guide"
+tags: ["Career Advice", "Job Interview", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/job_application_preparation_guide.md"
+---
+
 Create a comprehensive guide to help a candidate with minimal experience, potentially someone who has a small YouTube channel, to effectively prepare for a job application and interview, highlighting their value. Follow the steps below meticulously:
 
 1. **Job Listing Analysis:**

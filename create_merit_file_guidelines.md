@@ -1,3 +1,11 @@
+---
+title: "Create Merit File Guidelines"
+tags: ["Academic", "Professional Development", "Teaching"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_merit_file_guidelines.md"
+---
+
 Certainly! Here is the ChatGPT prompt:
 
 - Compose a detailed description of how a college professor can effectively present their contributions in a merit file. This includes:

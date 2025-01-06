@@ -1,3 +1,11 @@
+---
+title: "Transcribe Youtube Video"
+tags: ["Content Creation", "Data Extraction", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transcribe_youtube_video.md"
+---
+
 - "Your task is to provide a complete transcript of a YouTube video. Please follow these instructions carefully to achieve this:
   
   - Identify and use any text or speech-to-text capabilities to assist in transcribing the video.

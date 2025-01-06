@@ -1,3 +1,11 @@
+---
+title: "Excel Guide for Business Managers"
+tags: ["Courses", "Data", "Excel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/excel_guide_for_business_managers.md"
+---
+
 Create a guide on using Microsoft Excel for business managers who want to utilize intermediate-level skills for report creation and management. The guide should include:
 
 - **Key Intermediate Features of Excel**:

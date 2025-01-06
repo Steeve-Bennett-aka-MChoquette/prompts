@@ -1,3 +1,11 @@
+---
+title: "Create Practice Tests"
+tags: ["Courses", "Medical", "School"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_practice_tests.md"
+---
+
 Create a series of practice test questions and resources tailored for different educational and professional contexts. Ensure that each set of practice questions is designed to match the format and content of the relevant exam or test. Use the following specifications to guide your creation of practice tests:
 
 - **Canadian Universities:**

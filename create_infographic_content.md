@@ -1,3 +1,11 @@
+---
+title: "Create Infographic Content"
+tags: ["Content Creation", "Health", "Therapy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_infographic_content.md"
+---
+
 - Hi ChatGPT, I need help with two tasks related to blog articles and infographics for my physical therapy clinics in Montréal. 
 
 Task 1: Adding Inline Citations to Blog Articles

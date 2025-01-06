@@ -1,3 +1,11 @@
+---
+title: "Humanize AI Text"
+tags: ["AI", "Content Creation", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/humanize_ai_text.md"
+---
+
 - Take the following AI-generated text.
 - Humanize it to ensure it isn’t detectable by AI products and software.
 - Maintain a business professional tone.

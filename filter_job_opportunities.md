@@ -1,3 +1,11 @@
+---
+title: "Filter Job Opportunities"
+tags: ["Career Advice", "Job Search", "LinkedIn"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/filter_job_opportunities.md"
+---
+
 Here is your ChatGPT prompt:
 
 ---

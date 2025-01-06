@@ -1,3 +1,11 @@
+---
+title: "Motivation Guidelines Calendar"
+tags: ["Motivation", "Productivity", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/motivation_guidelines_calendar.md"
+---
+
 Create a comprehensive guideline for staying motivated and tracking progress effectively. The guideline should be presented in the form of a calendar. Consider including the following elements:
 
 - **Daily tasks**: Suggest activities or habits to maintain motivation on a daily basis.

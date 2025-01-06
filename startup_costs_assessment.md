@@ -1,3 +1,11 @@
+---
+title: "Startup Costs Assessment"
+tags: ["Budgeting", "Entrepreneur", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/startup_costs_assessment.md"
+---
+
 - Provide a detailed outline of the start-up costs associated with establishing a consumer goods company.
 - Cover the following sub-tasks:
   - Identify and list typical fixed costs such as office/building rental, utility setup, and licensing fees.

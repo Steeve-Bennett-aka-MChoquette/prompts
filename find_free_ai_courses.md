@@ -1,3 +1,11 @@
+---
+title: "Find Free AI Courses"
+tags: ["AI", "Courses", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/find_free_ai_courses.md"
+---
+
 Create a comprehensive guide on how to find free AI courses online. Your response should include:
 
 - An overview of reputable platforms and websites that offer free AI courses.

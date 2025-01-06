@@ -1,3 +1,11 @@
+---
+title: "Analyze Trading Card Sales"
+tags: ["E-commerce", "Market Research", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_trading_card_sales.md"
+---
+
 Create a comprehensive analysis for Pokémon trading card sales focusing on Elite Trainer Boxes (ETBs) and individual cards:
 
 - Identify trends in ETBs, with an emphasis on the Pokémon Center version of the "Chilling Reign" ETB. Specifically, check if its price has dropped by 25% over the last two months. Use websites like TCGplayer, eBay, and Poledata.io for reference, either through direct data scraping (checking any terms and conditions) or manually accessing this information.

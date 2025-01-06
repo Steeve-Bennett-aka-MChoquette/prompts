@@ -1,3 +1,11 @@
+---
+title: "Social Media Engagement Strategies"
+tags: ["Content Creation", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_engagement_strategies.md"
+---
+
 Here is your ChatGPT prompt:
 
 ---

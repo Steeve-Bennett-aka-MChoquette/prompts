@@ -1,3 +1,11 @@
+---
+title: "Summarize Meeting Notes"
+tags: ["Meetings", "Productivity", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_meeting_notes.md"
+---
+
 **ChatGPT Prompt:**
 
 - Please summarize the meeting minutes provided and highlight key points in bullet-point format. This should include any major topics discussed, decisions made, and significant insights shared during the meeting.

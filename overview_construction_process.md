@@ -1,3 +1,11 @@
+---
+title: "Overview Construction Process"
+tags: ["Construction"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/overview_construction_process.md"
+---
+
 Provide a detailed and comprehensive overview of the construction processes involved in building a residential structure from start to completion. The response should include:
 
 - **Pre-construction phase:**

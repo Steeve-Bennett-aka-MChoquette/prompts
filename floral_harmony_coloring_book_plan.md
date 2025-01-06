@@ -1,3 +1,11 @@
+---
+title: "FloralHarmonyColoringBookPlan"
+tags: ["Art", "Books", "Creative Projects"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/floral_harmony_coloring_book_plan.md"
+---
+
 Create a detailed plan for a floral harmony-themed coloring book. Your plan should include:
 
 - **Size and Format:**

@@ -1,3 +1,11 @@
+---
+title: "Terms And Conditions Document"
+tags: ["Coaching", "Legal", "Privacy Policy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/terms_and_conditions_document.md"
+---
+
 Create a comprehensive Terms and Conditions document for a UK-based website that provides resources, coaching, and personalized roadmap development, including community links to a Facebook community site. Ensure the Terms and Conditions address the following elements:
 
 - **Services Offered**: Define the nature of the services provided, including coaching, resource availability, and personalization of roadmaps. Mention the association with Expert Medical Advisers who work independently and hold their own liability insurance.

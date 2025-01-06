@@ -1,3 +1,11 @@
+---
+title: "Digital Marketing Coaching Guide"
+tags: ["Coaching", "Courses", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_marketing_coaching_guide.md"
+---
+
 Create a comprehensive guide for new coaches in digital marketing e-learning platforms aimed at helping new digital marketers. Consider including the following elements:
 
 - **Introduction to Digital Marketing E-Learning:**

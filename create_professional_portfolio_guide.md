@@ -1,3 +1,11 @@
+---
+title: "Create Professional Portfolio Guide"
+tags: ["Career Advice", "Content Creation", "Creative"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_professional_portfolio_guide.md"
+---
+
 Create a detailed guide for someone looking to build a professional portfolio. Include the following key aspects:
 
 - Define what a portfolio is and its importance in showcasing skills, experience, and accomplishments.

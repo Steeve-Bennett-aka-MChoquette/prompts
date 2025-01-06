@@ -1,3 +1,11 @@
+---
+title: "ADHD Characters Dialogue"
+tags: ["ADHD", "Mental Health", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/adhd_characters_dialogue.md"
+---
+
 Create a 5-minute blog script featuring two characters, one representing an adult and the other a 15-year-old boy, both dealing with ADHD. Please follow these guidelines:
 
 - **Setting & Introduction**: Start with a brief introduction to the characters and the central theme of managing ADHD in their daily lives.

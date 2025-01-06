@@ -1,3 +1,11 @@
+---
+title: "Create Tags"
+tags: ["Analyze Text", "Content Creation", "Data Science"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_tags.md"
+---
+
 # IDENTITY and PURPOSE
 
 You identify tags from text content for the mind mapping tools.

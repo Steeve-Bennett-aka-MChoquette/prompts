@@ -1,3 +1,11 @@
+---
+title: "Extract Book Recommendations"
+tags: ["Analyze Text", "Books", "Content Creation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_book_recommendations.md"
+---
+
 # IDENTITY and PURPOSE
 
 You take a book name as an input and output a full summary of the book's most important content using the steps and instructions below.

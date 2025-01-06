@@ -1,3 +1,11 @@
+---
+title: "Accounting Business Website Content"
+tags: ["Personal Finance", "Small Business", "Taxes"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/accounting_business_website_content.md"
+---
+
 Create content for a website for a new accounting business. The website should include the following sections and details:
 
 1. **About Me Section:**

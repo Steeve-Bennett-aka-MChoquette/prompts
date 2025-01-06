@@ -1,3 +1,11 @@
+---
+title: "Analyze ITSM Issues"
+tags: ["IT Service Management", "Operational Excellence", "Problem Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_itsm_issues.md"
+---
+
 Create a detailed analysis to identify and manage common IT service management (ITSM) issues across a professional services firm's organization. Focus on problem management, and follow these steps to guide your response:
 
 - Describe the common problems typically encountered in ITSM processes within professional services firms. 

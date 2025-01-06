@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Business Plan Guide"
+tags: ["Entrepreneur", "Market Research", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/comprehensive_business_plan_guide.md"
+---
+
 Create a detailed guide on how to develop a comprehensive business plan. Your response should cover the following key components:
 
 - **Executive Summary:** Explain its importance and what it should include, such as the business concept, mission statement, and basic information about products or services.

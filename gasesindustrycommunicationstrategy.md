@@ -1,3 +1,11 @@
+---
+title: "GasesIndustryCommunicationStrategy"
+tags: ["Communication", "Corporate Career", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/gasesindustrycommunicationstrategy.md"
+---
+
 Create a comprehensive communication strategy for a company in the gases industry. Your strategy should cover the following points:
 
 - **Objective Identification**: Start by defining the main objectives of the communication strategy. What does the company aim to achieve with its communications (e.g., brand awareness, customer engagement, reputation management)?

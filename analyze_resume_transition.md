@@ -1,3 +1,11 @@
+---
+title: "Analyze Resume Transition"
+tags: ["Career Change", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_resume_transition.md"
+---
+
 Create a resume and cover letter tailored for a career transition from a finance professional to an account manager in the information technology support industry. Consider the following sub-tasks and requirements:
 
 - **Identify Transferable Skills:**

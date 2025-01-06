@@ -1,3 +1,11 @@
+---
+title: "Blog Creation Tasks"
+tags: ["Blog", "Content Creation", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blog_creation_tasks.md"
+---
+
 Help me with the following tasks related to creating a successful blog:
 
 1. **Content Ideas:**

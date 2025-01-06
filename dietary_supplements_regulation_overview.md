@@ -1,3 +1,11 @@
+---
+title: "Dietary Supplements Regulation Overview"
+tags: ["Diet", "Health", "Regulations"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dietary_supplements_regulation_overview.md"
+---
+
 Explain the regulatory and scientific landscape concerning the sale and regulation of dietary supplements. Ensure your response covers the following aspects:
 
 - Define what dietary supplements are in simple terms.

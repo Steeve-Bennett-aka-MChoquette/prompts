@@ -1,3 +1,11 @@
+---
+title: "Create Compelling Website Copy"
+tags: ["Content Creation", "Marketing", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_compelling_website_copy.md"
+---
+
 Create compelling and on-brand copy for a kitchen renovation company website, ensuring the content is well-written, clear, and free from repetition or keyword stuffing. Follow these guidelines to capture the essence of the brand and convey it effectively to potential customers:
 
 - **Brand Alignment**: Understand the kitchen renovation company's brand values, tone, and style. Ensure the copy reflects this identity consistently throughout the website.

@@ -1,3 +1,11 @@
+---
+title: "Pinterest Marketing Guide"
+tags: ["Marketing", "Pinterest", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/pinterest_marketing_guide.md"
+---
+
 Create a comprehensive guide on learning and mastering Pinterest marketing from scratch. The guide should cover:
 
 - **Introduction to Pinterest:**

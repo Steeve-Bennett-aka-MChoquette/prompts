@@ -1,3 +1,11 @@
+---
+title: "Create Article Structure"
+tags: ["Content Creation", "Research", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_article_structure.md"
+---
+
 - Please write a detailed and engaging article on the selected topic.
 - Include an introduction that provides an overview and context.
 - Develop the main body with clear and well-organized sections.

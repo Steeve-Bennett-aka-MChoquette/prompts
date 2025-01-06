@@ -1,3 +1,11 @@
+---
+title: "Blog Post Tutorial"
+tags: ["Blog", "Content Creation", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blog_post_tutorial.md"
+---
+
 Given a YouTube video transcript containing a step-by-step tutorial, create a comprehensive 1500-word blog post that guides readers through the process. Follow these guidelines:
 
 • Structure:

@@ -1,3 +1,11 @@
+---
+title: "Improve Academic Writing"
+tags: ["Analyze Text", "Proofreading", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/improve_academic_writing.md"
+---
+
 ### ChatGPT Prompt:
 
 I need help editing my essays and literature reviews. Please perform the following tasks:

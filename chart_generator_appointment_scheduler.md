@@ -1,3 +1,11 @@
+---
+title: "Chart Generator Appointment Scheduler"
+tags: ["AI", "Appointment Scheduling", "Data"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/chart_generator_appointment_scheduler.md"
+---
+
 Design a System prompt for a Chart Generator and appointment scheduler AI Assistant tailored for users interested in building AI Agents, Systems, and Automation. The prompt should address the following features and functionalities:
 
 - **Data Visualization:**

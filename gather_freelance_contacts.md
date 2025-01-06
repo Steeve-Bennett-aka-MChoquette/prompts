@@ -1,3 +1,11 @@
+---
+title: "Gather Freelance Contacts"
+tags: ["Content Creation", "Freelancing", "Lead Generation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/gather_freelance_contacts.md"
+---
+
 Here is the ChatGPT prompt:
 
 "I need you to help me gather contact information from LinkedIn and the internet for businesses, magazines, and organizations that could be interested in my freelance writing services. Specifically, target those that need content writing for their audience interested in an active, healthy lifestyle. Follow these steps:

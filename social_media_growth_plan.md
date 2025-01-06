@@ -1,3 +1,11 @@
+---
+title: "Social Media Growth Plan"
+tags: ["AI", "Content Creation", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_growth_plan.md"
+---
+
 Create a comprehensive plan to establish a successful social media page focused on sharing my personal interests, leveraging AI technologies to facilitate growth and engagement. 
 
 - Provide tips for choosing the right social media platform(s) based on target audience and type of content.

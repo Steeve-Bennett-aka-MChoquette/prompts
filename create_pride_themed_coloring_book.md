@@ -1,3 +1,11 @@
+---
+title: "Create Pride-Themed Coloring Book"
+tags: ["Art", "Culture", "Team Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_pride_themed_coloring_book.md"
+---
+
 Create a coloring book that celebrates pride with a focus on team sports. Follow these steps to complete the task:
 
 - Design six pages, each dedicated to a different sport: soccer, softball, pickleball, golf, darts, and chess.

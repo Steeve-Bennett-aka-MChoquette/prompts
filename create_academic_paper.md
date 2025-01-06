@@ -1,3 +1,11 @@
+---
+title: "Create Academic Paper"
+tags: ["Analyze Text"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_academic_paper.md"
+---
+
 Sure, here is a high-quality ChatGPT prompt that addresses the request:
 
 ---

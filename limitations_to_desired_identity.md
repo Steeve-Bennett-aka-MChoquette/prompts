@@ -1,3 +1,11 @@
+---
+title: "Limitations to Desired Identity"
+tags: ["Coaching", "Personal Development", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/limitations_to_desired_identity.md"
+---
+
 Create a 1000-word article addressing limiting beliefs that prevent individuals from achieving their desired identity. Follow these guidelines:
 
 • Target Audience: [Specify target audience]

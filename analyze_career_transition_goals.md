@@ -1,3 +1,11 @@
+---
+title: "Analyze Career Transition Goals"
+tags: ["Career Advice", "Leadership", "Personal Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_career_transition_goals.md"
+---
+
 Analyze the following job description (which you should enter below) and consider where I want to go in my career, specifically into people management. Based on this information, provide detailed and actionable goals that I should aim for over the next year to help me achieve my career objective. These goals will be entered into my personal development plan.
 
 - Review the current job description thoroughly.

@@ -1,3 +1,11 @@
+---
+title: "Write Cover Letter"
+tags: ["Career Advice", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_cover_letter.md"
+---
+
 Create a detailed and comprehensive ChatGPT prompt to assist with the following tasks:
 
 - Provide strategies for brainstorming and crafting a compelling and personalized application letter for Drama school, focusing on storytelling, highlighting unique experiences, and showcasing passion for drama.

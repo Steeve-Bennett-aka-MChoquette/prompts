@@ -1,3 +1,11 @@
+---
+title: "Start Company Guide"
+tags: ["Entrepreneur", "Market Research", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/start_company_guide.md"
+---
+
 Create a comprehensive step-by-step guide on how to start a company idea from scratch. Include detailed instructions and advice covering the following key areas:
 
 - **Idea Generation and Validation:**

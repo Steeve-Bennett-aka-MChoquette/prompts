@@ -1,3 +1,11 @@
+---
+title: "Flower Information Pages"
+tags: ["Biology", "Content Creation", "Gardening"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/flower_information_pages.md"
+---
+
 - Create 12 distinct pages, each dedicated to a different type of flower.
 - For each flower page, include the following details:
   - **Name of the flower**: Provide the common and scientific names.

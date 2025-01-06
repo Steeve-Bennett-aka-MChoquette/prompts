@@ -1,3 +1,11 @@
+---
+title: "Write 3 Tips Post"
+tags: ["Content Creation", "Self-Improvement", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_3_tips_post.md"
+---
+
 # Write 3 Tips Post
 
 ## Input Required:

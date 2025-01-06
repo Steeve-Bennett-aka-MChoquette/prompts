@@ -1,3 +1,11 @@
+---
+title: "Analyze Prompt PAS"
+tags: ["Content Creation", "Marketing", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_prompt_pas.md"
+---
+
 Find and summarize the specific "PAS" prompt mentioned in the TikTok video linked below:
 
 - URL: https://vm.tiktok.com/ZMh2cjJw3/

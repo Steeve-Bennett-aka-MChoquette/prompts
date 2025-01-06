@@ -1,3 +1,11 @@
+---
+title: "Comprehensive Guide Program Management Healthcare"
+tags: ["Data", "Health", "Program Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/comprehensive_guide_program_management_healthcare.md"
+---
+
 Create a comprehensive guide for addressing Program Management and Care Integration in the healthcare industry, specifically focusing on the following aspects:
 
 1. **Program Management**:

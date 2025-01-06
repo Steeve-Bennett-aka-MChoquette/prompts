@@ -1,3 +1,11 @@
+---
+title: "Create Coloring Book Pages"
+tags: ["Art", "Children", "Creativity"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_coloring_book_pages.md"
+---
+
 - Create 12 distinct black and white coloring book pages.
 - Each page should be suitable for a coloring book format.
 - Ensure variety in the designs, incorporating different themes or subjects such as nature, abstract patterns, animals, mandalas, or fantasy elements.

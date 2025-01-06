@@ -1,3 +1,11 @@
+---
+title: "Create Training Materials"
+tags: ["Insurance", "Presentation", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_training_materials.md"
+---
+
 You are an employee at an insurance company responsible for implementing Group IT policies. For this task, you need to:
 
 1. Understand the content of 18 Group IT policies over a period of 2 years.

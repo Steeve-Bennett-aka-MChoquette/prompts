@@ -1,3 +1,11 @@
+---
+title: "Create Twitter Thread"
+tags: ["Content Creation", "Social Media", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_twitter_thread.md"
+---
+
 - Read the provided article carefully to understand its key points and main arguments.
 - Analyze the content by identifying the main themes, supporting evidence, and conclusions.
 - Create a comprehensive Twitter thread based on this analysis, ensuring you:

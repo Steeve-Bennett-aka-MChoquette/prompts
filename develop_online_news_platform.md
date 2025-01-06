@@ -1,3 +1,11 @@
+---
+title: "Develop Online News Platform"
+tags: ["App Development", "Market Research", "News"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/develop_online_news_platform.md"
+---
+
 Create a comprehensive guide on how to develop an online platform focused on providing accurate news bulletins about African markets, specifically dedicated to the trade of commodities and movement of goods. The guide should be simple enough for users with low technological background and should ensure minimal data usage. Include the following aspects:
 
 - **Initial Research and Planning:**

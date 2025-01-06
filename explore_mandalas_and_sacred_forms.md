@@ -1,3 +1,11 @@
+---
+title: "Explore Mandalas and Sacred Forms"
+tags: ["Art", "Culture", "Mindfulness"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/explore_mandalas_and_sacred_forms.md"
+---
+
 Create a comprehensive 6-page guide that explores Mandalas and sacred forms. Please include the following components in detail:
 
 - **Introduction to Mandalas**: Provide an overview of what Mandalas are, including their historical and cultural significance. Discuss their origins in different cultures and religions.

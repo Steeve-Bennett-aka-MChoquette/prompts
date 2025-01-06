@@ -1,3 +1,11 @@
+---
+title: "Faceless TikTok Guidance"
+tags: ["Content Creation", "Social Media", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_tiktok_guidance.md"
+---
+
 Help me start a faceless TikTok channel by providing detailed guidance on the following aspects:
 
 - **Content Ideas**: Suggest engaging content ideas suitable for a faceless TikTok channel. Consider trends, challenges, storytelling, tutorials, and other content formats that do not require showing one's face.

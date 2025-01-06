@@ -1,3 +1,11 @@
+---
+title: "Investment Course Development"
+tags: ["Courses", "Investment", "Personal Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/investment_course_development.md"
+---
+
 Create a comprehensive, step-by-step course on Investments tailored for audiences in Uganda, ensuring both beginners and advanced learners find it accessible and valuable. The course should follow this structured outline:
 
 - **Course Structure**: Develop a step-by-step progression of the course content, starting from basic to advanced investment topics.

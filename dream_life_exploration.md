@@ -1,3 +1,11 @@
+---
+title: "Dream Life Exploration"
+tags: ["Personal Finance", "Self-Improvement", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dream_life_exploration.md"
+---
+
 Create a detailed and imaginative response about your ideal dream life. Consider including the following aspects:
 
 - **Lifestyle and Daily Routine**: Describe how you spend your typical day. What activities fill your timetable? How do you balance work and leisure?

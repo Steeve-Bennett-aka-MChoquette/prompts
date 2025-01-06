@@ -1,3 +1,11 @@
+---
+title: "Analyze Resume vs Role"
+tags: ["Career Advice", "Job Search", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_resume_vs_role.md"
+---
+
 Create a customizable resume tailored to various IT job descriptions in fields such as cybersecurity, network operations, and information systems security. Here are the details and guidelines to follow:
 
 - **Experience Background**:

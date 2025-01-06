@@ -1,3 +1,11 @@
+---
+title: "Create Email Template for Leaders"
+tags: ["Email", "Entrepreneur", "Leadership"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_email_template_for_leaders.md"
+---
+
 Create an email template to communicate with senior leaders that is clear, concise, and focused on driving business growth:
 
 - Start with a compelling subject line that captures attention and relates to increasing profit through targeting profitable customers and products.

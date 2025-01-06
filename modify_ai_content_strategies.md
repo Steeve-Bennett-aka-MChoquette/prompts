@@ -1,3 +1,11 @@
+---
+title: "Modify AI Content Strategies"
+tags: ["Content Creation", "Ethics", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/modify_ai_content_strategies.md"
+---
+
 Create a detailed and comprehensive guide on strategies to avoid AI detection and prevent plagiarism in written content. Your response should include:
 
 - A thorough explanation of common AI detection algorithms and methods used to identify AI-generated content.

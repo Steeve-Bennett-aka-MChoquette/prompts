@@ -1,3 +1,11 @@
+---
+title: "Government RFP Response"
+tags: ["Collaboration", "Content Creation", "Government"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/government_rfp_response.md"
+---
+
 Utilize this prompt to generate a comprehensive response:
 
 ---

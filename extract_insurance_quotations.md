@@ -1,3 +1,11 @@
+---
+title: "Extract Insurance Quotations"
+tags: ["Data Extraction", "Excel", "Insurance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_insurance_quotations.md"
+---
+
 ```markdown
 You are tasked with using ChatGPT to assist in data extraction, comparison, and report generation for insurance quotations from PDF files. Follow these detailed steps:
 

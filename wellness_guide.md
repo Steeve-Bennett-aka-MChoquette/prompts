@@ -1,3 +1,11 @@
+---
+title: "Wellness Guide"
+tags: ["Diet", "Fitness", "Health"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/wellness_guide.md"
+---
+
 Create a comprehensive guide on general wellness by addressing the following components:
 
 - Discuss effective workout routines that cater to various fitness levels, including beginner, intermediate, and advanced. Incorporate a mix of cardiovascular exercises, strength training, and flexibility workouts. Explain how these exercises can benefit overall health and well-being.

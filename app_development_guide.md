@@ -1,3 +1,11 @@
+---
+title: "App Development Guide"
+tags: ["App Development", "Market Research", "User Feedback"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/app_development_guide.md"
+---
+
 ### ChatGPT Prompt:
 
 I'm developing a new app and I need your help with several aspects. Please provide comprehensive responses to each of the following sub-tasks:

@@ -1,3 +1,11 @@
+---
+title: "Analyze Claims"
+tags: ["Analyze Text", "Debate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_claims.md"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with developing a solution for efficiently analyzing social media content to identify inconsistencies or issues relevant to legal cases, specifically for personal injury cases. Here’s what you need to tackle:

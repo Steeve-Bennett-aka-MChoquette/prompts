@@ -1,3 +1,11 @@
+---
+title: "Green Card Application Guide"
+tags: ["Family", "Immigration", "Legal"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/green_card_application_guide.md"
+---
+
 Create a detailed guide for someone looking to apply for a Green Card through marriage to a US citizen, focusing on a UK citizen planning to move to the USA in 2025. Include the following details:
 
 - **Eligibility:** Explain the eligibility criteria for obtaining a Green Card through marriage to a US citizen.

@@ -1,3 +1,11 @@
+---
+title: "Brainstorm Ideas Customer Pain"
+tags: ["Analyze Text", "Content Creation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_ideas_customer_pain.md"
+---
+
 - Analyze user interactions and discussions on Reddit and Quora to identify unmet needs or desires for applications that users express interest in.
 - Focus on extracting key themes, specific pain points, and frequent feature requests mentioned in user comments or posts related to apps and technology.
 - Summarize the data to highlight potential app ideas that do not currently exist but are in demand according to user discussions on these platforms.

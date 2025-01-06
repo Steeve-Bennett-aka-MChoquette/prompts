@@ -1,3 +1,11 @@
+---
+title: "Pain Points of Solopreneurs"
+tags: ["Entrepreneur", "Self-Improvement", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/pain_points_of_solopreneurs.md"
+---
+
 Create an analysis of the pain points faced by solopreneurs who are starting out on their entrepreneurship journey. Focus on identifying the common challenges and obstacles they encounter, and provide insights on how to understand these issues deeply. Your analysis should cover the following points:
 
 - Identify the typical challenges faced by solopreneurs at the beginning of their journey, such as financial management, time management, lack of network, and overwhelm.

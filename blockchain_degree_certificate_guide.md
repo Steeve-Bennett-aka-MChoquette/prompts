@@ -1,3 +1,11 @@
+---
+title: "Blockchain Degree Certificate Guide"
+tags: ["App Development", "Blockchain", "Smart Contracts"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blockchain_degree_certificate_guide.md"
+---
+
 Create a detailed guide for developing a blockchain application using Solidity for a University to generate degree certificates. The application should meet the following requirements:
 
 - **Blockchain Functionality**:

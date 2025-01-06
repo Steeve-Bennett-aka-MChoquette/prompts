@@ -1,3 +1,11 @@
+---
+title: "Predictive Chatbot Development"
+tags: ["AI", "Chatbots", "Games"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/predictive_chatbot_development.md"
+---
+
 Create a detailed and comprehensive plan to develop a chatbot using ChatGPT that can predict outcomes in the Aviator game. Consider the following aspects:
 
 - **Overview of the Aviator Game:**

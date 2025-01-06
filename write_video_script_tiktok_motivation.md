@@ -1,3 +1,11 @@
+---
+title: "Write Video Script TikTok Motivation"
+tags: ["Inspirational Quotes", "Motivation", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_video_script_tiktok_motivation.md"
+---
+
 Craft a comprehensive guide for a music artist on creating viral content videos to promote their music. Consider including the following elements in your response:
 
 - **Understanding the Audience**: Explain how to identify and analyze the target audience for the music. Discuss ways to use this information to tailor content that resonates with them.

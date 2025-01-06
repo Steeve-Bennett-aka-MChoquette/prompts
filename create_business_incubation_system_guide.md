@@ -1,3 +1,11 @@
+---
+title: "Create Business Incubation System Guide"
+tags: ["AI", "Coding", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_business_incubation_system_guide.md"
+---
+
 Create a detailed guide for someone without prior coding experience on how to develop a Business Incubation Management System for an innovation and incubation center. The system should:
 
 - Manage and track entrepreneur support programs and projects.

@@ -1,3 +1,11 @@
+---
+title: "Restaurante Garden Business Plan"
+tags: ["Entrepreneur", "Gardening", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/restaurante_garden_business_plan.md"
+---
+
 Develop a comprehensive business plan and ideation for a combined restaurant and plant/flower garden, known as a "Restaurante Garden". Please include the following components in your response:
 
 - **Concept Development:**

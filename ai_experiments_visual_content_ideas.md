@@ -1,3 +1,11 @@
+---
+title: "AI Experiments Visual Content Ideas"
+tags: ["AI", "Content Creation", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_experiments_visual_content_ideas.md"
+---
+
 Create an informative and engaging response for the following activities, which will be used across various platforms including YouTube, work projects, social media, and AI experiments involving pictures and videos:
 
 1. YouTube:

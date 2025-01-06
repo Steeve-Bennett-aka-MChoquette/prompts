@@ -1,3 +1,11 @@
+---
+title: "Leverage AI for Bid Responses"
+tags: ["AI", "Government", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/leverage_ai_for_bid_responses.md"
+---
+
 
 Create a comprehensive response for a small business aiming to leverage AI tools to enhance their bid response for a government disability employment services tender. Address the following sub-tasks:
 

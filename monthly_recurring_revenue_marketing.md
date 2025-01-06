@@ -1,3 +1,11 @@
+---
+title: "Monthly Recurring Revenue Marketing"
+tags: ["E-commerce", "Lead Generation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/monthly_recurring_revenue_marketing.md"
+---
+
 - "I am looking to create a comprehensive digital marketing program with a focus on generating Monthly Recurring Revenue (MRR). Please guide me through the process by addressing the following points:
   - Define what Monthly Recurring Revenue (MRR) is and its importance in a digital marketing program.
   - List the key components necessary for a successful digital marketing program aimed at generating MRR.

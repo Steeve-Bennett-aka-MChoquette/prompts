@@ -1,3 +1,11 @@
+---
+title: "Apply Financial Aid Private Schools"
+tags: ["Parenting", "Personal Finance", "School"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/apply_financial_aid_private_schools.md"
+---
+
 - Provide guidance on how to apply for financial aid for private school education in New Jersey.
 - Outline the typical steps involved in applying for financial aid for private schools.
 - List and explain the eligibility criteria commonly required for financial aid applications.

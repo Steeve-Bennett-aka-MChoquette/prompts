@@ -1,3 +1,11 @@
+---
+title: "Create Marketing eBook"
+tags: ["Books", "Content Creation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_ebook.md"
+---
+
 - Assume you're a world-class marketer like David Ogilvy. 
 - Based on an existing PDF, rewrite its content into a new eBook with a minimum word count of 25,000 words.
 - Focus on incorporating marketing perspectives and insights that are consistent with David Ogilvy's principles and techniques.

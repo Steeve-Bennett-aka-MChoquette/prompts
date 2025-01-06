@@ -1,3 +1,11 @@
+---
+title: "Create Logo"
+tags: ["Art", "Graphic Design"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_logo.md"
+---
+
 Design a professional logo for 'Godel Space,' a startup transforming the geospatial industry with real-time AI solutions via edge technology in satellites. Your task is to create a modern, clean, and inspiring logo that conveys themes of geospatial technology, innovation, and precision while highlighting the futuristic and impactful essence of the brand. Here are the specific components to include:
 
 - **Text Design:** 

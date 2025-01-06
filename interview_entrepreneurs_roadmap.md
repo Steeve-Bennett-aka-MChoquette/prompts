@@ -1,3 +1,11 @@
+---
+title: "Interview Entrepreneurs Roadmap"
+tags: ["Entrepreneur", "Market Research", "Product Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/interview_entrepreneurs_roadmap.md"
+---
+
 ### ChatGPT Prompt:
 
 Help me develop a roadmap and strategy to find and interview 100 Business Entrepreneurs (50 Russian-speaking and 50 English-speaking) for a free strategy session. Address the following sub-tasks and goals meticulously:

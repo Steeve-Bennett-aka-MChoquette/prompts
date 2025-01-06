@@ -1,3 +1,11 @@
+---
+title: "Dyslexia Reading Tutor Plan"
+tags: ["Education", "Students", "Teaching"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dyslexia_reading_tutor_plan.md"
+---
+
 Create a comprehensive lesson plan to tutor a child with dyslexia, focusing on improving reading skills through one-on-one instruction based on the science of reading. Your response should include:
 
 - An overview of the science of reading and how it specifically applies to students with dyslexia.

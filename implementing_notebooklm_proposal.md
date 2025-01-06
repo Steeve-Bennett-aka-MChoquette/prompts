@@ -1,3 +1,11 @@
+---
+title: "Implementing NotebookLM Proposal"
+tags: ["AI", "Collaboration", "Data"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/implementing_notebooklm_proposal.md"
+---
+
 Create a detailed proposal for implementing the Google NotebookLM tool as a knowledge hub powered by AI. The proposal should address the following aspects:
 
 - Highlight that Google NotebookLM is free and accessible to anyone with a Google account.

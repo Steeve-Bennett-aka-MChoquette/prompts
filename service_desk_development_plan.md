@@ -1,3 +1,11 @@
+---
+title: "Service Desk Development Plan"
+tags: ["Customer Support", "Team Management", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/service_desk_development_plan.md"
+---
+
 Create an annual or quarterly development plan for the service desk team aimed at improving efficiency, reducing issue resolution times, and unifying operations across all regions. The plan should address the following key areas:
 
 - **Training and Education:** Develop a program to educate teams with best practices to ensure high performance and consistency across all regions.

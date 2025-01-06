@@ -1,3 +1,11 @@
+---
+title: "Export ChatGPT Conversations"
+tags: ["Chatbots", "Data", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/export_chatgpt_conversations.md"
+---
+
 Create a detailed guide on how to export the chats from ChatGPT into documents or databases, preserving the valuable content. Please include:
 
 - Step-by-step instructions for exporting ChatGPT conversations into different formats (e.g., text files, PDF, Word documents).

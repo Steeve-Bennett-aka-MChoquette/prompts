@@ -1,3 +1,11 @@
+---
+title: "Marijuana Legal Landscape"
+tags: ["Health", "Legal", "Presentation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/marijuana_legal_landscape.md"
+---
+
 Create a comprehensive explanation that details the legal landscape concerning the sale and use of marijuana and CBD products in the United States. Your response should be tailored for a general presentation to the public and must cover the following key areas:
 
 - **State vs. Federal Laws**: Explain the differences and conflicts between state laws and federal laws regarding the sale and use of marijuana and CBD products. Highlight scenarios where state laws might allow uses that federal law prohibits.

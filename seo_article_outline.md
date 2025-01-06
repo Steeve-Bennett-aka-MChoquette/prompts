@@ -1,3 +1,11 @@
+---
+title: "SEO Article Outline"
+tags: ["Content Creation", "Marketing", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/seo_article_outline.md"
+---
+
 Create a comprehensive SEO-optimized article outline and content plan:
 
 1. Generate an extensive list of LSI and NLP keywords related to [TOPIC]. Include synonyms, related terms, and industry-specific jargon.

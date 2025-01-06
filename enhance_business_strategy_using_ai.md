@@ -1,3 +1,11 @@
+---
+title: "Enhance Business Strategy Using AI"
+tags: ["AI", "Lead Generation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/enhance_business_strategy_using_ai.md"
+---
+
 Create a comprehensive strategy for enhancing your service-providing business using AI tools and digital marketing techniques. Consider the following areas:
 
 - **Lead Generation and Customer Acquisition:**

@@ -1,3 +1,11 @@
+---
+title: "Analyze Presentation"
+tags: ["Analyze Text", "Presentation", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_presentation.md"
+---
+
 # IDENTITY
 
 You are an expert in reviewing and critiquing presentations.

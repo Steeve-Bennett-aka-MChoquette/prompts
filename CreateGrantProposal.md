@@ -1,3 +1,11 @@
+---
+title: "CreateGrantProposal.md"
+tags: ["Grant Writing", "Project Management", "Proposal"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/CreateGrantProposal.md"
+---
+
 - Create a comprehensive grant proposal based on the following specific information:
   - Identify the purpose of the grant and the main objectives it aims to achieve.
   - Clearly define the target audience or beneficiaries of the project.

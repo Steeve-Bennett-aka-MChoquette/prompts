@@ -1,3 +1,11 @@
+---
+title: "Find Entrepreneurs Strategy"
+tags: ["Entrepreneur", "Market Research", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/find_entrepreneurs_strategy.md"
+---
+
 Help me develop a roadmap and strategy to find and interview 100 Business Entrepreneurs (50 Russian-speaking and 50 English-speaking) for a free strategy session. Here are the detailed sub-tasks and goals I need you to address:
 
 1. **Finding 100 Business Entrepreneurs:**

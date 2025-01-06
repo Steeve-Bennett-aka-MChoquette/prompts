@@ -1,3 +1,11 @@
+---
+title: "Daycare Pitch Deck"
+tags: ["Childcare", "Investment", "School"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/daycare_pitch_deck.md"
+---
+
 Create a professional pitch deck seeking financing to set up a small daycare/independent school in Montreal, Quebec. The pitch deck should be designed to secure funding for the following:
 
 - Market research costs

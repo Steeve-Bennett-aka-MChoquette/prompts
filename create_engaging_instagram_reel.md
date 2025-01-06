@@ -1,3 +1,11 @@
+---
+title: "Create Engaging Instagram Reel"
+tags: ["Courses", "Instagram", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_engaging_instagram_reel.md"
+---
+
 Create a ChatGPT prompt to help generate an engaging short reel for Instagram, focused on promoting an online course for making babies smarter. 
 
 Here is the prompt:

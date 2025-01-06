@@ -1,3 +1,11 @@
+---
+title: "LinkedIn Profile Optimization"
+tags: ["E-commerce", "LinkedIn", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/linkedin_profile_optimization.md"
+---
+
 Create an optimized 'About' section for a LinkedIn profile specializing in tech, consultancy, eCommerce, sales, partnerships, and strategic/business development. The section should be engaging and professional, aligning with the user's career focus and expertise. Follow these guidelines:
 
 - **Introduction**: Start with a captivating sentence about who they are and what they’re passionate about. Highlight their dynamic nature and entrepreneurial approach.

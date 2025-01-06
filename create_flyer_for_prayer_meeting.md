@@ -1,3 +1,11 @@
+---
+title: "Create Flyer for Prayer Meeting"
+tags: ["Event Planning", "Graphic Design", "Religion"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_flyer_for_prayer_meeting.md"
+---
+
 Create a flyer for the annual prayer meeting of the America Back to God Mission. The flyer should convey a patriotic theme and include the following elements:
 
 - **Theme:** Patriotic

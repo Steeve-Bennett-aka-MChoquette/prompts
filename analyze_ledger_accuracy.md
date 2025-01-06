@@ -1,3 +1,11 @@
+---
+title: "Analyze Ledger Accuracy"
+tags: ["Accounting", "Data Analysis", "Excel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_ledger_accuracy.md"
+---
+
 Sure, here is a carefully crafted ChatGPT prompt based on the request:
 
 "Please assist in reviewing a general ledger with the following tasks:

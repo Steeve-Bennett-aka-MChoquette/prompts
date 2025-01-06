@@ -1,3 +1,11 @@
+---
+title: "Create HR Prompts"
+tags: ["HR", "Recruitment", "Talent Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_hr_prompts.md"
+---
+
 Create prompts that address key areas in Human Resources. The goal is to provide comprehensive insights and strategies for each sub-discipline. Focus on the following areas:
 
 - **Recruitment Strategies:**

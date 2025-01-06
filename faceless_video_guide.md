@@ -1,3 +1,11 @@
+---
+title: "Faceless Video Guide"
+tags: ["Content Creation", "Ethics", "Video"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_video_guide.md"
+---
+
 Create a detailed guide on how to produce faceless informative videos about a sailing lifestyle using generative video and real-life footage. Cover the following aspects in your response:
 
 - **Overview of Faceless Video Generation Technology:**

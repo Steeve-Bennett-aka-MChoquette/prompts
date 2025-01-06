@@ -1,3 +1,11 @@
+---
+title: "Create API Specification"
+tags: ["API", "Cybersecurity", "Documentation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_api_specification.md"
+---
+
 Create an API specification for a security risk escalation feature, including:
 
 - **Familiarization with Procedures and Design:**

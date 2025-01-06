@@ -1,3 +1,11 @@
+---
+title: "Write Lessons Learned Post"
+tags: ["Content Creation", "Social Media", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_lessons_learned_post.md"
+---
+
 Create a compelling 800-word social media post about lessons learned, following these guidelines:
 
 • Input:

@@ -1,3 +1,11 @@
+---
+title: "AI In Manufacturing Research Brief"
+tags: ["AI", "Marketing", "Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_in_manufacturing_research_brief.md"
+---
+
 Create a comprehensive research brief on the topic of AI in manufacturing for a content marketing context. Your response should include:
 
 - **Introduction to AI in Manufacturing**: Briefly explain what AI in manufacturing encompasses, including its significance and relevance in current industrial trends.

@@ -1,3 +1,11 @@
+---
+title: "Annual Life Goals Plan"
+tags: ["Personal Finance", "Relationships", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/annual_life_goals_plan.md"
+---
+
 Create a comprehensive Annual Plan for 2025 that includes goals across various aspects of life. For each category, provide specific strategies and examples to help achieve those goals. The categories to cover are:
 
 - **Professional Goals**: Outline plans for career advancement, skill development, and networking. Include potential milestones and resources needed.

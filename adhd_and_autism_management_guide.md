@@ -1,3 +1,11 @@
+---
+title: "ADHD And Autism Management Guide"
+tags: ["Coaching", "Mental Health", "Self-Improvement"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/adhd_and_autism_management_guide.md"
+---
+
 Create a detailed and empathetic guide covering the transition from struggling to managing ADHD and autism effectively, emphasizing positive progress and personal empowerment. The guide should be structured like a book and include the following components:
 
 - **Introduction**: Explain ADHD and autism, focusing on their characteristics, challenges, and the journey from feeling overwhelmed to finding light and hope.

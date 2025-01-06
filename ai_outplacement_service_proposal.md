@@ -1,3 +1,11 @@
+---
+title: "AI Outplacement Service Proposal"
+tags: ["AI", "Career Advice", "Job Search"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_outplacement_service_proposal.md"
+---
+
 Create a detailed proposal for an AI-based service that can replace the human outplacement services currently offered by companies as part of an exit package. The AI service should help individuals reenter the job market and find new employment over a period of 6 months. The proposal should cover the following components:
 
 - **Resume Assistance**: Describe how the AI service will help users create, update, and optimize their resumes. Include features like keyword optimization, formatting suggestions, and tailoring resumes for different industries and roles.

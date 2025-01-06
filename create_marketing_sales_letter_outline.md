@@ -1,3 +1,11 @@
+---
+title: "Create Marketing Sales Letter Outline"
+tags: ["Copywriting", "Marketing", "Sales"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_sales_letter_outline.md"
+---
+
 Create a comprehensive outline of what a marketing sales letter should contain. Consider including the following components:
 
 - **Heading or Subject Line**: Describe how a compelling heading can grab the reader's attention.

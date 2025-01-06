@@ -1,3 +1,11 @@
+---
+title: "Create Vision and Goals"
+tags: ["Goal Setting", "Personal Growth", "Strategic Planning"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_vision_and_goals.md"
+---
+
 Create a comprehensive vision for the year 2025 and develop corresponding goals and a master plan. Guide me through the following steps:
 
 - **Vision Development:**

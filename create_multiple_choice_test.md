@@ -1,3 +1,11 @@
+---
+title: "Create Multiple Choice Test"
+tags: ["Books", "Students", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_multiple_choice_test.md"
+---
+
 - Create a multiple-choice test based on the book "Gris Grimly's Frankenstein."
 - Ensure the test is appropriate for an eighth-grade reading level, taking into account vocabulary complexity and comprehension skills typical of this grade.
 - Develop at least 40 questions for the test.

@@ -1,3 +1,11 @@
+---
+title: "Media Monitoring System"
+tags: ["Data", "Market Research", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/media_monitoring_system.md"
+---
+
 Create a comprehensive system for Media Monitoring that includes the following aspects:
 
 - **Tracking**: Describe the steps to track various media outlets (news, social media, blogs, etc.), the tools or software that can be used for efficient tracking, and the process of setting up keywords, hashtags, or phrases to monitor.

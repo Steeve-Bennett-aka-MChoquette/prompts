@@ -1,3 +1,11 @@
+---
+title: "ProjectClosureGuide"
+tags: ["Documentation", "Project Management", "Stakeholder Communication"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/project_closure_guide.md"
+---
+
 Create a comprehensive guide for developing a project closure. Your response should cover the following key aspects:
 
 - **Purpose of Project Closure**: Explain why a project closure is important and what benefits it brings to the organization and the project team.

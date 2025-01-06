@@ -1,3 +1,11 @@
+---
+title: "Corporate Structure Guide"
+tags: ["Corporate Career", "Investment", "Legal"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/corporate_structure_guide.md"
+---
+
 Sure, here is the ChatGPT prompt based on the request:
 
 "Guide me through the process of setting up corporate business structures specifically designed to build and protect assets while potentially generating revenue. Address the following points in detail:

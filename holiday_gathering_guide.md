@@ -1,3 +1,11 @@
+---
+title: "Holiday Gathering Guide"
+tags: ["Community Service", "Event Planning", "Family"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/holiday_gathering_guide.md"
+---
+
 Create a comprehensive guide for organizing a holiday gathering for a large family with special traditions. Your response should cover the following aspects:
 
 - **Planning and Organizing:**

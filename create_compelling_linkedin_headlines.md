@@ -1,3 +1,11 @@
+---
+title: "Create Compelling LinkedIn Headlines"
+tags: ["Career Advice", "LinkedIn", "Personal Brand"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_compelling_linkedin_headlines.md"
+---
+
 Create at least 10 compelling headlines for a LinkedIn profile that highlight a professional career in consulting, focusing on strengths and specializations. The goal is to create an exceptional first impression and build a professional presence that attracts continuous engagement. Consider the following areas of specialization when crafting the headlines:
 
 - Go-to-market strategy

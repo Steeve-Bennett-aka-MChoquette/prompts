@@ -1,3 +1,11 @@
+---
+title: "Building Niche Websites Guide"
+tags: ["AI", "SEO", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/building_niche_websites_guide.md"
+---
+
 Create a comprehensive guide for building and ranking niche websites with a focus on using AI tools. Here are the specific tasks to address:
 
 - Outline a step-by-step process for building a complete niche website. Include:

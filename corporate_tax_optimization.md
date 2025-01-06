@@ -1,3 +1,11 @@
+---
+title: "Corporate Tax Optimization"
+tags: ["Corporate Career", "Legal", "Taxes"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/corporate_tax_optimization.md"
+---
+
 Analyze the corporate tax laws in various jurisdictions, focusing on opportunities for optimization and ensuring compliance for businesses in the legal and tax advisory sector. Address the following key areas:
 
 - **Identify Tax Optimization Opportunities:**

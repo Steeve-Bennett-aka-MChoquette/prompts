@@ -1,3 +1,11 @@
+---
+title: "Create Coloring Book Page"
+tags: ["Art", "Children", "Graphic Design"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_coloring_book_page.md"
+---
+
 Create a detailed and visually appealing coloring book page that can also be used as a cover. The coloring book page should have a unique and creative design that captures attention and invites interaction. Consider including elements that make the page visually interesting and engaging, such as:
 
 - A central theme or subject that will appeal to the intended audience (e.g., nature, fantasy, animals, patterns).

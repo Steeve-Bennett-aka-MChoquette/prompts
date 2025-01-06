@@ -1,3 +1,11 @@
+---
+title: "Create Facebook Content Ideas"
+tags: ["Content Creation", "Small Business", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_facebook_content_ideas.md"
+---
+
 I run a property maintenance/handyman business and I am not sure what to post on my new Facebook page or where to get relevant content. Can you help me with the following:
 
 - Suggest different types of content I can post on my Facebook page to engage my audience.

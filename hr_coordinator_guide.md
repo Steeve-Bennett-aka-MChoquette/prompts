@@ -1,3 +1,11 @@
+---
+title: "HR Coordinator Guide"
+tags: ["Career Advice", "HR", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/hr_coordinator_guide.md"
+---
+
 Create a comprehensive resource and learning guide for an HR Coordinator working in a small to medium-sized company with 50 to 500 employees. This guide should cover the following:
 
 - **Role and Responsibilities of an HR Coordinator**: Include essential tasks and functions that an HR Coordinator should be able to perform with a minimal Bachelor's degree. Mention practical examples of daily and strategic tasks.

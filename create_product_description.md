@@ -1,3 +1,11 @@
+---
+title: "Create Product Description"
+tags: ["E-commerce", "Fashion", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_product_description.md"
+---
+
 Create a detailed and engaging product description for a themed Graphic T-shirt in the WanderGear eBay store. The description should appeal to adventure-seeking customers, particularly RV enthusiasts and fans of bold designs. The T-shirt must capture the spirit of adventure and freedom, focusing on themes such as Vikings, female empowerment, and the Old West. Maintain a fun and adventurous tone throughout. Be sure to:
 
 - Highlight the unique and bold design of the T-shirt.

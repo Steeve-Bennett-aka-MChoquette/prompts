@@ -1,3 +1,11 @@
+---
+title: "Create A Poppy AI Prompt"
+tags: ["AI", "Chatbots", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_a_poppy_ai_prompt.md"
+---
+
 Create an AI prompt that functions like Poppy AI:
 
 - Describe what Poppy AI is and what its main functionalities are.

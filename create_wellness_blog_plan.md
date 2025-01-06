@@ -1,3 +1,11 @@
+---
+title: "Create Wellness Blog Plan"
+tags: ["Blog", "Health", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_wellness_blog_plan.md"
+---
+
 Create a comprehensive content hub blog plan for a brand new wellness and health blog. The aim is to provide readers with up-to-date research, information, and insights on various wellness and health topics. Ensure the blog is informative, engaging, and well-structured. Consider the following aspects:
 
 - **Identify Key Topics**: Research and list essential topics within the wellness and health niche that are currently trending or lacking comprehensive coverage. Include areas such as mental health, nutrition, fitness, lifestyle changes, and preventative health measures.

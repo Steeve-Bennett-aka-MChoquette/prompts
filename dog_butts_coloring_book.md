@@ -1,3 +1,11 @@
+---
+title: "Dog Butts Coloring Book Concept"
+tags: ["Animals", "Art", "Humor"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/dog_butts_coloring_book.md"
+---
+
 Create a detailed and creative concept for an adult coloring book that adheres to the following guidelines:
 
 - **Level of Difficulty**: Ensure the designs are easy to color, suitable for adults who prefer simplicity.

@@ -1,3 +1,11 @@
+---
+title: "Brainstorm Content Pillars"
+tags: ["Marketing", "Small Business", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_content_pillars.md"
+---
+
 Create a comprehensive plan for developing 15 content pillars suitable for 1-minute TikTok clips. These clips should align with modern marketing and branding strategies aimed at small entrepreneurs in Thailand. The objectives are to educate about marketing and branding, address common business pains, inspire with success stories, and drive traffic to the youbrandexpert TikTok account to build trust and increase follower count. Follow these detailed steps:
 
 - Identify key pain points and challenges faced by small SMEs in Thailand related to marketing strategy and branding.

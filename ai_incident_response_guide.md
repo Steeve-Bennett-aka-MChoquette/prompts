@@ -1,3 +1,11 @@
+---
+title: "AI Incident Response Guide"
+tags: ["AI", "Cybersecurity", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_incident_response_guide.md"
+---
+
 Create a comprehensive guide on implementing AI for Incident Response in an organization. Include the following elements:
 
 - **Introduction to AI in Incident Response**

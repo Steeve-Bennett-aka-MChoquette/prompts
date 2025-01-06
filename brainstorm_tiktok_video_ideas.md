@@ -1,3 +1,11 @@
+---
+title: "Brainstorm TikTok Video Ideas"
+tags: ["Content Creation", "TikTok", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_tiktok_video_ideas.md"
+---
+
 Create a list of unique and creative ideas for a TikTok video. Consider the following elements to make the ideas as innovative and engaging as possible:
 
 - **Trends**: Review current TikTok trends and think of quirky or unexpected twists you could incorporate.

@@ -1,3 +1,11 @@
+---
+title: "AI Skills Enhancement"
+tags: ["AI", "Courses", "Personal Brand"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_skills_enhancement.md"
+---
+
 - I want to improve my skills in using AI effectively. Could you provide an overview of key AI concepts that I should understand? 
 - List practical applications and tools of AI that are commonly used across different fields. 
 - Offer some best practices for learning and integrating AI tools into personal or professional projects.

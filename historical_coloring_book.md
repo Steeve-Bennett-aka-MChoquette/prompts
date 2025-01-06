@@ -1,3 +1,11 @@
+---
+title: "Historical Coloring Book"
+tags: ["Art", "Education", "History"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/historical_coloring_book.md"
+---
+
 Create a 6-page coloring book with each page themed around historical elements that resonate with a broad audience interested in history. Ensure each page is designed to be printed on 8.5 x 11-inch paper. Include the following components in the coloring book design process:
 
 - **Theme Development**: Focus on a historical theme titled "Resonance Fair" that incorporates significant historical symbols, monuments, or figures that have had a lasting impact.

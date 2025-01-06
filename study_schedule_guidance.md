@@ -1,3 +1,11 @@
+---
+title: "Study Schedule Guidance"
+tags: ["Medical", "Motivation", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/study_schedule_guidance.md"
+---
+
 Help me stay disciplined and scheduled in my studies for the medical residency exam. I need guidance to maintain a structured study schedule, including:
 
 - Creating a detailed and realistic study plan tailored to the medical residency exam.

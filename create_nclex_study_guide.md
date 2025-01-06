@@ -1,3 +1,11 @@
+---
+title: "Create NCLEX Study Guide"
+tags: ["Education", "Medical", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_nclex_study_guide.md"
+---
+
 - Create an NCLEX-style question-based study guide using the provided file uploads.
 - Ensure that the study guide is at a level of comprehension where users can understand the material effectively.
 - Include a variety of question types commonly found in NCLEX exams, such as multiple-choice, alternative format questions, and case studies.

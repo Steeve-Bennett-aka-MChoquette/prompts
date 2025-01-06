@@ -1,3 +1,11 @@
+---
+title: "Analyze Cryptocurrency Project"
+tags: ["Blockchain", "Cryptocurrency", "Investment"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_cryptocurrency_project.md"
+---
+
 Provide a comprehensive analysis of a cryptocurrency project. Include the following details:
 
 - **Summary of the Project**:

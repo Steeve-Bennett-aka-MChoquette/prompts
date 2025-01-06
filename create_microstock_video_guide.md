@@ -1,3 +1,11 @@
+---
+title: "Create Microstock Video Guide"
+tags: ["Content Creation", "Marketing", "Video Script"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_microstock_video_guide.md"
+---
+
 Create a comprehensive guide for generating high-quality microstock videos on various topics. Your response should include the following:
 
 - **Understanding Microstock Video Market**: Provide an overview of what microstock videos are and how they are used in the industry. Explain the typical requirements and standards for videos to be accepted by microstock platforms.

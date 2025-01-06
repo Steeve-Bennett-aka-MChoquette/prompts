@@ -1,3 +1,11 @@
+---
+title: "RealEstateAppPlan"
+tags: ["App Development", "Data", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/real_estate_app_plan.md"
+---
+
 Create a detailed plan for an app designed to facilitate real estate searches in foreign countries and cities. The goal is to address issues such as the lack of a centralized MLS (Multiple Listing Service) system outside the USA, where real estate agencies typically keep listings private. The app should streamline the process of renting or buying properties by aggregating listings from multiple real estate websites. 
 
 Include the following components in your plan:

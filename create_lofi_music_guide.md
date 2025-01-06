@@ -1,3 +1,11 @@
+---
+title: "Create Lofi Music Guide"
+tags: ["Content Creation", "Graphic Design", "Music"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_lofi_music_guide.md"
+---
+
 Create a detailed guide on producing music similar to YouTube's Lofi Girl, including recommendations for length and accompanying graphics. Address the following components:
 
 - **Music Composition:**

@@ -1,3 +1,11 @@
+---
+title: "Ai In Fictional Video Production"
+tags: ["AI", "Content Creation", "Ethics"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_in_fictional_video_production.md"
+---
+
 - Imagine you are an AI expert who specializes in creating fictional content for video production. I am curious about how AI could be leveraged in this domain to enhance storytelling, create vivid characters, and produce compelling scenarios.
 
 - Provide detailed strategies on how AI can be used in the following aspects of fictional video production:

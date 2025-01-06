@@ -1,3 +1,11 @@
+---
+title: "Create Ad Strategy for Schools"
+tags: ["Ads", "Marketing", "School"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ad_strategy_for_schools.md"
+---
+
 Create a detailed ad strategy for Resource Central's "Renew Our Schools" program, specifically targeting teachers in Colorado. Here are the requirements and parameters to consider:
 
 - **Program Description:** 

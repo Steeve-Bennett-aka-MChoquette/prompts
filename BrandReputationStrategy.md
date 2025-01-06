@@ -1,3 +1,11 @@
+---
+title: "BrandReputationStrategy.md"
+tags: ["Marketing", "Public Speaking", "Reputation Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/BrandReputationStrategy.md"
+---
+
 Create a high-quality ChatGPT prompt that addresses the following:
 
 - Provide expert guidance on safeguarding and enhancing a brand's reputation specifically for PR agencies and brands.

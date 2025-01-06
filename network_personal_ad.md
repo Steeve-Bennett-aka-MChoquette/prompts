@@ -1,3 +1,11 @@
+---
+title: "Network Personal Ad"
+tags: ["Career Advice", "IT", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/network_personal_ad.md"
+---
+
 Create a polished and engaging version of a personal ad for networking and income generation using the information provided. The goal is to make it appealing, professional, and personable, catering to showcasing skills and hobbies effectively. Consider the following when drafting the ad:
 
 - Highlight the subject's professional skills in IT and related areas: emphasize the extensive experience in IT Security, Hosting, IT Infrastructure Design, Artificial Intelligence, Internet of Things (IoT), Home Automation, and networking.

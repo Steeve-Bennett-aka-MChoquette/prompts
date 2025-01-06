@@ -1,3 +1,11 @@
+---
+title: "Create Timetable for Training"
+tags: ["Data", "Fitness", "Training"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_timetable_for_training.md"
+---
+
 Create a timetable for personal training sessions at a physio practice. Use the following guidelines to organize the schedule:
 
 - Input: Unstructured data containing availability of clients.

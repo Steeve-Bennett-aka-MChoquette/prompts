@@ -1,3 +1,11 @@
+---
+title: "BrandingGuide.md"
+tags: ["Content Creation", "Entrepreneur", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/BrandingGuide.md"
+---
+
 Create a comprehensive guide for defining a new business brand and creating a cohesive brand kit. Include detailed descriptions and examples for the following components:
 
 1. **Vision**: 

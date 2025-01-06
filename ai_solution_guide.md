@@ -1,3 +1,11 @@
+---
+title: "AI Solution Guide"
+tags: ["AI", "Collaboration", "Data Science"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_solution_guide.md"
+---
+
 Create a comprehensive guide for building an AI solution within a professional services firm's AI Center of Excellence (CoE). Focus on developing an in-depth document that encompasses the entire process, from conception to deployment. Consider the following aspects:
 
 - **Understanding the Problem**: 

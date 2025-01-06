@@ -1,3 +1,11 @@
+---
+title: "Evaluate Notion Templates"
+tags: ["Analysis", "Productivity", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/evaluate_notion_templates.md"
+---
+
 Create a comprehensive evaluation and rating system for Notion "second brain" templates. Use the following guidelines to structure your analysis:
 
 ### Evaluate Core Features

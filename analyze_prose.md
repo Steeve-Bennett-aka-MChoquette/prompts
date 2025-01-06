@@ -1,3 +1,11 @@
+---
+title: "Analyze Prose"
+tags: ["Analyze Text", "Proofreading", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_prose.md"
+---
+
 **ChatGPT Prompt:**
 
 Analyze a timeline of events that is presented in reverse chronological order, with timestamps. Your task is to:

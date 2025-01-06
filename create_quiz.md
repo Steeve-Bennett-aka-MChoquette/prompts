@@ -1,3 +1,11 @@
+---
+title: "Create Quiz"
+tags: ["Students", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_quiz.md"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert on the subject defined in the input section provided below.

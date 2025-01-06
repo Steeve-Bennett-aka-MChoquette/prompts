@@ -1,3 +1,11 @@
+---
+title: "Alibaba Supplier Engagement Guide"
+tags: ["E-commerce", "Negotiation", "Startups"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/alibaba_supplier_engagement_guide.md"
+---
+
 Create a comprehensive guide for a startup business in Cape Town, South Africa on how to effectively engage suppliers on Alibaba for receiving product samples before placing a larger order. Include the following elements in your response:
 
 - **Understanding Alibaba Processes:**

@@ -1,3 +1,11 @@
+---
+title: "Area Manager Plan"
+tags: ["Customer Support", "Leadership", "Team Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/area_manager_plan.md"
+---
+
 Create a detailed plan for the first 30, 60, and 90 days as an Area Manager at Starbucks. Address the following aspects:
 
 - **Customer Service:**

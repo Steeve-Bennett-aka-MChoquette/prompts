@@ -1,3 +1,11 @@
+---
+title: "Writing With AI"
+tags: ["AI", "Coding", "Content Creation"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/writing_with_ai.md"
+---
+
 Here is your ChatGPT prompt:
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "Real Estate Interest Rate Update"
+tags: ["Email", "Market Research", "Real Estate"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/real_estate_interest_rate_update.md"
+---
+
 Create an email draft for a residential real estate agent in Quebec, Canada, to send to their database of contacts within a CRM system. The email should announce the recent decrease in the key interest rate and discuss its potential impact on the real estate market. 
 
 - Begin the email with a professional and engaging greeting to capture the recipient's attention.

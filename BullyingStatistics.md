@@ -1,3 +1,11 @@
+---
+title: "BullyingStatistics.md"
+tags: ["Research", "Stress Relief", "Students"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/BullyingStatistics.md"
+---
+
 - "I am working on a movement centered around anti-bullying and stress management. I need detailed statistical information about bullying incidents both in educational settings (such as schools) and in the workforce, on a national and global scale. Please help me identify current statistics such as the frequency of bullying incidents among students and employees, including any trends or variations across different regions or demographics worldwide.
 
 - Provide:

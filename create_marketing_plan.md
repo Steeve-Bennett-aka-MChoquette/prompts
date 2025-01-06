@@ -1,3 +1,11 @@
+---
+title: "Create Marketing Plan"
+tags: ["Entrepreneur", "Marketing", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_plan.md"
+---
+
 Create a detailed plan for all marketing tasks for a company, focusing on the following areas:
 
 - **Advertising:** 

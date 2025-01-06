@@ -1,3 +1,11 @@
+---
+title: "Create Comprehensive Unit Plan"
+tags: ["Assessment", "Education", "Lesson Planning"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_comprehensive_unit_plan.md"
+---
+
 Create a comprehensive unit plan for any subject designed for educators, ensuring it includes detailed lesson plans. Address the following components in your response:
 
 - **Unit Plan Overview:**

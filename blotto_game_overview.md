@@ -1,3 +1,11 @@
+---
+title: "Blotto Game Overview"
+tags: ["Economics", "Games", "Politics"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blotto_game_overview.md"
+---
+
 Tell me more about the game Blotto, also known as the Colonel Blotto game. Please include the following details:
 
 - A brief overview of what Blotto is.

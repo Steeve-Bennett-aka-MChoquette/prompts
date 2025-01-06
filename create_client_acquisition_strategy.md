@@ -1,3 +1,11 @@
+---
+title: "Create Client Acquisition Strategy"
+tags: ["Beauty", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_client_acquisition_strategy.md"
+---
+
 I am an esthetician who specializes in anti-aging, hyperpigmentation, and acne skin treatments and I would like to get more business. 
 
 Create a comprehensive strategy for increasing my clientele. The strategy should include:

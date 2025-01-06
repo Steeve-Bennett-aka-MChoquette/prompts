@@ -1,3 +1,11 @@
+---
+title: "DocumentaryScriptOutline.md"
+tags: ["Documentary", "Outline", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/DocumentaryScriptOutline.md"
+---
+
 Create a documentary script outline in bullet points with brief explanations (1-2 sentences each), structured to assist in writing a 2000-word script based on these outlines. Ensure the outline fits within a two-page limit. Your outline should:
 
 - Begin with a working title for the documentary.

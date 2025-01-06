@@ -1,3 +1,11 @@
+---
+title: "Create Marketing Strategy"
+tags: ["Market Research", "Marketing", "Strategy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_marketing_strategy.md"
+---
+
 Create a comprehensive Marketing Strategy for a brand by addressing the following key areas:
 
 - **Brand Analysis**: 

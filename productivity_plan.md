@@ -1,3 +1,11 @@
+---
+title: "Productivity Plan"
+tags: ["Coaching", "Productivity", "Time Management"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/productivity_plan.md"
+---
+
 As an expert life coach, I need you to create a comprehensive and personalized productivity plan for me. Here's what I need:
 
 • Background: [Provide a detailed description of your current situation, including any challenges, constraints, or specific circumstances that are impacting your productivity]

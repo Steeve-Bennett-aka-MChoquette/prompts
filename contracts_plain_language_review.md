@@ -1,3 +1,11 @@
+---
+title: "Contracts Plain Language Review"
+tags: ["Content Creation", "Freelancing", "Legal"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/contracts_plain_language_review.md"
+---
+
 Rewrite the following entertainment contract clauses for artists and creatives into plain English. Highlight any problem areas within the clauses and provide possible solutions to common issues. Ensure your response includes:
 
 - The original contract clause in a quoted format.

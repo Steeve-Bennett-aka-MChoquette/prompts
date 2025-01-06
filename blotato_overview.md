@@ -1,3 +1,11 @@
+---
+title: "Blotato Overview"
+tags: ["Biology", "Science", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/blotato_overview.md"
+---
+
 - Define what "blotato" is, provide a detailed description of its characteristics.
 - Explain any potential uses or applications of a "blotato."
 - List any pros and cons associated with it.

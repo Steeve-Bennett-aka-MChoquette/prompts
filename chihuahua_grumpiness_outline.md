@@ -1,3 +1,11 @@
+---
+title: "Chihuahua Grumpiness Outline"
+tags: ["Animals", "Humor", "Story Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/chihuahua_grumpiness_outline.md"
+---
+
 Create a story outline and concept for a 12-page illustrated book featuring a chihuahua character. The chihuahua embodies the personality traits of a stereotypical grumpy old man, who is particularly irate about contemporary issues. The aim is to explore humorous narratives where the chihuahua reacts to modern-day problems. Follow these guidelines:
 
 - **Character Development**: 

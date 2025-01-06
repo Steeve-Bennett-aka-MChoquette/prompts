@@ -1,3 +1,11 @@
+---
+title: "Social Media AI Strategy"
+tags: ["Health", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_ai_strategy.md"
+---
+
 Create a strategy for using AI to generate social media content for promoting a new hematology clinic. The content should be educational, informative, and designed to encourage potential patients to visit the clinic instead of sending questions via direct messages. Address the following sub-tasks:
 
 - Identify the types of educational and informative content that can showcase expertise in hematology and attract potential patients.

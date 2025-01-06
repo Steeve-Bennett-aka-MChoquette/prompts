@@ -1,3 +1,11 @@
+---
+title: "Career Advancement Guide"
+tags: ["Career Advice", "Job Search", "Leadership"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/career_advancement_guide.md"
+---
+
 Create a detailed guide for someone seeking a higher management role, addressing the following key areas:
 
 - **Resume and Cover Letter Optimization**: Provide tips for crafting a resume that highlights leadership experience and key achievements in previous roles. Include advice on tailoring a cover letter to showcase managerial skills and strategic thinking.

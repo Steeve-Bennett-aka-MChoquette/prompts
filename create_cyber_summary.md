@@ -1,3 +1,11 @@
+---
+title: "Create Cyber Summary"
+tags: ["Cybersecurity", "Data Science", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_cyber_summary.md"
+---
+
 Create a comprehensive guide for launching a cybersecurity website and content creation strategy focused on entry-level cybersecurity analysts and educating parents about cybersecurity. The guide should include:
 
 - **Website Development:**

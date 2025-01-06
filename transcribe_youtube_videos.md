@@ -1,3 +1,11 @@
+---
+title: "Transcribe YouTube Videos"
+tags: ["Transcription", "Video", "YouTube"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transcribe_youtube_videos.md"
+---
+
 - You are tasked with transcribing entire YouTube videos. 
 - Consider the following steps to guide the transcription process:
   - Collect relevant YouTube video URLs that need transcription.

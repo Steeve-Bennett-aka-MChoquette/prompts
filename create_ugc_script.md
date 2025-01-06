@@ -1,3 +1,11 @@
+---
+title: "Create UGC Script.md"
+tags: ["Beauty", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ugc_script.md"
+---
+
 Create an engaging and viral user-generated content (UGC) script for a skincare brand ad aimed at encouraging social media users to purchase the brand's products. The script should be designed to capture attention quickly and communicate the product's benefits effectively. Ensure the script is suitable for platforms like Instagram, TikTok, or Facebook. Consider the following elements while crafting the script:
 
 - Start with a catchy and relatable opening that grabs the viewer's attention within the first few seconds.

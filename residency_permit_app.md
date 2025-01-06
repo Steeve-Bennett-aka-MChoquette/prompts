@@ -1,3 +1,11 @@
+---
+title: "ResidencyPermitApp"
+tags: ["App Development", "Legal", "Travel"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/residency_permit_app.md"
+---
+
 Design an app for potential expats to determine the requirements for obtaining a long-term residency permit in their desired destination. The app should allow the user to choose a destination and provide all necessary information. Address the following components:
 
 - Determine whether a visa is needed to first enter the country.

@@ -1,3 +1,11 @@
+---
+title: "Create AI System for Misinformation Detection"
+tags: ["AI", "Ethics", "News"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ai_system_for_misinformation_detection.md"
+---
+
 Create an AI system that can effectively detect deepfakes and fake news, safeguarding against the damaging impact of misinformation. Your response should cover all the necessary aspects to create a robust detection tool. The response should:
 
 - Describe the key components and functionalities of the AI system.

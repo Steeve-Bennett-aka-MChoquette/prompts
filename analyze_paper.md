@@ -1,3 +1,11 @@
+---
+title: "Analyze Paper"
+tags: ["Analyze Text", "Research", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_paper.md"
+---
+
 - You are tasked with evaluating a student's written paper to estimate the percentage of humanized AI-generated content present in the document.
 - Ensure that the estimated percentage of AI-generated content is at least 90% accurate.
 - Consider these steps to perform the task:

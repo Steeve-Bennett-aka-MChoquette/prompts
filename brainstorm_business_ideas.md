@@ -1,3 +1,11 @@
+---
+title: "Brainstorm Business Ideas"
+tags: ["Entrepreneur", "Marketing", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_business_ideas.md"
+---
+
 I'm looking for ideas for a home-based business that aligns with my interests, has a large enough customer base for the product or service, and faces low enough competition to potentially become the sole source of income for my family. 
 
 For the response, please include:

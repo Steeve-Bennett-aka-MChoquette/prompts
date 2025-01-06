@@ -1,3 +1,11 @@
+---
+title: "Analyze Personality"
+tags: ["Analyze Text", "Psychology", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_personality.md"
+---
+
 - You are tasked with identifying AI tools or technologies that can analyze video interviews conducted on platforms like Zoom and Google Meet to assess the interviewee's characteristics and suitability for a job vacancy.
 - Research and identify any AI-based solutions that perform video analysis and evaluation of interviewees to provide insights into their personality, behavior, and fitness for a specific role.
 - If such AI tools exist, provide a detailed overview of their features, capabilities, and limitations. Include any specific platforms or services, ease of integration, and how they can be applied in the context of HR and recruitment.

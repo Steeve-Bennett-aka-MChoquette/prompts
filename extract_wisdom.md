@@ -1,3 +1,11 @@
+---
+title: "Extract Wisdom"
+tags: ["Analyze Text", "Philosophy", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_wisdom.md"
+---
+
 ```markdown
 I've exported a lengthy conversation with ChatGPT as markdown, containing various ideas, improvements, and insights related to developing a business plan. Your task is to analyze this markdown document and extract the following:
 

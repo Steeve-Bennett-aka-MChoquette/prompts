@@ -1,3 +1,11 @@
+---
+title: "Analyze Text for Thesis"
+tags: ["Medical", "Research", "Scrum"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_text_for_thesis.md"
+---
+
 Please edit the following text to reflect an academic style and language. Ensure it is compelling and well-structured as it forms the preliminary part of a thesis proposal:
 
 ### Introduction:

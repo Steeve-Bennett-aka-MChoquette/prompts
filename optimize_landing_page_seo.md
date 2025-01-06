@@ -1,3 +1,11 @@
+---
+title: "Optimize Landing Page SEO"
+tags: ["Content Creation", "Marketing", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/optimize_landing_page_seo.md"
+---
+
 Create a detailed SEO optimization guide for enhancing the performance of a landing page. Your response should focus on the following areas:
 
 - **Keyword Strategy**: 

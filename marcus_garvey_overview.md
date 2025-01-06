@@ -1,3 +1,11 @@
+---
+title: "Marcus Garvey Overview"
+tags: ["History", "Leadership", "Philosophy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/marcus_garvey_overview.md"
+---
+
 Create a comprehensive article on Marcus Garvey. The article should cover the following key aspects in detail:
 
 - **Biographical Information**:

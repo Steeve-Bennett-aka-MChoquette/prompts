@@ -1,3 +1,11 @@
+---
+title: "Private Healthcare Proposal"
+tags: ["Business", "Healthcare", "Market Research"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/private_healthcare_proposal.md"
+---
+
 Create a comprehensive business proposal for someone in South Africa working in private Healthcare. The proposal should include the following sections:
 
 - **Executive Summary**: Provide a brief overview of the proposal, including the main objectives and the key points that will be discussed.

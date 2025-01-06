@@ -1,3 +1,11 @@
+---
+title: "Family Wellness Resource"
+tags: ["Family", "Health", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/family_wellness_resource.md"
+---
+
 Create a valuable and highly sought-after free resource aimed at moms to help keep their families healthy and happy. The resource should focus on:
 
 1. **Nutritional Tips**:

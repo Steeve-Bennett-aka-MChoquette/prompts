@@ -1,3 +1,11 @@
+---
+title: "Write LinkedIn Post"
+tags: ["Content Creation", "LinkedIn", "Marketing", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/write_linkedin_post.md"
+---
+
 Create a detailed guide on building thought leadership on LinkedIn through viral posts. Ensure that the advice is actionable and tailored for maximizing engagement and reach. Address the following components:
 
 - **Understanding Your Audience:**

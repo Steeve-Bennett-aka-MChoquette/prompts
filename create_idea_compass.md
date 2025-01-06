@@ -1,3 +1,11 @@
+---
+title: "Create Idea Compass"
+tags: ["Brainstorm", "Content Creation", "Productivity"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_idea_compass.md"
+---
+
 Create an idea that can be applied across multiple categories including business, technology, background, nature, culture & religion, industry, social issues, and lifestyle. For each category, describe:
 
 - How the idea can be adapted or tailored to suit the specific needs and characteristics of that category.

@@ -1,3 +1,11 @@
+---
+title: "Client Management Strategy"
+tags: ["Career Advice", "Customer Support", "Job Interview"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/client_management_strategy.md"
+---
+
 Create a strategy for applying to an account manager position at Healthbridge South Africa, focusing on client management for 200 clients. Your goal is to develop a segmentation approach based on revenue, influence, and needs. Prepare to articulate this strategy clearly in an interview setting. Address the following components:
 
 - **Segmentation Strategy:**

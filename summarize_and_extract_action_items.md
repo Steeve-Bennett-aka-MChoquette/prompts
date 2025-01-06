@@ -1,3 +1,11 @@
+---
+title: "Summarize And Extract Action Items"
+tags: ["AI", "Analysis", "Productivity"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_and_extract_action_items.md"
+---
+
 Create a prompt for a voice recording/transcription app that performs the following tasks effectively:
 
 - Summarize the content of a transcription: Provide a concise summary that captures the main ideas and important details of the transcribed voice recording.

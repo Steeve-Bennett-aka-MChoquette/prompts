@@ -1,3 +1,11 @@
+---
+title: "Non-Profit Organization Guide"
+tags: ["Community Support", "Fundraising", "Non-Profit"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/non_profit_organization_guide.md"
+---
+
 Create a comprehensive guide for starting, running, and growing a non-profit organization with a focus on supporting underserved communities in South Asia (specifically Pakistan and India), the Middle East, and Africa. The scope should include development, education, and women's health. Address the following aspects:
 
 - **Starting the Organization:**

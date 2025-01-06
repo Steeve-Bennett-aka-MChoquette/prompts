@@ -1,3 +1,11 @@
+---
+title: "Industry Analysis Overview"
+tags: ["Business", "Economics", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/industry_analysis_overview.md"
+---
+
 Provide a comprehensive overview of the key industries. For each industry, include the following details:
 
 - **Industry Name**

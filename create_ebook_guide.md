@@ -1,3 +1,11 @@
+---
+title: "Create Ebook Guide"
+tags: ["Books", "Content Creation", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_ebook_guide.md"
+---
+
 Create a step-by-step guide to help in the creation of an ebook. Include the following considerations:
 
 - **Planning Stage**:

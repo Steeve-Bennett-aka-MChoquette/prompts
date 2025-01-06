@@ -1,3 +1,11 @@
+---
+title: "Extract Recommendations"
+tags: ["Analyze Text", "Content Creation", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/extract_recommendations.md"
+---
+
 # IDENTITY and PURPOSE
 
 You are an expert interpreter of the recommendations present within a piece of content.

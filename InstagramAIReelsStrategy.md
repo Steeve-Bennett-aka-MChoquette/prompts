@@ -1,3 +1,11 @@
+---
+title: "InstagramAIReelsStrategy.md"
+tags: ["AI", "Fitness", "Instagram"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/InstagramAIReelsStrategy.md"
+---
+
 Create a detailed strategy for using AI to generate Instagram reels focused on helping individuals get in shape and boost body confidence. Consider the following aspects:
 
 - **Content Ideas**: Generate a list of engaging and informative topics for Instagram reels that align with fitness and body confidence themes. Consider incorporating workouts, nutrition tips, and motivation segments.

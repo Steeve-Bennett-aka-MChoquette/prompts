@@ -1,3 +1,11 @@
+---
+title: "Analyze Article Quality"
+tags: ["Feedback", "LinkedIn", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_article_quality.md"
+---
+
 - Review the provided article titled "Strategies for Enhancing Thought Leadership on LinkedIn in 2025." 
 - Evaluate the article for professionalism, ensuring it reflects high-quality content typical of a professional research writer. Focus on language, tone, structure, and clarity.
 - Compare the article's quality and standards to those of renowned writers and publications like HubSpot. Determine if the article aligns with such publications in terms of insights, research depth, and overall presentation.

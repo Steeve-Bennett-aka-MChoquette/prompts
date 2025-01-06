@@ -1,3 +1,11 @@
+---
+title: "AI Business Enhancement Guide"
+tags: ["AI", "Marketing", "Safety"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_business_enhancement_guide.md"
+---
+
 Create a comprehensive guide on how to use AI tools to promote and enhance a business specializing in PPEs (Personal Protective Equipment), Health and Safety Equipment, and medical consumables. The response should address the following points:
 
 - **AI Tools Overview**: Provide an overview of AI tools that can be utilized in marketing and business enhancement, specifically tailored for the health and safety equipment and medical consumables sector.

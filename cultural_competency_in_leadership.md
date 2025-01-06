@@ -1,3 +1,11 @@
+---
+title: "Cultural Competency in Leadership"
+tags: ["Culture", "Leadership", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/cultural_competency_in_leadership.md"
+---
+
 Create a comprehensive guide on enhancing cultural competency as an inclusive leadership skill within the tech sector. Address the following points:
 
 - Define cultural competency and explain its importance in the context of inclusive leadership.

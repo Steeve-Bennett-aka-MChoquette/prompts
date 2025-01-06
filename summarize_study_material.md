@@ -1,3 +1,11 @@
+---
+title: "Summarize Study Material"
+tags: ["Students", "Study Guides", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_study_material.md"
+---
+
 Create detailed study notes for exam preparation, tests, and revision. Consider the following instructions:
 
 - **Identify Key Topics**: List out all the significant topics and sub-topics that need to be covered for the tests or exams. Focus on the core concepts and ensure that these are aligned with the curriculum or syllabus provided.

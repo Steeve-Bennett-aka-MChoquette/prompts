@@ -1,3 +1,11 @@
+---
+title: "Homeschooling Special Needs Guide"
+tags: ["Childcare", "Education", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/homeschooling_special_needs_guide.md"
+---
+
 Create a comprehensive guide for parents in the UK who want to homeschool their child with special needs. Include the following components:
 
 - **Legal Requirements and Registration**: 

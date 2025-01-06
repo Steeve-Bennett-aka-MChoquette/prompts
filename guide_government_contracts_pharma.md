@@ -1,3 +1,11 @@
+---
+title: "Guide Government Contracts Pharma"
+tags: ["Biotech", "Government", "Pharmaceutical"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/guide_government_contracts_pharma.md"
+---
+
 Create a guide to help efficiently source government contracts in the Pharmaceutical and Biotech sector with a focus on strategic project management, planning, product services, logistics, education, and training. The guide should include:
 
 - An overview of government agencies and portals where relevant contracts can be found, specifically in the Pharmaceutical and Biotech space.

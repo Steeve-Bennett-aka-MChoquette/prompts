@@ -1,3 +1,11 @@
+---
+title: "Poker Guide"
+tags: ["Coaching", "Games", "Psychology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/poker_guide.md"
+---
+
 Create a comprehensive guide on how to become an amazing poker player. Address the following components:
 
 - **Understanding Poker Basics:**

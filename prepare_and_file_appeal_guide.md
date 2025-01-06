@@ -1,3 +1,11 @@
+---
+title: "Prepare And File Appeal Guide"
+tags: ["Legal", "Self-Improvement", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/prepare_and_file_appeal_guide.md"
+---
+
 Draft a comprehensive guide for preparing and filing an appeal as a pro se litigant in Appellate Court. Include the following elements:
 
 - **Overview of the Appellate Process**: Explain the appellate process, including key deadlines, how it differs from trial court procedures, and the role of the appellate court.

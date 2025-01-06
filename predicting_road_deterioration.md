@@ -1,3 +1,11 @@
+---
+title: "Predicting Road Deterioration"
+tags: ["Data Science", "Software", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/predicting_road_deterioration.md"
+---
+
 Create a detailed plan for a software system designed to predict road deterioration, incorporating stored memory from a business venture related to this topic. The software should be geared towards application in the civil engineering industry. Your response should include:
 
 - A brief overview of road deterioration mechanisms that are pertinent to civil engineering, such as weathering, mechanical stress, or material fatigue.

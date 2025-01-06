@@ -1,3 +1,11 @@
+---
+title: "Automation Overview"
+tags: ["Automation", "Marketing", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/automation_overview.md"
+---
+
 - Describe what automations are and their general purpose.
 - Explain various types of automations and give examples for each.
 - Discuss the benefits of using automations in different industries, such as marketing, manufacturing, and customer service.

@@ -1,3 +1,11 @@
+---
+title: "Social Media Strategy for Law Firms"
+tags: ["Legal", "Marketing", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_strategy_for_law_firms.md"
+---
+
 - You are assisting a law firm based in Cape Town, South Africa, to improve the visibility of their social media pages across all platforms.
 - Provide a comprehensive strategy for enhancing social media visibility, specifically for a law firm, taking into consideration the legal industry context, potential audience, and relevant content.
 - Include suggestions for optimizing profiles on major platforms like Facebook, Twitter, LinkedIn, and Instagram.

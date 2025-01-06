@@ -1,3 +1,11 @@
+---
+title: "Strategic Plan for NGO"
+tags: ["Leadership", "Nonprofit", "Strategic Planning"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/strategic_plan_for_ngo.md"
+---
+
 Create a comprehensive strategic plan for a Non-Governmental Organization (NGO) over a 5-year period. The plan should include:
 
 - **Reorganization Strategy:**

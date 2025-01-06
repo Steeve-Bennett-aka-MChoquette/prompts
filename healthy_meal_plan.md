@@ -1,3 +1,11 @@
+---
+title: "Healthy Meal Plan"
+tags: ["Cooking Recipes", "Diet", "Health"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/healthy_meal_plan.md"
+---
+
 Develop a detailed plan for creating healthy meals based on specified foods. Consider the following aspects:
 
 - **Provide a variety of meal ideas** for breakfast, lunch, dinner, and snacks that incorporate the chosen foods, ensuring each meal is well-balanced and nutritious.

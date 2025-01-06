@@ -1,3 +1,11 @@
+---
+title: "Podcast Content Creation"
+tags: ["Content Creation", "Podcast", "SEO"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/podcast_content_creation.md"
+---
+
 Please create a series of content prompts specifically designed for podcast creation as part of a broader content plan and media strategy. The prompts should include:
 
 - **Content Ideas**: Suggest diverse podcast topics that are engaging and relevant to the target audience.

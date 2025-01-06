@@ -1,3 +1,11 @@
+---
+title: "AI-Powered Consumer Insights"
+tags: ["AI", "Market Research", "Marketing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/ai_powered_consumer_insights.md"
+---
+
 Create an in-depth content outline for an article on "AI-powered consumer insights: How FMCG leaders can stay ahead of the curve." Include the following key aspects:
 
 - Define AI-powered consumer insights and explain their significance in the Fast-Moving Consumer Goods (FMCG) sector.

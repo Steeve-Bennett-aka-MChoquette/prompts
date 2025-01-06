@@ -1,3 +1,11 @@
+---
+title: "Social Media Strategy for Animators"
+tags: ["Content Creation", "Music", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/social_media_strategy_for_animators.md"
+---
+
 Create a comprehensive strategy to help an animator specializing in music videos attract more musicians and potential clients to their social media platforms, particularly Instagram and TikTok. Include the following elements in your response:
 
 - **Content Strategy**: Suggest types of content that appeal to musicians and showcase animation skills effectively. Consider incorporating behind-the-scenes footage, timelapse animations, and client testimonials.

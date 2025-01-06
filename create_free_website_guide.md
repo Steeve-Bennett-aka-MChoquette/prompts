@@ -1,3 +1,11 @@
+---
+title: "Create Free Website Guide"
+tags: ["Content Creation", "SEO", "Web Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_free_website_guide.md"
+---
+
 Create a detailed guide on how to create a free website. Include the following sub-tasks in your response:
 
 - Overview of free website-building platforms.

@@ -1,3 +1,11 @@
+---
+title: "Edit Kids Fantasy Book"
+tags: ["Content Creation", "Proofreading", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/edit_kids_fantasy_book.md"
+---
+
 I need help editing my new kids' fantasy book for 8+ year olds. Here are the specific tasks I need you to perform:
 
 - Spell-check the text, ensuring the spelling follows UK English conventions.

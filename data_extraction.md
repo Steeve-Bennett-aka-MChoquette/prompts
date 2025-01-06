@@ -1,3 +1,11 @@
+---
+title: "Data Extraction"
+tags: ["Data Cleaning", "Data Extraction", "Web Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/data_extraction.md"
+---
+
 Here is the ChatGPT prompt:
 
 "Please perform the following tasks:

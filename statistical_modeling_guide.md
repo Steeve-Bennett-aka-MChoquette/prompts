@@ -1,3 +1,11 @@
+---
+title: "Statistical Modeling Guide"
+tags: ["Data", "Data Science", "Statistics"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/statistical_modeling_guide.md"
+---
+
 Create a comprehensive guide for learning statistical modeling with examples, addressing the following components:
 
 - **Introduction to Statistical Modeling:**

@@ -1,3 +1,11 @@
+---
+title: "Interview Strategies"
+tags: ["Career Advice", "Job Interview", "Networking"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/interview_strategies.md"
+---
+
 - You are preparing to meet with the director of World Seas Shipping Services to win a job opportunity. Please help me with strategies for this meeting.
 - Provide tips on how to research and understand the company’s objectives, culture, and the shipping industry trends that might be relevant for the meeting.
 - Offer guidance on how to articulate and present my skills and experiences in a way that aligns with the company’s needs.

@@ -1,3 +1,11 @@
+---
+title: "Analyze TikTok Dream Life"
+tags: ["Personal Brand", "Social Media", "TikTok"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_tiktok_dream_life.md"
+---
+
 - Analyze the concept of a "dream life" as seen on TikTok.
 - Compare and contrast this concept to similar ones found elsewhere, such as on websites or other social media platforms.
 - Explain why there might be a disparity between the content available on TikTok and the website.

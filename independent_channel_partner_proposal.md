@@ -1,3 +1,11 @@
+---
+title: "Independent Channel Partner Proposal"
+tags: ["Career Change", "Entrepreneur", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/independent_channel_partner_proposal.md"
+---
+
 Draft a proposal to your bosses at Healthbridge South Africa to become an independent channel partner, managing the 100 clients in the Garden Route and Eastern Cape as you transition from your current role to starting your own business. Use the following structure for the proposal:
 
 - **Introduction:** Briefly introduce yourself and your current role at Healthbridge South Africa.

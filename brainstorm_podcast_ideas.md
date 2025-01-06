@@ -1,3 +1,11 @@
+---
+title: "Brainstorm Podcast Ideas"
+tags: ["Brainstorm", "Content Creation", "Podcast"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/brainstorm_podcast_ideas.md"
+---
+
 Generate out of the box ideas for a podcast. Consider the following aspects:
 
 1. **Unique Themes and Topics:**

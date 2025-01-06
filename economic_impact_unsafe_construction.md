@@ -1,3 +1,11 @@
+---
+title: "Economic Impact of Unsafe Construction Practices"
+tags: ["Economics", "Research", "Safety"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/economic_impact_unsafe_construction.md"
+---
+
 - Examine the economic impacts of unsafe construction practices in Kenya. 
 - Discuss the financial repercussions, including direct and indirect financial losses, that result from such practices.
 - Analyze how unsafe practices can affect project timelines, leading to delays and increased costs.

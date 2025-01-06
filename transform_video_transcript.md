@@ -1,3 +1,11 @@
+---
+title: "Transform Video Transcript"
+tags: ["Coaching", "Content Creation", "Courses"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/transform_video_transcript.md"
+---
+
 **ChatGPT Prompt:**
 
 You are tasked with transforming a video transcript into a comprehensive learning tool that serves multiple purposes. Start with the copywriting video transcript:

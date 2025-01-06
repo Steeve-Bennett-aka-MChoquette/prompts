@@ -1,3 +1,11 @@
+---
+title: "Crafting Your Dating Story"
+tags: ["Relationships", "Self-Improvement", "Story Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/crafting_your_dating_story.md"
+---
+
 Create a comprehensive guide to help me craft a story about my journey in the dating scene, focusing on the lessons I've learned. Specifically, I'd like the guidance to include:
 
 - **Structure of the Story**: Offer suggestions on how to structure the story effectively, including a captivating introduction, body, and conclusion. Include tips on how to weave in personal experiences and lessons.

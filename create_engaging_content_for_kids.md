@@ -1,3 +1,11 @@
+---
+title: "Create Engaging Content for Kids"
+tags: ["Childcare", "Education", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_engaging_content_for_kids.md"
+---
+
 Create content that engages and educates children under the age of 10. Keep the following guidelines in mind:
 
 - **Content Style**: Use simple and clear language to ensure comprehension. Incorporate engaging storytelling techniques, such as characters or narratives, to captivate the young audience.

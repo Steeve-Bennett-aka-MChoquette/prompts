@@ -1,3 +1,11 @@
+---
+title: "Professional Reference Letter Guidance"
+tags: ["Career Advice", "HR", "Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/professional_reference_letter_guidance.md"
+---
+
 - "I need to write a professional reference for a staff member. Please help me by outlining the key components of an effective reference letter. 
 - Include guidelines on tone, length, and structure.
 - Offer tips on expressing the staff member's skills, achievements, work ethic, and impact on the organization effectively.

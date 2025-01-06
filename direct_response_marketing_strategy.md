@@ -1,3 +1,11 @@
+---
+title: "Direct Response Marketing Strategy"
+tags: ["Marketing", "Networking", "Small Business"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/direct_response_marketing_strategy.md"
+---
+
 - Create a comprehensive plan to become the number one direct response marketer specializing in owner-operated businesses.
 - Outline the key skills and knowledge areas required for excellence in direct response marketing, specifically targeting owner-operated businesses.
 - Identify effective strategies and tools used in direct response marketing that cater to the unique needs and characteristics of owner-operated businesses.

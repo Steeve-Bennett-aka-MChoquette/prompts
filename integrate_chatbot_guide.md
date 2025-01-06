@@ -1,3 +1,11 @@
+---
+title: "Integrate Chatbot Guide"
+tags: ["AI", "Chatbots", "Web Development"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/integrate_chatbot_guide.md"
+---
+
 Create a detailed and comprehensive guide for integrating a custom GPT-like chatbot into a website. Your response should include:
 
 - A list of tools and platforms suitable for creating a custom GPT that can be embedded into a website. Explain the pros and cons of each tool.

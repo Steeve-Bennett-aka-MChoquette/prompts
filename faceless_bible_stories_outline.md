@@ -1,3 +1,11 @@
+---
+title: "Faceless Bible Stories Outline"
+tags: ["Content Creation", "Religion", "Story Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/faceless_bible_stories_outline.md"
+---
+
 - Create a comprehensive outline for faceless animated Bible stories suitable for a YouTube channel. Consider how to make the stories engaging even without facial expressions.
 - Identify key Bible stories that would be well-suited for animation and list them.
 - Describe the animation style that would effectively convey emotions and actions without using facial features. Consider elements like body language, movement, color, and background.

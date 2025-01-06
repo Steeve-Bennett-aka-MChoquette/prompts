@@ -1,3 +1,11 @@
+---
+title: "Analyze Textbook Summary"
+tags: ["Analyze Text", "Books", "Summary"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_textbook_summary.md"
+---
+
 - Analyze and summarize a specific textbook: "Theoretical Basis for Nursing" by Melanie McEwen and Evelyn M. Willis, 6th Edition.
 - Focus on breaking down the text by chapters, and potentially by page numbers, if that granularity is available.
 - Provide a clear summary of the chapter, identifying and highlighting the most critical points.

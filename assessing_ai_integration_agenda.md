@@ -1,3 +1,11 @@
+---
+title: "Assessing AI Integration Agenda"
+tags: ["AI", "Meetings", "Technology"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/assessing_ai_integration_agenda.md"
+---
+
 Create an initial meeting agenda to assess the feasibility of integrating AI into a current workflow within a professional services firm. Your response should cover the following:
 
 - Identify the current workflow and highlight the key processes and challenges within it.

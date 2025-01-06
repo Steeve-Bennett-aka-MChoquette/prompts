@@ -1,3 +1,11 @@
+---
+title: "Analyze Data Breaches"
+tags: ["Analyze Text", "Cybersecurity", "Data Science"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_data_breaches.md"
+---
+
 I need assistance with an email address. Please follow these instructions:
 
 - Verify if this email address has been mentioned in any publicly available data breaches.

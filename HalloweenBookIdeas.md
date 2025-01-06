@@ -1,3 +1,11 @@
+---
+title: "HalloweenBookIdeas.md"
+tags: ["Books", "Halloween", "Story Writing"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/HalloweenBookIdeas.md"
+---
+
 Create a list of 12 Halloween-themed book ideas targeted at teenagers with a brooding and introspective nature. Consider incorporating elements that would appeal to their interest in darker, more complex narratives. Each book idea should include:
 
 - A compelling and unique title.

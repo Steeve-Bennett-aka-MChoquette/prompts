@@ -1,3 +1,11 @@
+---
+title: "Summarize Study Guide"
+tags: ["Education", "Research", "Study Guides"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/summarize_study_guide.md"
+---
+
 - Use the information or files provided to extract accurate and relevant details needed to complete a study guide. 
 - If the necessary information is not provided, research using accurate, reliable, and cited sources to gather the required data.
 - Organize and fill in all the sections of the study guide with the gathered information.

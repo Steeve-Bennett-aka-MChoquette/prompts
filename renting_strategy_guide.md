@@ -1,3 +1,11 @@
+---
+title: "Renting Strategy Guide"
+tags: ["Marketing", "Real Estate", "Rental Tips"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/renting_strategy_guide.md"
+---
+
 Create a comprehensive strategy to rent out my apartment for both long-term and short-term periods. Address the following sub-tasks within your guidance:
 
 - **Attractions and Hooks**: Develop compelling listings and highlight unique selling points of the apartment to attract potential renters. Consider attributes such as the apartment's location, amenities, nearby attractions, and any additional perks or unique features.

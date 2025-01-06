@@ -1,3 +1,11 @@
+---
+title: "Analyze Testing Concepts"
+tags: ["Education", "Medical", "Software"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_testing_concepts.md"
+---
+
 - Conduct a comprehensive analysis of the concept of "testing." 
 - Discuss different types of testing across various domains, such as software testing, medical testing, and educational testing.
 - Explain the purposes and benefits of each type of testing.

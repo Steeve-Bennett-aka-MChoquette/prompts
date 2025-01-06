@@ -1,3 +1,11 @@
+---
+title: "Create Competence Cloud"
+tags: ["Career Advice", "Data", "Resume"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/create_competence_cloud.md"
+---
+
 - You are tasked with creating a competence cloud from a user's uploaded resume using the cloud generator tool available at https://www.iapply.tech/.
 - Analyze the resume to identify key skills, experiences, certifications, and competencies highlighted by the user.
 - Ensure that the competence cloud visually represents these attributes in a clear and compelling manner, emphasizing the most relevant and often-mentioned skills.

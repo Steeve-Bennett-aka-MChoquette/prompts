@@ -1,3 +1,11 @@
+---
+title: "Digital Marketing Course Outline"
+tags: ["Digital Marketing", "E-commerce", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/digital_marketing_course_outline.md"
+---
+
 Create a comprehensive outline for a digital marketing course focused on launching and automating an online business. The course is divided into the following sections and lessons:
 
 **Launch Kit For Your Online Business:**

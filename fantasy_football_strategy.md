@@ -1,3 +1,11 @@
+---
+title: "Fantasy Football Strategy"
+tags: ["Games", "Sports", "Strategy"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/fantasy_football_strategy.md"
+---
+
 Create a winning strategy for a fantasy football season and provide some creative team names that stand out. Ensure the strategy is detailed and covers all key aspects of fantasy football management, including player selection, drafting techniques, waiver wire strategies, and trade tips. Additionally, propose some fun and clever team names. 
 
 Here's the step-by-step breakdown:

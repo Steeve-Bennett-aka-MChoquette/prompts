@@ -1,3 +1,11 @@
+---
+title: "Explain Medical Test Results"
+tags: ["Health", "Medical", "Science"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/explain_medical_test_results.md"
+---
+
 Create a detailed explanation of medical test results at a 5th-grade reading level. The explanation should encompass various types of tests including:
 
 - MRI scans

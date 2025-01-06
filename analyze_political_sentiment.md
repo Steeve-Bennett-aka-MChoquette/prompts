@@ -1,3 +1,11 @@
+---
+title: "Analyze Political Sentiment"
+tags: ["Market Research", "Politics", "Social Media"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/analyze_political_sentiment.md"
+---
+
 Analyze social media platforms Instagram and Facebook with a focus on Arubans to understand their perception of the political parties campaigning for the 2025 election in Aruba. Your task includes:
 
 1. Monitoring posts, comments, and any other relevant engagements about the political parties on both platforms.

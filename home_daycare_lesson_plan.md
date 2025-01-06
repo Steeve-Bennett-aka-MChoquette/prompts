@@ -1,3 +1,11 @@
+---
+title: "Home Daycare Lesson Plan"
+tags: ["Childcare", "Education", "Parenting"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/home_daycare_lesson_plan.md"
+---
+
 Create a lesson plan for a home daycare center that can be adapted for multiple age groups, from infants to children aged 5. Consider the following components for the lesson plan:
 
 1. **Themes and Topics**  

@@ -1,3 +1,11 @@
+---
+title: "Strategies for Clearing Creditors' Debit Balances"
+tags: ["Accounting", "Debt Management", "Finance"]
+type: "text"
+created: "January 6, 2025 8:01 AM"
+url: "https://github.com/Steeve-Bennett-aka-MChoquette/prompts/blob/main/strategies_for_clearing_creditors_debit_balances.md"
+---
+
 Create a comprehensive strategy for clearing creditors' debit balances. Address the following components:
 
 - Define what creditors' debit balances are and explain their significance in accounting and finance.
