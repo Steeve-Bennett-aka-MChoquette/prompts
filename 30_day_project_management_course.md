@@ -1,4 +1,14 @@
 ---
+title: 30_day_project_management_course
+description: 
+published: true
+date: 2025-01-06T19:38:35.228Z
+tags: 
+editor: markdown
+dateCreated: 2025-01-06T12:23:55.999Z
+---
+
+---
 title: "30 Day Project Management Course"
 tags: ["Courses", "Project Management", "Training"]
 type: "text"
